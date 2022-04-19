@@ -312,7 +312,8 @@
             android:background="#fff"
             app:layout_constraintEnd_toEndOf="@+id/imageView20"
             app:layout_constraintStart_toStartOf="@+id/imageView20"
-            app:layout_constraintTop_toBottomOf="@+id/textView10" />
+            app:layout_constraintTop_toBottomOf="@+id/textView10"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
 
         <ImageView
             android:id="@+id/imageView21"
@@ -344,6 +345,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="12dp"
             android:ems="10"
+            android:hint="@string/Nom_Prenom"
             android:inputType="textPersonName"
             android:text=""
             app:layout_constraintEnd_toEndOf="parent"
@@ -381,13 +383,15 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="4dp"
+            android:autofillHints=""
             android:ems="10"
+            android:hint="@string/number2"
             android:inputType="phone"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.183"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/imageView22"
-            android:autofillHints="" />
+            tools:ignore="TouchTargetSizeCheck" />
 
         <ImageView
             android:id="@+id/imageView23"
