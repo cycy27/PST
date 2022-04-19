@@ -146,7 +146,7 @@
         android:id="@+id/imageButton14"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="124dp"
+        android:layout_marginTop="60dp"
         android:backgroundTint="#FBFAFA"
         android:contentDescription="@string/check_"
         app:layout_constraintEnd_toEndOf="parent"

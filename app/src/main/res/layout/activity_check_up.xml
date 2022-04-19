@@ -29,7 +29,7 @@
         android:foregroundTint="#272020"
         android:text="@string/check_"
         android:textAlignment="center"
-        android:textColor="#0B0505"
+        android:textColor="#EC1010"
         android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -51,7 +51,8 @@
         app:layout_constraintTop_toTopOf="@id/barDesTachesnm2"
         app:layout_constraintVertical_bias="0.971"
         app:srcCompat="@drawable/checkicon"
-        tools:ignore="DuplicateSpeakableTextCheck" />
+        tools:ignore="DuplicateSpeakableTextCheck"
+        app:tint="#EC1010" />
 
     <ImageButton
         android:id="@+id/imagebuttonhome"
@@ -196,7 +197,7 @@
         app:layout_constraintHorizontal_bias="0.104"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton16"
-        app:layout_constraintVertical_bias="0.153"
+        app:layout_constraintVertical_bias="0.039"
         app:srcCompat="@drawable/group_4" />
 
     <ImageButton
