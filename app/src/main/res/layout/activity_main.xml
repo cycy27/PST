@@ -124,7 +124,7 @@
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton5"
-        app:layout_constraintVertical_bias="0.537"
+        app:layout_constraintVertical_bias="0.293"
         app:srcCompat="@drawable/sos" />
 
     <View
@@ -155,7 +155,8 @@
         app:layout_constraintTop_toTopOf="@+id/imageButton2"
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/homeicon"
-        tools:ignore="DuplicateSpeakableTextCheck" />
+        tools:ignore="DuplicateSpeakableTextCheck"
+        app:tint="#EC1010" />
 
     <ImageButton
         android:id="@+id/imageButton2"
@@ -165,10 +166,10 @@
         android:contentDescription="@string/check_up"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintHorizontal_bias="0.501"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/BarDesTaches"
-        app:layout_constraintVertical_bias="0.6"
+        app:layout_constraintVertical_bias="0.36"
         app:srcCompat="@drawable/checkicon" />
 
     <ImageButton
