@@ -6,82 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".Check_up">
 
-    <ImageButton
-        android:id="@+id/imageButton15"
-        android:layout_width="63dp"
-        android:layout_height="61dp"
-        android:layout_marginEnd="60dp"
-        android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/todo"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toEndOf="@+id/buttoncheckup"
-        app:layout_constraintTop_toTopOf="@+id/barDesTachesnm2"
-        app:layout_constraintVertical_bias="1.0"
-        app:srcCompat="@drawable/personal_list"
-        tools:ignore="DuplicateSpeakableTextCheck" />
-
-    <TextView
-        android:id="@+id/textcheck3"
-        android:layout_width="55dp"
-        android:layout_height="16dp"
-        android:foregroundTint="#272020"
-        android:text="@string/check_"
-        android:textAlignment="center"
-        android:textColor="#0B0505"
-        android:textSize="12sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/buttoncheckup"
-        app:layout_constraintVertical_bias="1.0" />
-
-    <ImageButton
-        android:id="@+id/buttoncheckup"
-        android:layout_width="60dp"
-        android:layout_height="48dp"
-        android:layout_marginBottom="16dp"
-        android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/check_up"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.504"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@id/barDesTachesnm2"
-        app:layout_constraintVertical_bias="0.971"
-        app:srcCompat="@drawable/checkicon"
-        tools:ignore="DuplicateSpeakableTextCheck" />
-
-    <ImageButton
-        android:id="@+id/imagebuttonhome"
-        android:layout_width="60dp"
-        android:layout_height="58dp"
-        android:layout_marginStart="56dp"
-        android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/home"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/buttoncheckup"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@id/barDesTachesnm2"
-        app:layout_constraintVertical_bias="0.6"
-        app:srcCompat="@drawable/homeicon"
-        tools:ignore="DuplicateSpeakableTextCheck,TouchTargetSizeCheck" />
-
-    <View
-        android:id="@+id/barDesTachesnm2"
-        android:layout_width="409dp"
-        android:layout_height="1dp"
-        android:layout_marginTop="28dp"
-        android:layout_marginBottom="76dp"
-        android:background="?android:attr/listDivider"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/imagebuttonhome"
-        app:layout_constraintVertical_bias="1.0" />
-
     <ImageView
         android:id="@+id/imageView4"
         android:layout_width="34dp"
@@ -132,7 +56,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/home"
+        android:contentDescription="@string/Goback"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.03"
@@ -147,7 +71,7 @@
         android:layout_width="52dp"
         android:layout_height="48dp"
         android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/home"
+        android:contentDescription="@string/todo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.93"
@@ -161,7 +85,7 @@
         android:layout_width="161dp"
         android:layout_height="141dp"
         android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/app_name"
+        android:contentDescription="@string/heartrate"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.104"
@@ -176,7 +100,7 @@
         android:layout_width="179dp"
         android:layout_height="141dp"
         android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/app_name"
+        android:contentDescription="@string/temperature"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.931"
@@ -190,13 +114,13 @@
         android:layout_width="161dp"
         android:layout_height="141dp"
         android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/app_name"
+        android:contentDescription="@string/sp02"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.104"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton16"
-        app:layout_constraintVertical_bias="0.153"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.547"
         app:srcCompat="@drawable/group_4" />
 
     <ImageButton
@@ -204,12 +128,12 @@
         android:layout_width="179dp"
         android:layout_height="139dp"
         android:backgroundTint="#FFFDFD"
-        android:contentDescription="@string/app_name"
+        android:contentDescription="@string/BloodPressure"
         app:layout_constraintBottom_toTopOf="@+id/imageView2"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.644"
-        app:layout_constraintStart_toEndOf="@+id/imageButton18"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton17"
-        app:layout_constraintVertical_bias="0.576"
+        app:layout_constraintHorizontal_bias="0.931"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.973"
         app:srcCompat="@drawable/group_5" />
 </androidx.constraintlayout.widget.ConstraintLayout>

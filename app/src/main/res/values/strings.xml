@@ -12,4 +12,15 @@
     <string name="todo">TODO</string>
     <string name="todo">TODO</string>
     <string name="todo">TODO</string>
+    <string name="autoeval">auto_eval</string>
+    <string name="History_">History</string>
+    <string name="SOS">sos</string>
+    <string name="Goback">goback</string>
+    <string name="consultdoc">consultdoc</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="heartrate">HeartRate</string>
+    <string name="temperature">temperature</string>
+    <string name="sp02">sp02</string>
+    <string name="BloodPressure">bloodpressure</string>
 </resources>

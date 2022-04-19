@@ -73,7 +73,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FAFAFA"
-        android:contentDescription="@string/todo"
+        android:contentDescription="@string/autoeval"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.428"
@@ -88,7 +88,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/todo"
+        android:contentDescription="@string/portfolio"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.428"
@@ -103,7 +103,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/check_up"
+        android:contentDescription="@string/History_"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.428"
@@ -118,7 +118,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/todo"
+        android:contentDescription="@string/SOS"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
@@ -126,79 +126,5 @@
         app:layout_constraintTop_toBottomOf="@+id/imageButton5"
         app:layout_constraintVertical_bias="0.537"
         app:srcCompat="@drawable/sos" />
-
-    <View
-        android:id="@+id/BarDesTaches"
-        android:layout_width="409dp"
-        android:layout_height="1dp"
-        android:layout_marginTop="28dp"
-        android:background="?android:attr/listDivider"
-        android:backgroundTint="#2C0909"
-        android:foregroundTint="#FAF9F9"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton6"
-        app:layout_constraintVertical_bias="0.0" />
-
-    <ImageButton
-        android:id="@+id/imageButton"
-        android:layout_width="60dp"
-        android:layout_height="58dp"
-        android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/home"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/imageButton2"
-        app:layout_constraintHorizontal_bias="0.44"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/imageButton2"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/homeicon"
-        tools:ignore="DuplicateSpeakableTextCheck" />
-
-    <ImageButton
-        android:id="@+id/imageButton2"
-        android:layout_width="60dp"
-        android:layout_height="48dp"
-        android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/check_up"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.507"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/BarDesTaches"
-        app:layout_constraintVertical_bias="0.6"
-        app:srcCompat="@drawable/checkicon" />
-
-    <ImageButton
-        android:id="@+id/imageButton7"
-        android:layout_width="63dp"
-        android:layout_height="61dp"
-        android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/todo"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.53"
-        app:layout_constraintStart_toEndOf="@+id/imageButton2"
-        app:layout_constraintTop_toTopOf="@+id/BarDesTaches"
-        app:layout_constraintVertical_bias="0.817"
-        app:srcCompat="@drawable/personal_list" />
-
-    <TextView
-        android:id="@+id/textcheck"
-        android:layout_width="55dp"
-        android:layout_height="16dp"
-        android:foregroundTint="#272020"
-        android:text="@string/check_"
-        android:textAlignment="center"
-        android:textColor="#0B0505"
-        android:textSize="12sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/imageButton7"
-        app:layout_constraintHorizontal_bias="0.496"
-        app:layout_constraintStart_toEndOf="@+id/imageButton"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton2"
-        app:layout_constraintVertical_bias="0.0" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
