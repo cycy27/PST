@@ -23,10 +23,11 @@
 
     <Button
         android:id="@+id/loginbutton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:backgroundTint="@color/rose_200"
         android:text="Login"
-        android:textColor="#FFFFFF"
+        android:textColor="#383C3D"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -36,9 +37,11 @@
 
     <Button
         android:id="@+id/registerbutton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:backgroundTint="@color/rose_200"
         android:text="Register"
+        android:textColor="#383C3D"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
