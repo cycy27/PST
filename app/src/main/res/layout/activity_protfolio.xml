@@ -7,7 +7,7 @@
     tools:context=".Protfolio">
 
     <View
-        android:id="@+id/barDesTachesnm"
+        android:id="@+id/barDesTachesnmm"
         android:layout_width="409dp"
         android:layout_height="1dp"
         android:layout_marginTop="28dp"
