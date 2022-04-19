@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Premiertry">
         <activity
+            android:name=".Profil"
+            android:exported="true" />
+        <activity
             android:name=".Protfolio"
             android:exported="false" />
         <activity
