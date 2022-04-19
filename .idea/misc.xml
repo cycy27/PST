@@ -10,14 +10,16 @@
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.191" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.191" />
         <entry key="app/src/main/res/layout/activity_check_up.xml" value="0.3421875" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1828125" />
-        <entry key="app/src/main/res/layout/activity_profil.xml" value="0.34260429835651074" />
-        <entry key="app/src/main/res/layout/activity_protfolio.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/profil.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="app/src/main/res/layout/activity_profil.xml" value="0.18697916666666667" />
+        <entry key="app/src/main/res/layout/activity_protfolio.xml" value="0.18697916666666667" />
+        <entry key="app/src/main/res/layout/activity_welcome1.xml" value="0.32175903320312504" />
+        <entry key="app/src/main/res/layout/activity_welcome2.xml" value="0.2421875" />
+        <entry key="app/src/main/res/layout/activity_welcome3.xml" value="0.228125" />
         <entry key="other/premiertry/app/src/main/res/layout/activity_check_up.xml" value="0.35733695652173914" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>
