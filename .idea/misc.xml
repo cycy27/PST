@@ -5,6 +5,11 @@
       <map>
         <entry key="app/src/main/res/layout/activity_check_up.xml" value="0.3421875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="app/src/main/res/layout/activity_profil.xml" value="0.18697916666666667" />
+        <entry key="app/src/main/res/layout/activity_protfolio.xml" value="0.18697916666666667" />
+        <entry key="app/src/main/res/layout/activity_welcome1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_welcome2.xml" value="0.2421875" />
+        <entry key="app/src/main/res/layout/activity_welcome3.xml" value="0.228125" />
         <entry key="other/premiertry/app/src/main/res/layout/activity_check_up.xml" value="0.35733695652173914" />
       </map>
     </option>
