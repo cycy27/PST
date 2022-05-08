@@ -273,9 +273,10 @@
         <Spinner
             android:id="@+id/spinner2"
             android:layout_width="60dp"
-            android:layout_height="20dp"
+            android:layout_height="48dp"
             android:layout_marginTop="12dp"
             android:background="#fff"
+            android:contentDescription="@string/edit"
             app:layout_constraintEnd_toEndOf="@+id/imageView19"
             app:layout_constraintStart_toStartOf="@+id/imageView19"
             app:layout_constraintTop_toBottomOf="@+id/textView9" />
@@ -347,6 +348,7 @@
             android:ems="10"
             android:hint="@string/Nom_Prenom"
             android:inputType="textPersonName"
+            android:minHeight="48dp"
             android:text=""
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.183"
