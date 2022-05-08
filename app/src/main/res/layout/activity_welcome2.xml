@@ -8,24 +8,26 @@
     tools:context=".welcome2">
 
     <TextView
-        android:id="@+id/textView4"
-        android:layout_width="230dp"
-        android:layout_height="93dp"
-        android:text="Connect your watch by"
+        android:id="@+id/tittlew2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Connect your watch"
         android:textColor="#FCEFEF"
-        android:textSize="32dp"
+        android:textSize="32sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintHorizontal_bias="0.591"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.125" />
+        app:layout_constraintVertical_bias="0.129" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonqr"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="QR code"
+        android:backgroundTint="@color/rose_200"
+        android:textColor="#383C3D"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -34,10 +36,12 @@
         app:layout_constraintVertical_bias="0.597" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/buttonpsd"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Password"
+        android:backgroundTint="@color/rose_200"
+        android:textColor="#383C3D"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -63,10 +67,10 @@
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.079"
+        app:layout_constraintHorizontal_bias="0.048"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.161"
+        app:layout_constraintVertical_bias="0.194"
         app:srcCompat="@drawable/ellipse_10" />
 
     <ImageView
