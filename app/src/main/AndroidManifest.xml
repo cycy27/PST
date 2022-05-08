@@ -10,9 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Premiertry">
         <activity
+            android:name=".signin"
+            android:exported="false" />
+        <activity
             android:name=".Singup"
             android:exported="false" />
-
         <activity
             android:name=".welcome3"
             android:exported="false" />

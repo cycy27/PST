@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-45:12
+ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-47:12
 MERGED from [androidx.databinding:viewbinding:7.1.1] /Users/hanaelada/.gradle/caches/transforms-3/19b1e80809b0c583144dddf6cd68cae7/transformed/viewbinding-7.1.1/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.4.0] /Users/hanaelada/.gradle/caches/transforms-3/cf53bd8ec7c668980ed1494d0729c2d3/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hanaelada/.gradle/caches/transforms-3/cb4ebb4a18f7f637455ff305b9100826/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
@@ -43,25 +43,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hanaelada/.gradle/
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hanaelada/.gradle/caches/transforms-3/188194eaa07a6d35d237de0dd9b6ac24/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/hanaelada/.gradle/caches/transforms-3/17156df85410c057d296e1b383c94b8c/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/hanaelada/.gradle/caches/transforms-3/7a595d4ea8d4a0731ece32cd0013b8f1/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-47:12
 	package
 		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-45:12
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-47:12
 		INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-45:12
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:1-47:12
 		INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:5:5-43:19
+ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:5:5-45:19
 MERGED from [com.google.android.material:material:1.4.0] /Users/hanaelada/.gradle/caches/transforms-3/cf53bd8ec7c668980ed1494d0729c2d3/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /Users/hanaelada/.gradle/caches/transforms-3/cf53bd8ec7c668980ed1494d0729c2d3/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hanaelada/.gradle/caches/transforms-3/cb4ebb4a18f7f637455ff305b9100826/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
@@ -84,64 +84,70 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hana
 		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:11:9-48
-activity#com.example.premiertry.Singup
+activity#com.example.premiertry.signin
 ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:12:9-14:40
 	android:exported
 		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:14:13-37
 	android:name
 		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:13:13-35
-activity#com.example.premiertry.welcome3
-ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:16:9-18:40
+activity#com.example.premiertry.Singup
+ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:18:13-37
-	android:name
 		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:17:13-37
-activity#com.example.premiertry.welcome2
-ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:19:9-21:40
-	android:exported
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:21:13-37
 	android:name
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:16:13-35
+activity#com.example.premiertry.welcome3
+ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:18:9-20:40
+	android:exported
 		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:20:13-37
-activity#com.example.premiertry.welcome1
-ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:22:9-24:40
-	android:exported
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:24:13-37
 	android:name
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:19:13-37
+activity#com.example.premiertry.welcome2
+ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:21:9-23:40
+	android:exported
 		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:22:13-37
+activity#com.example.premiertry.welcome1
+ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:25:13-37
 activity#com.example.premiertry.Profil
-ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:25:9-27:39
+ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:27:9-29:39
 	android:exported
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:27:13-36
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:29:13-36
 	android:name
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:26:13-35
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:28:13-35
 activity#com.example.premiertry.Protfolio
-ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:28:9-30:40
+ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:30:9-32:40
 	android:exported
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:30:13-37
-	android:name
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:29:13-38
-activity#com.example.premiertry.Check_up
-ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:31:9-33:40
-	android:exported
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:33:13-37
-	android:name
 		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:32:13-37
-activity#com.example.premiertry.MainActivity
-ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:34:9-42:20
+	android:name
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:31:13-38
+activity#com.example.premiertry.Check_up
+ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:33:9-35:40
 	android:exported
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:36:13-36
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:35:13-41
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:34:13-37
+activity#com.example.premiertry.MainActivity
+ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:36:9-44:20
+	android:exported
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:37:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:37:13-41:29
+ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:38:17-69
+ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:38:25-66
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:40:17-77
+ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:40:27-74
+		ADDED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:42:27-74
 uses-sdk
 INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml

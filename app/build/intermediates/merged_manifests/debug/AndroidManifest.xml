@@ -19,6 +19,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Premiertry" >
         <activity
+            android:name="com.example.premiertry.signin"
+            android:exported="false" />
+        <activity
             android:name="com.example.premiertry.Singup"
             android:exported="false" />
         <activity
