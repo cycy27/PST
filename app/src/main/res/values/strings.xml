@@ -1,6 +1,7 @@
 <resources>
 
 
+    <string name="app_name">PST</string>
     <string name="check_up">Check-up</string>
 
     <string name="check_">check-up</string>
