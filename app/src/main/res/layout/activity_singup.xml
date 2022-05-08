@@ -21,11 +21,12 @@
         app:layout_constraintVertical_bias="0.06" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName2"
+        android:id="@+id/namesu"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
+        android:minHeight="48dp"
         android:text="Name:"
         android:textColor="#7A2328"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -36,11 +37,12 @@
         app:layout_constraintVertical_bias="0.158" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName3"
+        android:id="@+id/emailpersonsu"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
+        android:minHeight="48dp"
         android:text="Email:"
         android:textColor="#7A2328"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -51,11 +53,12 @@
         app:layout_constraintVertical_bias="0.258" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName4"
+        android:id="@+id/pswd"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
+        android:minHeight="48dp"
         android:text="Password:"
         android:textColor="#7A2328"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -66,11 +69,12 @@
         app:layout_constraintVertical_bias="0.361" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName5"
+        android:id="@+id/confirmpswd"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
+        android:minHeight="48dp"
         android:text="Confirm password:"
         android:textColor="#7A2328"
         app:layout_constraintBottom_toBottomOf="parent"

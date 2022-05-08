@@ -11,7 +11,7 @@
         android:id="@+id/tittlew2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/Titre_page_2"
+        android:text="Connect your watch"
         android:textColor="#FCEFEF"
         android:textSize="32sp"
         app:layout_constraintBottom_toBottomOf="parent"
