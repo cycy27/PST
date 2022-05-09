@@ -11,11 +11,11 @@
 9-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:5:5-45:19
+11-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:5:5-48:19
 12        android:allowBackup="true"
 12-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.5.0] /Users/hanaelada/.gradle/caches/transforms-3/b1fe9740f6c86f0b7649a763c3bf2b85/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.5.0] /Users/hanaelada/.gradle/caches/transforms-3/aa42d6511391bf20cfbff676cbf7b46a/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
 15-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:7:9-43
@@ -30,69 +30,132 @@
 20-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:11:9-48
 21        <activity
 21-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:12:9-14:40
-22            android:name="com.example.premiertry.Signin"
-22-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:13:13-35
+22            android:name="com.example.premiertry.Sos"
+22-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:13:13-32
 23            android:exported="false" />
 23-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:14:13-37
 24        <activity
 24-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:15:9-17:40
-25            android:name="com.example.premiertry.Singup"
+25            android:name="com.example.premiertry.Signin"
 25-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:16:13-35
 26            android:exported="false" />
 26-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:17:13-37
 27        <activity
 27-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:18:9-20:40
-28            android:name="com.example.premiertry.welcome3"
-28-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:19:13-37
+28            android:name="com.example.premiertry.Singup"
+28-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:19:13-35
 29            android:exported="false" />
 29-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:20:13-37
 30        <activity
 30-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:21:9-23:40
-31            android:name="com.example.premiertry.welcome2"
+31            android:name="com.example.premiertry.welcome3"
 31-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:22:13-37
 32            android:exported="false" />
 32-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:23:13-37
 33        <activity
 33-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:24:9-26:40
-34            android:name="com.example.premiertry.MainActivity"
-34-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:25:13-41
+34            android:name="com.example.premiertry.welcome2"
+34-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:25:13-37
 35            android:exported="false" />
 35-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:26:13-37
 36        <activity
-36-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:27:9-29:39
-37            android:name="com.example.premiertry.Profil"
-37-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:28:13-35
-38            android:exported="true" />
-38-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:29:13-36
+36-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:27:9-29:40
+37            android:name="com.example.premiertry.MainActivity"
+37-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:28:13-41
+38            android:exported="false" />
+38-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:29:13-37
 39        <activity
-39-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:30:9-32:40
-40            android:name="com.example.premiertry.Protfolio"
-40-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:31:13-38
-41            android:exported="false" />
-41-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:32:13-37
+39-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:30:9-32:39
+40            android:name="com.example.premiertry.Profil"
+40-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:31:13-35
+41            android:exported="true" />
+41-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:32:13-36
 42        <activity
 42-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:33:9-35:40
-43            android:name="com.example.premiertry.Check_up"
-43-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:34:13-37
+43            android:name="com.example.premiertry.Protfolio"
+43-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:34:13-38
 44            android:exported="false" />
 44-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:35:13-37
 45        <activity
-45-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:36:9-44:20
-46            android:name="com.example.premiertry.welcome1"
+45-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:36:9-38:40
+46            android:name="com.example.premiertry.Check_up"
 46-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:37:13-37
-47            android:exported="true" >
-47-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:38:13-36
-48            <intent-filter>
-48-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:39:13-43:29
-49                <action android:name="android.intent.action.MAIN" />
-49-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:40:17-69
-49-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:40:25-66
-50
-51                <category android:name="android.intent.category.LAUNCHER" />
-51-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:42:17-77
-51-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:42:27-74
-52            </intent-filter>
-53        </activity>
-54    </application>
-55
-56</manifest>
+47            android:exported="false" />
+47-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:38:13-37
+48        <activity
+48-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:39:9-47:20
+49            android:name="com.example.premiertry.welcome1"
+49-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:40:13-37
+50            android:exported="true" >
+50-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:41:13-36
+51            <intent-filter>
+51-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:42:13-46:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:43:17-69
+52-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:43:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:45:17-77
+54-->/Users/hanaelada/AndroidStudioProjects/PST123/app/src/main/AndroidManifest.xml:45:27-74
+55            </intent-filter>
+56        </activity>
+57        <activity
+57-->[com.google.firebase:firebase-auth:19.2.0] /Users/hanaelada/.gradle/caches/transforms-3/d352a9f6cd5efd5a2909f1bb089ae125/transformed/firebase-auth-19.2.0/AndroidManifest.xml:24:9-31:50
+58            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+58-->[com.google.firebase:firebase-auth:19.2.0] /Users/hanaelada/.gradle/caches/transforms-3/d352a9f6cd5efd5a2909f1bb089ae125/transformed/firebase-auth-19.2.0/AndroidManifest.xml:25:13-85
+59            android:excludeFromRecents="true"
+59-->[com.google.firebase:firebase-auth:19.2.0] /Users/hanaelada/.gradle/caches/transforms-3/d352a9f6cd5efd5a2909f1bb089ae125/transformed/firebase-auth-19.2.0/AndroidManifest.xml:26:13-46
+60            android:exported="true"
+60-->[com.google.firebase:firebase-auth:19.2.0] /Users/hanaelada/.gradle/caches/transforms-3/d352a9f6cd5efd5a2909f1bb089ae125/transformed/firebase-auth-19.2.0/AndroidManifest.xml:27:13-36
+61            android:launchMode="singleTask"
+61-->[com.google.firebase:firebase-auth:19.2.0] /Users/hanaelada/.gradle/caches/transforms-3/d352a9f6cd5efd5a2909f1bb089ae125/transformed/firebase-auth-19.2.0/AndroidManifest.xml:28:13-44
+62            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+62-->[com.google.firebase:firebase-auth:19.2.0] /Users/hanaelada/.gradle/caches/transforms-3/d352a9f6cd5efd5a2909f1bb089ae125/transformed/firebase-auth-19.2.0/AndroidManifest.xml:29:13-102
+63            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+63-->[com.google.firebase:firebase-auth:19.2.0] /Users/hanaelada/.gradle/caches/transforms-3/d352a9f6cd5efd5a2909f1bb089ae125/transformed/firebase-auth-19.2.0/AndroidManifest.xml:30:13-72
+64
+65        <service
+65-->[com.google.firebase:firebase-auth:19.2.0] /Users/hanaelada/.gradle/caches/transforms-3/d352a9f6cd5efd5a2909f1bb089ae125/transformed/firebase-auth-19.2.0/AndroidManifest.xml:33:9-39:19
+66            android:name="com.google.firebase.components.ComponentDiscoveryService"
+66-->[com.google.firebase:firebase-auth:19.2.0] /Users/hanaelada/.gradle/caches/transforms-3/d352a9f6cd5efd5a2909f1bb089ae125/transformed/firebase-auth-19.2.0/AndroidManifest.xml:34:13-84
+67            android:directBootAware="true"
+67-->[com.google.firebase:firebase-common:19.3.0] /Users/hanaelada/.gradle/caches/transforms-3/d8b19d39aff19e415308e5185377e63f/transformed/firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+68            android:exported="false" >
+68-->[com.google.firebase:firebase-auth:19.2.0] /Users/hanaelada/.gradle/caches/transforms-3/d352a9f6cd5efd5a2909f1bb089ae125/transformed/firebase-auth-19.2.0/AndroidManifest.xml:35:13-37
+69            <meta-data
+69-->[com.google.firebase:firebase-auth:19.2.0] /Users/hanaelada/.gradle/caches/transforms-3/d352a9f6cd5efd5a2909f1bb089ae125/transformed/firebase-auth-19.2.0/AndroidManifest.xml:36:13-38:85
+70                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+70-->[com.google.firebase:firebase-auth:19.2.0] /Users/hanaelada/.gradle/caches/transforms-3/d352a9f6cd5efd5a2909f1bb089ae125/transformed/firebase-auth-19.2.0/AndroidManifest.xml:37:17-109
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[com.google.firebase:firebase-auth:19.2.0] /Users/hanaelada/.gradle/caches/transforms-3/d352a9f6cd5efd5a2909f1bb089ae125/transformed/firebase-auth-19.2.0/AndroidManifest.xml:38:17-82
+72        </service>
+73
+74        <activity
+74-->[com.google.android.gms:play-services-base:17.1.0] /Users/hanaelada/.gradle/caches/transforms-3/4abd67e630e2672b6181f0eb7ebea932/transformed/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+75            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+75-->[com.google.android.gms:play-services-base:17.1.0] /Users/hanaelada/.gradle/caches/transforms-3/4abd67e630e2672b6181f0eb7ebea932/transformed/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+76            android:exported="false"
+76-->[com.google.android.gms:play-services-base:17.1.0] /Users/hanaelada/.gradle/caches/transforms-3/4abd67e630e2672b6181f0eb7ebea932/transformed/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+77-->[com.google.android.gms:play-services-base:17.1.0] /Users/hanaelada/.gradle/caches/transforms-3/4abd67e630e2672b6181f0eb7ebea932/transformed/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+78
+79        <provider
+79-->[com.google.firebase:firebase-common:19.3.0] /Users/hanaelada/.gradle/caches/transforms-3/d8b19d39aff19e415308e5185377e63f/transformed/firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+80            android:name="com.google.firebase.provider.FirebaseInitProvider"
+80-->[com.google.firebase:firebase-common:19.3.0] /Users/hanaelada/.gradle/caches/transforms-3/d8b19d39aff19e415308e5185377e63f/transformed/firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+81            android:authorities="com.example.premiertry.firebaseinitprovider"
+81-->[com.google.firebase:firebase-common:19.3.0] /Users/hanaelada/.gradle/caches/transforms-3/d8b19d39aff19e415308e5185377e63f/transformed/firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+82            android:exported="false"
+82-->[com.google.firebase:firebase-common:19.3.0] /Users/hanaelada/.gradle/caches/transforms-3/d8b19d39aff19e415308e5185377e63f/transformed/firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+83            android:initOrder="100" />
+83-->[com.google.firebase:firebase-common:19.3.0] /Users/hanaelada/.gradle/caches/transforms-3/d8b19d39aff19e415308e5185377e63f/transformed/firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+84
+85        <meta-data
+85-->[com.google.android.gms:play-services-basement:17.0.0] /Users/hanaelada/.gradle/caches/transforms-3/3778612464d221b5225e7cd469c61c21/transformed/play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+86            android:name="com.google.android.gms.version"
+86-->[com.google.android.gms:play-services-basement:17.0.0] /Users/hanaelada/.gradle/caches/transforms-3/3778612464d221b5225e7cd469c61c21/transformed/play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+87            android:value="@integer/google_play_services_version" />
+87-->[com.google.android.gms:play-services-basement:17.0.0] /Users/hanaelada/.gradle/caches/transforms-3/3778612464d221b5225e7cd469c61c21/transformed/play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+88    </application>
+89
+90</manifest>

@@ -29,5 +29,4 @@ public class Sos extends AppCompatActivity {
         startActivity(intent);
 
     }
-    }
 }
