@@ -10,7 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Premiertry">
         <activity
-            android:name=".signin"
+            android:name=".Sos"
+            android:exported="false" />
+        <activity
+            android:name=".Signin"
             android:exported="false" />
         <activity
             android:name=".Singup"
@@ -22,7 +25,7 @@
             android:name=".welcome2"
             android:exported="false" />
         <activity
-            android:name=".welcome1"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".Profil"
@@ -34,7 +37,7 @@
             android:name=".Check_up"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".welcome1"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

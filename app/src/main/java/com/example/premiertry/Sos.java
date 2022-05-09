@@ -7,26 +7,27 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class Singup extends AppCompatActivity {
-
-    private Button buttoncontinuesu;
+public class Sos extends AppCompatActivity {
+    private Button buttoncancel;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_singup);
+        setContentView(R.layout.activity_sos);
 
-        buttoncontinuesu = (Button) findViewById(R.id.buttoncontinuesu);
-        buttoncontinuesu.setOnClickListener(new View.OnClickListener (){
+        buttoncancel = (Button) findViewById(R.id.buttoncancel);
+        buttoncancel.setOnClickListener(new View.OnClickListener () {
             @Override
-            public void onClick(View v){
-                openwelcome3();
+            public void onClick(View v) {
+                openMainActivity();
             }
         });
-    }
 
-    public void openwelcome3(){
+    }
+    public void openMainActivity() {
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
+
+    }
     }
 }

@@ -23,11 +23,11 @@ public class welcome2 extends AppCompatActivity {
             }
         });
 
-
     }
     public void openwelcome3() {
         Intent intent = new Intent(this, welcome3.class);
         startActivity(intent);
 
     }
+
 }
