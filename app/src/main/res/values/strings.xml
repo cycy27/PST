@@ -40,4 +40,8 @@
     <string name="checkupbtn">checkupbutton</string>
     <string name="elipse0">elipse0</string>
     <string name="casa">casa</string>
+     <!-- BOTTOM NAVIGATION VIEW -->
+    <string name="bottom_navigation_menu_home">Home</string>
+    <string name="bottom_navigation_menu_checkup">Check-up</string>
+    <string name="bottom_navigation_menu_history">History</string>
 </resources>
