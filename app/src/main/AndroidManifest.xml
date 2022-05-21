@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.premiertry">
+    package="com.example.test">
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="test"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Premiertry">
+        android:theme="@style/Theme.Test">
+
+
         <activity
-            android:name=".Profil"
-            android:exported="true" />
+            android:name=".Autoevaluation"
+            android:exported="false"
+            android:label="@string/title_activity_autoevaluation"
+            android:theme="@style/Theme.Test.NoActionBar" />
         <activity
-            android:name=".Protfolio"
-            android:exported="false" />
-        <activity
-            android:name=".Check_up"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".History"
+            android:exported="true"
+            android:label="test">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

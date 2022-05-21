@@ -16,4 +16,5 @@
         android:icon="@drawable/baseline_ballot_24"
         android:title="@string/bottom_navigation_menu_history" />
 
+
 </menu>
