@@ -2,11 +2,11 @@
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".History"
-    android:id="@+id/container"
-    android:paddingTop="?attr/actionBarSize">
+    android:paddingTop="?attr/actionBarSize"
+    tools:context=".History">
 
 
     <!-- Add TextView to display the date -->
@@ -18,47 +18,51 @@
         android:id="@+id/date_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="24dp"
-        android:layout_marginTop="104dp"
         android:text="History"
         android:textColor="@android:color/background_dark"
         android:textSize="30sp"
         android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.118"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.115" />
 
     <CalendarView
         android:id="@+id/calendar"
-        android:layout_width="390dp"
-        android:layout_height="371dp"
+        android:layout_width="409dp"
+        android:layout_height="376dp"
         android:layout_marginTop="48dp"
         app:layout_constraintBottom_toTopOf="@+id/HelpButton"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.619"
+        app:layout_constraintHorizontal_bias="0.238"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/date_view"
-        app:layout_constraintVertical_bias="0.128"></CalendarView>
+        app:layout_constraintVertical_bias="0.0"></CalendarView>
 
     <ImageView
         android:id="@+id/BloodPicture"
         android:layout_width="140dp"
         android:layout_height="140dp"
-        android:layout_marginStart="132dp"
-        android:layout_marginTop="12dp"
         app:layout_constraintBottom_toTopOf="@+id/calendar"
-        app:layout_constraintStart_toEndOf="@+id/date_view"
-        app:layout_constraintTop_toBottomOf="@+id/MenuPicture"
-        app:layout_constraintVertical_bias="1.0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.856"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.16"
         app:srcCompat="@drawable/blood" />
 
     <ImageButton
         android:id="@+id/GoBackArrow"
         android:layout_width="48dp"
         android:layout_height="48dp"
-        android:layout_marginEnd="216dp"
-        android:layout_marginBottom="64dp"
-        app:layout_constraintBottom_toTopOf="@+id/date_view"
-        app:layout_constraintEnd_toStartOf="@+id/MenuPicture"
+        app:layout_constraintBottom_toBottomOf="@+id/include"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.123"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.002"
         app:srcCompat="@drawable/vec"
         tools:ignore="SpeakableTextPresentCheck" />
 
@@ -69,20 +73,11 @@
         android:layout_marginBottom="8dp"
         app:layout_constraintBottom_toTopOf="@+id/include"
         app:layout_constraintEnd_toStartOf="@+id/AddInfo"
-        app:layout_constraintHorizontal_bias="0.347"
+        app:layout_constraintHorizontal_bias="0.286"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/group_6"
-        tools:ignore="SpeakableTextPresentCheck" />
-
-    <ImageButton
-        android:id="@+id/MenuPicture"
-        android:layout_width="48dp"
-        android:layout_height="48dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.33"
-        app:layout_constraintStart_toStartOf="@+id/BloodPicture"
-        app:layout_constraintTop_toTopOf="@+id/GoBackArrow"
-        app:srcCompat="@drawable/menu"
         tools:ignore="SpeakableTextPresentCheck" />
 
     <ImageButton

@@ -3,7 +3,6 @@ package com.example.test;
 import java.io.*;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.annotation.NonNull;
-import com.example.Fragment.*;
 import com.example.test.ui.checkup.CheckupFragment;
 import com.example.test.ui.history.HistoryFragment;
 import com.example.test.ui.home.HomeFragment;
@@ -36,15 +35,15 @@ public class Bottom_navigation_controler extends AppCompatActivity implements Bo
 
         switch (item.getItemId()) {
             case R.id.navigation_checkup:
-                getSupportFragmentManager().beginTransaction().replace(R.id.container, checkupFragment).commit();
+                getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment_checkup).commit();
                 return true;
 
             case R.id.navigation_home:
-                getSupportFragmentManager().beginTransaction().replace(R.id.container, homeFragment).commit();
+                getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment_home).commit();
                 return true;
 
             case R.id.navigation_history:
-                getSupportFragmentManager().beginTransaction().replace(R.id.container, historyFragment).commit();
+                getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment_history).commit();
                 return true;
         }
         return false;
