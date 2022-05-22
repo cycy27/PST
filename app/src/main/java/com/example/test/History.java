@@ -10,6 +10,11 @@ import android.widget.CalendarView;
 import android.widget.ImageButton;
 import android.widget.Toast;
 import java.time.LocalDate;
+import androidx.navigation.NavController;
+import androidx.navigation.Navigation;
+import androidx.navigation.ui.AppBarConfiguration;
+import androidx.navigation.ui.NavigationUI;
+import com.example.test.databinding.ActivityMainBinding;
 
 
 import androidx.annotation.NonNull;
@@ -18,7 +23,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 
 public class History extends AppCompatActivity {
-
+    private ActivityMainBinding binding;
     CalendarView simpleCalendarView;
     ImageButton btn;
     ImageButton form;
@@ -26,6 +31,8 @@ public class History extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        binding = ActivityMainBinding.inflate(getLayoutInflater());
+        setContentView(binding.getRoot());
         setContentView(R.layout.element_bottom_navigation);
         setContentView(R.layout.activity_history);
         addListenerOnButtonClick();
@@ -46,29 +53,17 @@ public class History extends AppCompatActivity {
         // Set Home selected
         bottomNavigationView.setSelectedItemId(R.id.navigation_history);
 
-        // Perform item selected listener
-        bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
-            @Override
-            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
-                switch (item.getItemId()) {
-                    case R.id.navigation_home:
-                        startActivity(new Intent(getApplicationContext(), MainActivity.class));
-                        overridePendingTransition(0, 0);
-                        return true;
-                    case R.id.navigation_history:
-                        return true;
-                    case R.id.navigation_checkup:
-                        startActivity(new Intent(getApplicationContext(), Check_up.class));
-                        overridePendingTransition(0, 0);
-                        return true;
-                }
-                return false;
-            }
-        });
+
+            BottomNavigationView navView = findViewById(R.id.nav_host_fragment_activity_main);
+            // Passing each menu ID as a set of Ids because each
+            // menu should be considered as top level destinations.
+            AppBarConfiguration appBarConfiguration = new AppBarConfiguration.Builder(R.id.navigation_home, R.id.navigation_checkup, R.id.navigation_history).build();
+            NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_activity_main);
+            NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
+            NavigationUI.setupWithNavController(binding.navView, navController);
 
     }
-
     public void addListenerOnButtonClick() {
         btn = (ImageButton)findViewById(R.id.GoBackArrow);
         form = (ImageButton) findViewById(R.id.AddInfo);

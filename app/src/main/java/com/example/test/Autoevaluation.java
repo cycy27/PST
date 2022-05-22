@@ -17,6 +17,7 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
+import com.google.android.material.slider.LabelFormatter;
 import com.google.android.material.slider.Slider;
 
 
@@ -26,6 +27,7 @@ public class Autoevaluation extends AppCompatActivity {
     EditText editText;
     ImageButton btn;
     Slider.OnSliderTouchListener touchListener;
+    Slider slider;
 
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -48,7 +50,7 @@ public class Autoevaluation extends AppCompatActivity {
         editText = (EditText)findViewById(R.id.other);
         btn = (ImageButton)findViewById(R.id.GoBackArrow);
         buttonOrder = (Button) findViewById(R.id.button);
-        Slider slider = findViewById(R.id.slider);
+        slider = (Slider) findViewById(R.id.slider);
 
 
         btn.setOnClickListener(new View.OnClickListener() {
@@ -58,6 +60,8 @@ public class Autoevaluation extends AppCompatActivity {
                 finish();
             }
             });
+
+
 
         //Applying the Listener on the Button click
         buttonOrder.setOnClickListener(new View.OnClickListener() {
