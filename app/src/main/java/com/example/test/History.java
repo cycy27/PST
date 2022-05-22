@@ -14,66 +14,76 @@ import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
-import com.example.test.databinding.ActivityMainBinding;
+
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 
-import androidx.annotation.NonNull;
+import android.widget.TextView;
+
+import java.time.YearMonth;
+import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+
+import com.example.test.databinding.ActivityHistoryBinding;
+
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 
 public class History extends AppCompatActivity {
-    private ActivityMainBinding binding;
-    CalendarView simpleCalendarView;
+
+    private ActivityHistoryBinding binding;
+
     ImageButton btn;
-    ImageButton form;
+
+    private TextView monthYearText;
+    private RecyclerView calendarRecyclerView;
+    private LocalDate selectedDate;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        binding = ActivityMainBinding.inflate(getLayoutInflater());
+        binding = ActivityHistoryBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
-        setContentView(R.layout.element_bottom_navigation);
+
+        BottomNavigationView navView = findViewById(R.id.nav_host_fragment_activity_main);
+        // Passing each menu ID as a set of Ids because each
+        // menu should be considered as top level destinations.
+        AppBarConfiguration appBarConfiguration = new AppBarConfiguration.Builder(R.id.navigation_home, R.id.navigation_checkup, R.id.navigation_history).build();
+        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_activity_main);
+        NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
+        NavigationUI.setupWithNavController(binding.navView, navController);
+
+        //calendar part
+
         setContentView(R.layout.activity_history);
+        initWidgets();
+        selectedDate = LocalDate.now();
+        setMonthView();
+
         addListenerOnButtonClick();
-        simpleCalendarView = (CalendarView) findViewById(R.id.calendar); // get the reference of CalendarView
+        //simpleCalendarView = (CalendarView) findViewById(R.id.calendar); // get the reference of CalendarView
 
         // perform setOnDateChangeListener event on CalendarView
-        simpleCalendarView.setOnDateChangeListener(new CalendarView.OnDateChangeListener() {
-            @Override
-            public void onSelectedDayChange(CalendarView view, int year, int month, int dayOfMonth) {
+        //simpleCalendarView.setOnDateChangeListener(new CalendarView.OnDateChangeListener() {
+           // @Override
+           // public void onSelectedDayChange(CalendarView view, int year, int month, int dayOfMonth) {
                 // display the selected date by using a toast
-                Toast.makeText(getApplicationContext(), dayOfMonth + "/" + month + "/" + year, Toast.LENGTH_LONG).show();
-            }
-        });
-
-        // Initialize and assign variable
-        com.google.android.material.bottomnavigation.BottomNavigationView bottomNavigationView = findViewById(R.id.nav_host_fragment_activity_main);
-
-        // Set Home selected
-        bottomNavigationView.setSelectedItemId(R.id.navigation_history);
+              //  Toast.makeText(getApplicationContext(), dayOfMonth + "/" + month + "/" + year, Toast.LENGTH_LONG).show();
+         //   }
+       // });
 
 
 
-            BottomNavigationView navView = findViewById(R.id.nav_host_fragment_activity_main);
-            // Passing each menu ID as a set of Ids because each
-            // menu should be considered as top level destinations.
-            AppBarConfiguration appBarConfiguration = new AppBarConfiguration.Builder(R.id.navigation_home, R.id.navigation_checkup, R.id.navigation_history).build();
-            NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_activity_main);
-            NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
-            NavigationUI.setupWithNavController(binding.navView, navController);
+
 
     }
     public void addListenerOnButtonClick() {
         btn = (ImageButton)findViewById(R.id.GoBackArrow);
-        form = (ImageButton) findViewById(R.id.AddInfo);
 
-        form.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                openActivity2();
-            }
-        });
+
+
 
         btn.setOnClickListener(new View.OnClickListener() {
 
@@ -88,6 +98,75 @@ public class History extends AppCompatActivity {
         Intent intent = new Intent(this, Autoevaluation.class);
         startActivity(intent);
     }
+    private void initWidgets()
+    {
+        calendarRecyclerView = findViewById(R.id.calendarRecyclerView);
+        monthYearText = findViewById(R.id.monthYearTV);
+    }
+
+    private void setMonthView()
+    {
+        monthYearText.setText(monthYearFromDate(selectedDate));
+        ArrayList<String> daysInMonth = daysInMonthArray(selectedDate);
+
+        CalendarAdapter calendarAdapter = new CalendarAdapter(daysInMonth, (CalendarAdapter.OnItemListener) this);
+        RecyclerView.LayoutManager layoutManager = new GridLayoutManager(getApplicationContext(), 7);
+        calendarRecyclerView.setLayoutManager(layoutManager);
+        calendarRecyclerView.setAdapter(calendarAdapter);
+    }
+
+    private ArrayList<String> daysInMonthArray(LocalDate date)
+    {
+        ArrayList<String> daysInMonthArray = new ArrayList<>();
+        YearMonth yearMonth = YearMonth.from(date);
+
+        int daysInMonth = yearMonth.lengthOfMonth();
+
+        LocalDate firstOfMonth = selectedDate.withDayOfMonth(1);
+        int dayOfWeek = firstOfMonth.getDayOfWeek().getValue();
+
+        for(int i = 1; i <= 42; i++)
+        {
+            if(i <= dayOfWeek || i > daysInMonth + dayOfWeek)
+            {
+                daysInMonthArray.add("");
+            }
+            else
+            {
+                daysInMonthArray.add(String.valueOf(i - dayOfWeek));
+            }
+        }
+        return  daysInMonthArray;
+    }
+
+    private String monthYearFromDate(LocalDate date)
+    {
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("MMMM yyyy");
+        return date.format(formatter);
+    }
+
+    public void previousMonthAction(View view)
+    {
+        selectedDate = selectedDate.minusMonths(1);
+        setMonthView();
+    }
+
+    public void nextMonthAction(View view)
+    {
+        selectedDate = selectedDate.plusMonths(1);
+        setMonthView();
+    }
+
+
+    public void onItemClick(int position, String dayText)
+    {
+        if(!dayText.equals(""))
+        {
+            String message = "Selected Date " + dayText + " " + monthYearFromDate(selectedDate);
+            Toast.makeText(this, message, Toast.LENGTH_LONG).show();
+        }
+    }
+
 
 }
 

@@ -1,4 +1,7 @@
 <resources>
+    <string name="app_name">CalendarAppExample</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
 
     <!-- BOTTOM NAVIGATION VIEW -->
     <string name="bottom_navigation_menu_home">Home</string>
