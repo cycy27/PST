@@ -5,13 +5,35 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import android.support.annotation.NonNull;
 import android.support.v4.app.Fragment;
-import android.arch.lifecycle.ViewModelProvider;
+
+import androidx.annotation.NonNull;
+import androidx.lifecycle.ViewModelProvider;
+
 
 import com.example.test.databinding.FragmentHistoryBinding;
 
 
 public class HistoryFragment extends Fragment {
 
+   private FragmentHistoryBinding binding;
+
+   public View onCreateView(@NonNull LayoutInflater inflater,
+                            ViewGroup container, Bundle savedInstanceState) {
+      HistoryViewModel historyViewModel =
+              new ViewModelProvider(this, new ViewModelProvider.NewInstanceFactory()).get(HistoryViewModel.class);
+
+      binding = FragmentHistoryBinding.inflate(inflater, container, false);
+      View root = binding.getRoot();
+
+      final TextView textView = binding.textNotifications;
+      historyViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
+      return root;
    }
+
+   @Override
+   public void onDestroyView() {
+      super.onDestroyView();
+      binding = null;
+   }
+}
