@@ -71,12 +71,13 @@
 
     <Button
         android:id="@+id/buttoncancel"
-        android:layout_width="149dp"
-        android:layout_height="57dp"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
         android:backgroundTint="#FF2E2E"
         android:text="Cancel"
-        android:textSize="25dp"
         android:textColor="#FCEFEF"
+        android:textSize="25dp"
+        app:cornerRadius="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.485"
