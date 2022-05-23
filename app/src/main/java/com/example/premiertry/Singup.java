@@ -7,14 +7,14 @@ import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.database.FirebaseDatabase;
+//import com.google.firebase.auth.FirebaseAuth;
+//import com.google.firebase.database.FirebaseDatabase;
 
 import java.util.Objects;
 
 public class Singup extends AppCompatActivity {
 
-    private FirebaseAuth mAuth;
+    //private FirebaseAuth mAuth;
     private EditText name, email, password, confirmPassword;
 
     private Button buttoncontinuesu;
@@ -24,7 +24,7 @@ public class Singup extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_singup);
 
-        mAuth = FirebaseAuth.getInstance();
+        //mAuth = FirebaseAuth.getInstance();
 
         name = findViewById(R.id.namesu);
         email = findViewById(R.id.emailpersonsu);
@@ -44,7 +44,7 @@ public class Singup extends AppCompatActivity {
 
         //check if the passwords are the same here:
 
-        mAuth.createUserWithEmailAndPassword(emailValue,passwordValue).addOnCompleteListener(task -> {
+        /*mAuth.createUserWithEmailAndPassword(emailValue,passwordValue).addOnCompleteListener(task -> {
             if (task.isSuccessful()){
                 User user = new User(nameValue,emailValue);
 
@@ -57,6 +57,6 @@ public class Singup extends AppCompatActivity {
                             }
                 });
             }
-        });
+        });*/
     }
 }

@@ -40,7 +40,7 @@
     <string name="casa">casa</string>
     
     <!--Christine's addition-->
-    <string name="app_name">CalendarAppExample</string>
+    <string name="app_name1">CalendarAppExample</string>
     <string name="back"><![CDATA[<-]]></string>
     <string name="forward"><![CDATA[->]]></string>
 
