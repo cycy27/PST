@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-50:12
+ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-54:12
 MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\chris\.gradle\caches\transforms-3\d2706a7c8358ad184058c33ca4ef3de0\transformed\viewbinding-7.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.4.2] C:\Users\chris\.gradle\caches\transforms-3\1b37d2461da3944aa5de00cd4a9c731a\transformed\navigation-ui-2.4.2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\chris\.gradle\caches\transforms-3\769dcb77fb92c9edab96c2b2c530717e\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
@@ -58,25 +58,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\chris\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\deca2ef09eea99cc0fcf14ca9bb4497d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\7789ee002d0fbba34921bda99c4c769a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\chris\.gradle\caches\transforms-3\e0f4fe9d7bd27feec69332738d5a41f9\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-54:12
 	package
 		ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-50:12
+		ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-54:12
 		INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-50:12
+		ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:1-54:12
 		INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:5:5-48:19
+ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:5:5-52:19
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\chris\.gradle\caches\transforms-3\769dcb77fb92c9edab96c2b2c530717e\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\chris\.gradle\caches\transforms-3\769dcb77fb92c9edab96c2b2c530717e\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\chris\.gradle\caches\transforms-3\9060cd22b8c6f38aa4a77681318da8bd\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -162,21 +162,21 @@ ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:
 	android:name
 		ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:37:13-37
 activity#com.example.premiertry.welcome1
-ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:39:9-47:20
+ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:39:9-51:20
 	android:exported
 		ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:41:13-36
 	android:name
 		ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:40:13-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:42:13-46:29
+ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:46:13-50:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:43:17-69
+ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:47:17-69
 	android:name
-		ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:43:25-66
+		ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:47:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:45:17-77
+ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:49:17-77
 	android:name
-		ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:45:27-74
+		ADDED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:49:27-74
 uses-sdk
 INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml

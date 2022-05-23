@@ -39,6 +39,10 @@
         <activity
             android:name=".welcome1"
             android:exported="true">
+
+
+
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

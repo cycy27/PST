@@ -27,8 +27,8 @@
     <string name="SOS">sos</string>
     <string name="addDoc">adddocument</string>
     <string name="adresse">Adresse</string>
-    <string name="app_name">PST</string>
-    <string name="app_name1">CalendarAppExample</string>
+    <string name="app_name">CalendarAppExample</string>
+    <string name="app_name1">PST</string>
     <string name="autoeval">AUTOeval</string>
     <string name="back"><![CDATA[<-]]></string>
     <string name="bloodpressure">bldpressr</string>
@@ -78,5 +78,22 @@
         
         <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
         
+
+          <style name="Theme.Test.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Test.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.Test.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    </style>
+    <style name="ThemeOverlay.Slider" parent="">
+        
+        <item name="colorOnPrimary">@color/purple_500</item>
+        <item name="colorOnBackground">@color/white</item>
+        <item name="colorSurface">@color/purple_200</item>
+    </style>
+    <style name="TooltipStyle" parent="Widget.MaterialComponents.Tooltip">
+        
+        <item name="backgroundTint">@color/white</item>
     </style>
 </resources>

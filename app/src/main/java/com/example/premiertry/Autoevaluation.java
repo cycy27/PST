@@ -1,6 +1,6 @@
 package com.example.premiertry;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -11,7 +11,7 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 
 
-import com.google.android.material.slider.Slider;
+
 
 import java.time.LocalTime;
 
@@ -21,7 +21,6 @@ public class Autoevaluation extends AppCompatActivity {
     Button buttonOrder;
     EditText editText;
     ImageButton btn;
-    Slider.OnSliderTouchListener touchListener;
     SeekBar seekbar;
     private TextView eventDateTV, eventTimeTV;
     private LocalTime time;

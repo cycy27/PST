@@ -311,4 +311,6 @@ string spo2
 string temperature
 string title_activity_autoevaluation
 string toutpetitdetail
+style ThemeOverlay.Slider
 style Theme.Premiertry
+style TooltipStyle
