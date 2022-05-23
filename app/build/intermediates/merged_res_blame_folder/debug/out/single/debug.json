@@ -1,9 +1,5 @@
 [
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.premiertry.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
-    },
-    {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable_profil_rec.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable/profil_rec.png"
     },
@@ -48,8 +44,16 @@
         "source": "com.example.premiertry.app-main-39:/drawable-xxxhdpi/baseline_ballot_black_24.png"
     },
     {
+        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.premiertry.app-main-39:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-mdpi_baseline_volunteer_activism_black_20.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-mdpi/baseline_volunteer_activism_black_20.png"
+    },
+    {
+        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.premiertry.app-main-39:/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable_vector_2.png.flat",
@@ -66,10 +70,6 @@
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxxhdpi_baseline_medical_information_black_48.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-xxxhdpi/baseline_medical_information_black_48.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/drawable-hdpi_baseline_ballot_24.png.flat",
-        "source": "com.example.premiertry.app-pngs-32:/drawable-hdpi/baseline_ballot_24.png"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxhdpi_baseline_volunteer_activism_black_36.png.flat",
@@ -110,14 +110,6 @@
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxxhdpi_addinfo.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-xxxhdpi/addinfo.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.premiertry.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.premiertry.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable_contact_phone.png.flat",
@@ -168,16 +160,16 @@
         "source": "com.example.premiertry.app-main-39:/drawable-xxhdpi/baseline_ballot_black_36.png"
     },
     {
+        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.premiertry.app-main-39:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-mdpi_addinfo.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-mdpi/addinfo.png"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable_group_3.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable/group_3.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxxhdpi_baseline_ballot_24.png.flat",
-        "source": "com.example.premiertry.app-pngs-32:/drawable-xxxhdpi/baseline_ballot_24.png"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxxhdpi_baseline_medical_information_black_20.png.flat",
@@ -204,6 +196,14 @@
         "source": "com.example.premiertry.app-main-39:/drawable-xhdpi/baseline_home_black_48.png"
     },
     {
+        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.premiertry.app-main-39:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.premiertry.app-merged_res-37:/drawable_baseline_home_24dp.xml.flat",
+        "source": "com.example.premiertry.app-main-39:/drawable/baseline_home_24dp.xml"
+    },
+    {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxxhdpi_baseline_home_black_36.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-xxxhdpi/baseline_home_black_36.png"
     },
@@ -216,12 +216,12 @@
         "source": "com.example.premiertry.app-main-39:/drawable/component1.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxhdpi_baseline_medical_information_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-39:/drawable-xxhdpi/baseline_medical_information_black_36.png"
+        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.premiertry.app-main-39:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.premiertry.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxhdpi_baseline_medical_information_black_36.png.flat",
+        "source": "com.example.premiertry.app-main-39:/drawable-xxhdpi/baseline_medical_information_black_36.png"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/layout_event_cell.xml.flat",
@@ -308,6 +308,10 @@
         "source": "com.example.premiertry.app-main-39:/drawable-mdpi/vector.png"
     },
     {
+        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.premiertry.app-main-39:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-hdpi_autopicture.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-hdpi/autopicture.png"
     },
@@ -340,10 +344,6 @@
         "source": "com.example.premiertry.app-main-39:/drawable-mdpi/baseline_medical_information_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/drawable-anydpi-v24_baseline_ballot_24.xml.flat",
-        "source": "com.example.premiertry.app-pngs-32:/drawable-anydpi-v24/baseline_ballot_24.xml"
-    },
-    {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable_profil_person.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable/profil_person.png"
     },
@@ -358,6 +358,10 @@
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable_contact_rec.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable/contact_rec.png"
+    },
+    {
+        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.premiertry.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/layout_activity_welcome3.xml.flat",
@@ -384,10 +388,6 @@
         "source": "com.example.premiertry.app-main-39:/drawable-xhdpi/baseline_volunteer_activism_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/drawable-ldpi_baseline_ballot_24.png.flat",
-        "source": "com.example.premiertry.app-pngs-32:/drawable-ldpi/baseline_ballot_24.png"
-    },
-    {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-mdpi_baseline_ballot_black_20.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-mdpi/baseline_ballot_black_20.png"
     },
@@ -402,10 +402,6 @@
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-hdpi_baseline_ballot_black_48.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-hdpi/baseline_ballot_black_48.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/drawable-xhdpi_baseline_ballot_24.png.flat",
-        "source": "com.example.premiertry.app-pngs-32:/drawable-xhdpi/baseline_ballot_24.png"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxxhdpi_baseline_home_black_24.png.flat",
@@ -428,20 +424,12 @@
         "source": "com.example.premiertry.app-main-39:/drawable-xhdpi/blood.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxhdpi_baseline_ballot_24.png.flat",
-        "source": "com.example.premiertry.app-pngs-32:/drawable-xxhdpi/baseline_ballot_24.png"
-    },
-    {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-hdpi_addinfo.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-hdpi/addinfo.png"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxhdpi_baseline_medical_information_black_48.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-xxhdpi/baseline_medical_information_black_48.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/drawable-mdpi_baseline_ballot_24.png.flat",
-        "source": "com.example.premiertry.app-pngs-32:/drawable-mdpi/baseline_ballot_24.png"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/layout_activity_welcome2.xml.flat",
@@ -466,10 +454,6 @@
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable_home.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable/home.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.premiertry.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-hdpi_baseline_home_black_20.png.flat",
@@ -502,10 +486,6 @@
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxxhdpi_autopicture.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-xxxhdpi/autopicture.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.premiertry.app-pngs-32:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xhdpi_baseline_home_black_36.png.flat",
@@ -554,10 +534,6 @@
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-hdpi_baseline_medical_information_black_18.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-hdpi/baseline_medical_information_black_18.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.premiertry.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxhdpi_baseline_medical_information_black_20.png.flat",
@@ -636,6 +612,10 @@
         "source": "com.example.premiertry.app-main-39:/drawable-hdpi/baseline_ballot_black_36.png"
     },
     {
+        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.premiertry.app-main-39:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable_adress_rec.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable/adress_rec.png"
     },
@@ -664,6 +644,10 @@
         "source": "com.example.premiertry.app-main-39:/drawable-xxxhdpi/baseline_home_black_20.png"
     },
     {
+        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.premiertry.app-main-39:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-hdpi_baseline_medical_information_black_24.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-hdpi/baseline_medical_information_black_24.png"
     },
@@ -674,10 +658,6 @@
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxhdpi_baseline_ballot_black_18.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-xxhdpi/baseline_ballot_black_18.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.premiertry.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xhdpi_baseline_ballot_black_24.png.flat",
@@ -812,24 +792,8 @@
         "source": "com.example.premiertry.app-main-39:/drawable/portfolio.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.premiertry.app-main-39:/mipmap-hdpi/ic_launcher.webp"
-    },
-    {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xxhdpi_vector.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-xxhdpi/vector.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.premiertry.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.premiertry.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.premiertry.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-mdpi_sliderbackground.png.flat",
@@ -842,10 +806,6 @@
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-xhdpi_baseline_volunteer_activism_black_36.png.flat",
         "source": "com.example.premiertry.app-main-39:/drawable-xhdpi/baseline_volunteer_activism_black_36.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.premiertry.app-main-39:/mipmap-mdpi/ic_launcher.webp"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable-hdpi_sliderbackground.png.flat",
@@ -890,6 +850,18 @@
     {
         "merged": "com.example.premiertry.app-merged_res-37:/layout_fragment_home.xml.flat",
         "source": "com.example.premiertry.app-main-39:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.premiertry.app-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.premiertry.app-main-39:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.premiertry.app-merged_res-37:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.premiertry.app-main-39:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.premiertry.app-merged_res-37:/drawable_baseline_ballot_24.xml.flat",
+        "source": "com.example.premiertry.app-main-39:/drawable/baseline_ballot_24.xml"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-37:/drawable_auto_eval.png.flat",

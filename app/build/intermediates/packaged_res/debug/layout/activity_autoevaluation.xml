@@ -247,12 +247,7 @@
         app:layout_constraintTop_toBottomOf="@+id/othersymptoms"
         app:layout_constraintVertical_bias="0.0" />
 
-    <android.support.constraint.Group
-        android:id="@+id/group"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="top"
-        app:constraint_referenced_ids="painlevel" />
+
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottomnav"
@@ -265,18 +260,24 @@
         app:layout_constraintStart_toStartOf="parent"
         app:menu="@menu/bottom_nav_menu" />
 
+
     <Button
-        android:id="@+id/button"
         android:layout_width="wrap_content"
+        android:id="@+id/button"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="28dp"
-        android:text="Submit"
+        android:layout_gravity="center"
+        android:background="@null"
         android:onClick="saveEventAction"
-        app:layout_constraintBottom_toTopOf="@+id/bottomnav"
+        android:text="Submit"
+        android:textColor="@color/app"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/bottomnav"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/other" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.884" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -48,11 +48,11 @@ public class History extends AppCompatActivity {
         binding = ActivityHistoryBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
-        BottomNavigationView navView = findViewById(R.id.nav_host_fragment_activity_main);
+        BottomNavigationView navView = findViewById(R.id.bottomnav);
         // Passing each menu ID as a set of Ids because each
         // menu should be considered as top level destinations.
         AppBarConfiguration appBarConfiguration = new AppBarConfiguration.Builder(R.id.navigation_home, R.id.navigation_checkup, R.id.navigation_history).build();
-        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_activity_main);
+        NavController navController = Navigation.findNavController(this, R.id.bottomnav);
         NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
         //NavigationUI.setupWithNavController(binding.navView, navController);
 
@@ -156,6 +156,10 @@ public class History extends AppCompatActivity {
     {
         selectedDate = selectedDate.plusMonths(1);
         setMonthView();
+    }
+    public void weeklyAction(View view)
+    {
+        startActivity(new Intent(this, WeekViewActivity.class));
     }
 
 

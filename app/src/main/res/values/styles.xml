@@ -12,6 +12,6 @@
         <!-- color used by the text in the Tooltip -->
         <item name="colorOnPrimary">@color/purple_500</item>
         <item name="colorOnBackground">@color/white</item>
-        <item name="colorSurface">@color/purple_200</item>
+
     </style>
 </resources>

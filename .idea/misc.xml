@@ -3,13 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_autoevaluation.xml" value="0.1" />
+        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/drawable/baseline_home_24dp.xml" value="0.1255" />
+        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_autoevaluation.xml" value="0.2" />
         <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_check_up.xml" value="0.1" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_history.xml" value="0.1" />
+        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_history.xml" value="0.264" />
         <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_week_view.xml" value="0.1671875" />
         <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_welcome3.xml" value="0.1" />
         <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/calendar_cell.xml" value="0.1671875" />
         <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/event_cell.xml" value="0.1671875" />
+        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1671875" />
+        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.123" />
+        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.123" />
         <entry key="app/src/main/res/layout-w1240dp/activity_login.xml" value="0.193359375" />
         <entry key="app/src/main/res/layout-w936dp/activity_login.xml" value="0.17890625" />
         <entry key="app/src/main/res/layout/activity_check_up.xml" value="0.1" />

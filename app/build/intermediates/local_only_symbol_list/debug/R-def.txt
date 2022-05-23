@@ -35,6 +35,7 @@ drawable baseline_ballot_black_36
 drawable baseline_ballot_black_48
 drawable baseline_home_20
 drawable baseline_home_24
+drawable baseline_home_24dp
 drawable baseline_home_black_18
 drawable baseline_home_black_20
 drawable baseline_home_black_24
@@ -148,7 +149,6 @@ id eventListView
 id eventTimeTV
 id feelfaint
 id feelstiff
-id group
 id headache
 id imageButton10
 id imageButton11

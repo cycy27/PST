@@ -95,7 +95,7 @@ public class Autoevaluation extends AppCompatActivity {
 
         String eventName = editText.getText().toString();
         result.append(eventName);
-        Event newEvent = new Event(result.toString(),  CalendarUtils.selectedDate, time);
+        Event newEvent = new Event(result.toString(), CalendarUtils.selectedDate, time);
         Event.eventsList.add(newEvent);
         finish();
     }
