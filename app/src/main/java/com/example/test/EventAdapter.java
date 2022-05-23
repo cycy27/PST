@@ -16,7 +16,7 @@ import java.util.List;
 
 public class EventAdapter extends ArrayAdapter<Event>
 {
-    public EventAdapter(@NonNull Context context, ArrayList<android.media.metrics.Event> events)
+    public EventAdapter(@NonNull Context context,  List<Event> events)
     {
         super(context, 0, events);
     }

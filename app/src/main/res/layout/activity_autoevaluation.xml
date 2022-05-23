@@ -44,12 +44,18 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="23dp"
         android:text="Time"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="20sp"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="628dp" />
+        app:layout_constraintBottom_toTopOf="@+id/bottomnav"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.021"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eventDateTV"
+        app:layout_constraintVertical_bias="0.0" />
 
     <ImageButton
         android:id="@+id/GoBackArrow"
@@ -65,9 +71,8 @@
         app:srcCompat="@drawable/vec"
         tools:ignore="SpeakableTextPresentCheck" />
 
-    <com.google.android.material.slider.Slider
-        android:id="@+id/slider"
-        style="@style/SliderStyle"
+     <SeekBar
+        android:id="@+id/painlevel"
         android:layout_width="388dp"
         android:layout_height="69dp"
         android:stepSize="1"
@@ -247,10 +252,12 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="28dp"
         android:text="Submit"
+        android:onClick="saveEventAction"
         app:layout_constraintBottom_toTopOf="@+id/bottomnav"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/other" />
+
 
 </android.support.constraint.ConstraintLayout>

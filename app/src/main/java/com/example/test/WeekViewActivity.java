@@ -9,7 +9,6 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
-import android.media.metrics.Event;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ListView;

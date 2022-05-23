@@ -1,16 +1,14 @@
 package com.example.test;
 
-
-
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.ImageButton;
-import android.widget.LinearLayout;
-import android.widget.Toast;
+import android.widget.SeekBar;
 import android.widget.TextView;
 
 
@@ -25,7 +23,7 @@ public class Autoevaluation extends AppCompatActivity {
     EditText editText;
     ImageButton btn;
     Slider.OnSliderTouchListener touchListener;
-    Slider slider;
+    SeekBar seekbar;
     private TextView eventDateTV, eventTimeTV;
     private LocalTime time;
 
@@ -38,6 +36,7 @@ public class Autoevaluation extends AppCompatActivity {
         eventDateTV.setText("Date: " + CalendarUtils.formattedDate(CalendarUtils.selectedDate));
         eventTimeTV.setText("Time: " + CalendarUtils.formattedTime(time));
         addListenerOnButtonClick();
+
 
     }
 
@@ -55,74 +54,76 @@ public class Autoevaluation extends AppCompatActivity {
         editText = (EditText)findViewById(R.id.other);
         btn = (ImageButton)findViewById(R.id.GoBackArrow);
         buttonOrder = (Button) findViewById(R.id.button);
-        slider = (Slider) findViewById(R.id.slider);
+        seekbar =  findViewById(R.id.painlevel);
         eventTimeTV = findViewById(R.id.eventTimeTV);
+        editText = findViewById(R.id.other);
     }
+
 
     public void saveEventAction(View view)
     {
 
         StringBuilder result = new StringBuilder();
-        String eventSympt1 = "", eventSympt2 = "", eventSympt3 = "", eventSympt4 = "", eventSympt5 = "", eventSympt6 = null;
+
+        int seekBarValue= seekbar.getProgress();
+        result.append("Painlevel:"+seekBarValue);
+        result.append(", Symptoms: ");
+
         if (sympt1.isChecked()) {
-            eventSympt1 = sympt1.getText().toString();
+
+            result.append(" sympt1");
         }
         if (sympt2.isChecked()) {
-           eventSympt2 = sympt2.getText().toString();
+
+           result.append(" sympt2");
         }
         if (sympt3.isChecked()) {
-            eventSympt3 = sympt3.getText().toString();
+
+            result.append(" sympt3");
         }
         if (sympt4.isChecked()) {
-            eventSympt4 = sympt4.getText().toString();
+
+            result.append(" sympt4");
         }
         if (sympt5.isChecked()) {
-            eventSympt5 = sympt5.getText().toString();
+
+            result.append(" sympt5");
         }
         if (sympt6.isChecked()) {
-            eventSympt6 = sympt6.getText().toString();
-        }
-        String eventadd = editText.getText().toString();
 
-        Event newEvent = new Event(eventSympt1, eventSympt2, eventSympt3, eventSympt4, eventSympt5, eventSympt6, CalendarUtils.selectedDate, time);
+            result.append(" sympt6 ");
+        }
+
+
+        String eventName = editText.getText().toString();
+        result.append(eventName);
+        Event newEvent = new Event(result.toString(),  CalendarUtils.selectedDate, time);
         Event.eventsList.add(newEvent);
         finish();
     }
 
-
-
     public void addListenerOnButtonClick() {
-        //Getting instance of CheckBoxes and Button from the activity_autoevaluation.xml file
-        sympt1 = (CheckBox) findViewById(R.id.feelfaint);
-        sympt2 = (CheckBox) findViewById(R.id.chestpain);
-        sympt3 = (CheckBox) findViewById(R.id.Cough);
-        sympt4 = (CheckBox) findViewById(R.id.feelstiff);
-        sympt5 = (CheckBox) findViewById(R.id.outofbreath);
-        sympt6 = (CheckBox) findViewById(R.id.headache);
-        editText = (EditText)findViewById(R.id.other);
+
+
         btn = (ImageButton)findViewById(R.id.GoBackArrow);
-        buttonOrder = (Button) findViewById(R.id.button);
-        slider = (Slider) findViewById(R.id.slider);
+
 
 
         btn.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
+
                 finish();
             }
             });
 
-
-
         //Applying the Listener on the Button click
+        /*
         buttonOrder.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
-
-
-
 
                 StringBuilder result = new StringBuilder();
                 result.append("Selected Items:");
@@ -155,7 +156,7 @@ public class Autoevaluation extends AppCompatActivity {
             }
 
         });
-
+*/
 
 
 

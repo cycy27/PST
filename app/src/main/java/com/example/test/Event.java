@@ -8,8 +8,7 @@ public class Event
 {
     public static ArrayList<Event> eventsList = new ArrayList<>();
 
-    public Event(String eventSympt1, String eventSympt2, String eventSympt3, String eventSympt4, String eventSympt5, String eventSympt6, LocalDate selectedDate, LocalTime time) {
-    }
+
 
     public static ArrayList<Event> eventsForDate(LocalDate date)
     {
@@ -31,16 +30,16 @@ public class Event
     private String sympt4;
     private String sympt5;
     private String sympt6;
-    private String name;
+    private String result;
     private LocalDate date;
     private LocalTime time;
+    private String text;
 
 
 
-    public Event(String eventSympt1, String eventSympt2, String eventSympt3, String eventSympt4, String sympt1, String sympt2, LocalDate date)
+    public Event( String result, LocalDate date, LocalTime time)
     {
-        this.sympt1 = sympt1;
-        this.sympt1 = sympt2;
+        this.result = result;
         this.date = date;
         this.time = time;
 
@@ -48,12 +47,12 @@ public class Event
 
     public String getName()
     {
-        return name;
+        return result;
     }
 
     public void setName(String name)
     {
-        this.name = name;
+        this.result = name;
     }
 
     public LocalDate getDate()
