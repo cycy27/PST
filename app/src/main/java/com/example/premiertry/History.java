@@ -1,10 +1,10 @@
 package com.example.premiertry;
 
 import android.content.Intent;
-import android.os.Build;
+
 import android.os.Bundle;
 
-import androidx.annotation.RequiresApi;
+
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageButton;
@@ -41,7 +41,7 @@ public class History extends AppCompatActivity {
     private RecyclerView calendarRecyclerView;
     private LocalDate selectedDate;
 
-    @RequiresApi(api = Build.VERSION_CODES.O)
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -95,10 +95,7 @@ public class History extends AppCompatActivity {
         });
     }
 
-    public void openActivity2() {
-        Intent intent = new Intent(this, Autoevaluation.class);
-        startActivity(intent);
-    }
+
     private void initWidgets()
     {
         calendarRecyclerView = findViewById(R.id.calendarRecyclerView);

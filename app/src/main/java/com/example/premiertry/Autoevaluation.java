@@ -43,15 +43,15 @@ public class Autoevaluation extends AppCompatActivity {
 
         eventDateTV = findViewById(R.id.eventDateTV);
 
-        sympt1 = (CheckBox) findViewById(R.id.feelfaint);
-        sympt2 = (CheckBox) findViewById(R.id.chestpain);
-        sympt3 = (CheckBox) findViewById(R.id.Cough);
-        sympt4 = (CheckBox) findViewById(R.id.feelstiff);
-        sympt5 = (CheckBox) findViewById(R.id.outofbreath);
-        sympt6 = (CheckBox) findViewById(R.id.headache);
-        editText = (EditText)findViewById(R.id.other);
-        btn = (ImageButton)findViewById(R.id.GoBackArrow);
-        buttonOrder = (Button) findViewById(R.id.button);
+        sympt1 =  findViewById(R.id.feelfaint);
+        sympt2 =  findViewById(R.id.chestpain);
+        sympt3 =  findViewById(R.id.Cough);
+        sympt4 =  findViewById(R.id.feelstiff);
+        sympt5 =  findViewById(R.id.outofbreath);
+        sympt6 =  findViewById(R.id.headache);
+        editText = findViewById(R.id.other);
+        btn = findViewById(R.id.GoBackArrow);
+        buttonOrder =  findViewById(R.id.button);
         seekbar =  findViewById(R.id.painlevel);
         eventTimeTV = findViewById(R.id.eventTimeTV);
         editText = findViewById(R.id.other);

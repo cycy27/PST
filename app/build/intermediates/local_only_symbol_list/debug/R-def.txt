@@ -119,6 +119,7 @@ id action_FirstFragment_to_SecondFragment
 id action_SecondFragment_to_FirstFragment
 id bottomnav
 id button
+id button2
 id buttoncancel
 id buttoncontinuesi
 id buttoncontinuesu
@@ -206,7 +207,6 @@ id mobile_navigation
 id monthYearTV
 id namesu
 id nav_graph
-id nav_host_fragment_activity_main
 id navigation_checkup
 id navigation_history
 id navigation_home
