@@ -9,8 +9,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-//import com.google.firebase.auth.FirebaseAuth;
-//import com.google.firebase.database.FirebaseDatabase;
 
 import java.util.Objects;
 
@@ -35,15 +33,13 @@ public class Singup extends AppCompatActivity {
         buttoncontinuesu = (Button) findViewById(R.id.buttoncontinuesu);
 
         //button listeners
-        buttoncontinuesu.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Toast.makeText(Singup.this, "clicked",Toast.LENGTH_SHORT).show();
+        buttoncontinuesu.setOnClickListener(view -> {
+            User user= new User(-1,name.getText().toString(),email.getText().toString(),password.getText().toString());
+            Toast.makeText(Singup.this, user.toString(),Toast.LENGTH_SHORT).show();
 
-            }
         }
 
-            //User user = new User(name.getText().toString(),email.getText().toString(),password.getText().toString());
+                //User user = new User(name.getText().toString(),email.getText().toString(),password.getText().toString());
         );
     }
 
