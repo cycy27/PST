@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.premiertry.app-mergeDebugResources-35:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.premiertry.app-mergeDebugResources-38:/values-night-v8/values-night-v8.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\chris\\AndroidStudioProjects\\premiertry\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "819"
-                    },
-                    "to": {
-                        "startLines": "33",
-                        "startColumns": "4",
-                        "startOffsets": "3386",
-                        "endLines": "45",
-                        "endColumns": "12",
-                        "endOffsets": "3982"
-                    }
-                },
                 {
                     "source": "C:\\Users\\chris\\.gradle\\caches\\transforms-3\\1217d3aa52fa78bda9a0244b3a55003a\\transformed\\material-1.6.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
@@ -37,6 +18,25 @@
                         "startOffsets": "732,807,918,1007,1108,1215,1322,1421,1524,1612,1736,1838,1940,2056,2158,2272,2400,2516,2638,2774,2894,3028,3148,3260,4076,4193,4317,4447,4569,4707,4841,4957",
                         "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
                         "endOffsets": "802,913,1002,1103,1210,1317,1416,1519,1607,1731,1833,1935,2051,2153,2267,2395,2511,2633,2769,2889,3023,3143,3255,3381,4188,4312,4442,4564,4702,4836,4952,5072"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\chris\\Documents\\GitHub\\PST\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "819"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "3386",
+                        "endLines": "45",
+                        "endColumns": "12",
+                        "endOffsets": "3982"
                     }
                 },
                 {

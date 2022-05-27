@@ -1,346 +1,942 @@
 [
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_volunteer_activism_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_volunteer_activism_black_18.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_red_container.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\red_container.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_line4.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\line4.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_sliderbackground.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\sliderbackground.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_contact_person.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\contact_person.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_home.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\home.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_activity_week_view.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\activity_week_view.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_volunteer_activism_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_volunteer_activism_black_48.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_activity_history.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\activity_history.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_group_5.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\group_5.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/drawable_ellipse_15_2.png.flat",
-        "source": "com.example.premiertry.app-main-39:/drawable/ellipse_15_2.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_contact_phone.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\contact_phone.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_ballot_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_ballot_black_24.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_welcome1.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_welcome1.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_activity_welcome3.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\activity_welcome3.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_ellipse_13.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\ellipse_13.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_submit.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\submit.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_welcome2.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_welcome2.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_group_5.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\group_5.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_sliderbackground.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\sliderbackground.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_home_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_home_black_24.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_groups_list_button.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\groups_list_button.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_ellipse_15_2.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\ellipse_15_2.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_group__1_.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\group__1_.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_addinfo.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\addinfo.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_wiouwou.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\wiouwou.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_baseline_volunteer_activism_20.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\baseline_volunteer_activism_20.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_ellipse_8.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\ellipse_8.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\fragment_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_contact_phone_rec.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\contact_phone_rec.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_medical_information_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_medical_information_black_48.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_group_2.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\group_2.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_rectangle.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\rectangle.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_phone.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\phone.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_vector.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\vector.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_medical_information_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_medical_information_black_18.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_addinfo.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\addinfo.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_vec.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\vec.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\ic_dashboard_black_24dp.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\ic_home_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_douleur_forte.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\douleur_forte.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_baseline_medical_information_20.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\baseline_medical_information_20.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_phone_rec.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\phone_rec.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_group_6.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\group_6.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_autopicture.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\autopicture.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_checkicon.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\checkicon.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_profil_rec.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\profil_rec.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/layout_activity_welcome3.xml.flat",
-        "source": "com.example.premiertry.app-main-39:/layout/activity_welcome3.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_medical_information_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_medical_information_black_24.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\navigation_mobile_navigation.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\navigation\\mobile_navigation.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_profil_rec.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\profil_rec.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_groups_list_button__5_.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\groups_list_button__5_.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_ballot_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_ballot_black_20.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_fragment_dashboard.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\fragment_dashboard.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_ballot_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_ballot_black_24.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_home_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_home_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/drawable_ellipse_15.png.flat",
-        "source": "com.example.premiertry.app-main-39:/drawable/ellipse_15.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_vec.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\vec.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_ballot_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_ballot_black_18.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_activity_sos.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\activity_sos.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_medical_information_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_medical_information_black_48.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_group_6.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\group_6.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_medical_information_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_medical_information_black_24.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\fragment_notifications.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_sos.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\sos.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_volunteer_activism_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_volunteer_activism_black_20.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\menu_bottom_nav_menu.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\menu\\bottom_nav_menu.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_ballot_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_ballot_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/drawable_ellipse_13.png.flat",
-        "source": "com.example.premiertry.app-main-39:/drawable/ellipse_13.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_medical_information_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_medical_information_black_20.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_age_rec.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\age_rec.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_menu.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\menu.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_volunteer_activism_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_volunteer_activism_black_24.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_contact_rec.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\contact_rec.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_autoevaluation.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_autoevaluation.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_activity_check_up.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\activity_check_up.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_medical_information_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_medical_information_black_20.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_groups_list_button__6_.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\groups_list_button__6_.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_profil_circle.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\profil_circle.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_line4.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\line4.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_event_cell.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\event_cell.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_home_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_home_black_20.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_group_3.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\group_3.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_home_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_home_black_24.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_calendar_cell.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\calendar_cell.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_volunteer_activism_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_volunteer_activism_black_24.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_profil.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_profil.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_activity_signup.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\activity_signup.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_ballot_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_ballot_black_36.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_ic_notifications_black_24dp.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\ic_notifications_black_24dp.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_group_4.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\group_4.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_feel_good.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\feel_good.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_welcome3.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_welcome3.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_vec.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\vec.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_vec.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\vec.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_douleur_neutre.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\douleur_neutre.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\baseline_home_24.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_help.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\help.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_volunteer_activism_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_volunteer_activism_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/layout_activity_welcome2.xml.flat",
-        "source": "com.example.premiertry.app-main-39:/layout/activity_welcome2.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_medical_information_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_medical_information_black_18.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_activity_welcome1.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\activity_welcome1.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_home_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_home_black_48.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_ic_home_black_24dp.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\ic_home_black_24dp.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_ballot_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_ballot_black_48.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_fragment_notifications.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\fragment_notifications.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_ballot_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_ballot_black_24.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_activity_signin.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\activity_signin.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_groups_list_button__6_.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\groups_list_button__6_.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_portfolio.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_portfolio.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_medical_information_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_medical_information_black_18.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_vector.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\vector.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_activity_profil.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\activity_profil.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_ballot_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_ballot_black_48.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_event_cell.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\event_cell.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_age_rec.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\age_rec.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_homeicon.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\homeicon.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_blood.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\blood.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_douleur_forte.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\douleur_forte.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_activity_portfolio.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\activity_portfolio.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_baseline_home_20.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\baseline_home_20.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_auto_eval.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\auto_eval.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_home_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_home_black_24.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_vector__1_.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\vector__1_.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_group__1_.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\group__1_.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_group_4.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\group_4.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_ballot_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_ballot_black_36.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_ballot_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_ballot_black_20.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_activity_autoevaluation.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\activity_autoevaluation.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_baseline_home_24dp.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\baseline_home_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_adress_rec.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\adress_rec.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_baseline_medical_information_24.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\baseline_medical_information_24.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_contact_phone.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\contact_phone.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_sos.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_sos.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_profil_circle.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\profil_circle.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_blood.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\blood.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_medical_information_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_medical_information_black_48.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_profil_pic.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\profil_pic.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_baseline_volunteer_activism_24.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\baseline_volunteer_activism_24.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/layout_activity_welcome1.xml.flat",
-        "source": "com.example.premiertry.app-main-39:/layout/activity_welcome1.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_ballot_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_ballot_black_18.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_portfolio.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\portfolio.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_feel_good.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\feel_good.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_history.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\history.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_menu.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\menu.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-37:/drawable_ellipse_10.png.flat",
-        "source": "com.example.premiertry.app-main-39:/drawable/ellipse_10.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_home_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_home_black_36.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\drawable_profil_person.png.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\drawable\\profil_person.png"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_medical_information_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_medical_information_black_36.png"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-37:\\layout_activity_welcome2.xml.flat",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-39:\\layout\\activity_welcome2.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_volunteer_activism_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_volunteer_activism_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_home_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_home_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_home_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_home_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_vec.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\vec.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_medical_information_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_medical_information_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_profil_person.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\profil_person.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_volunteer_activism_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_volunteer_activism_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_blood.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\blood.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_home_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_home_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_home_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_home_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_autopicture.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\autopicture.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_home_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_home_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_ballot_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_ballot_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_contact_phone_rec.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\contact_phone_rec.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_volunteer_activism_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_volunteer_activism_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_ellipse_8.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\ellipse_8.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_medical_information_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_medical_information_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_submit.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\submit.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_medical_information_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_medical_information_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_check_up.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_check_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_history.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_medical_information_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_medical_information_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_autopicture.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\autopicture.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_contact_person.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\contact_person.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_home_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_home_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_volunteer_activism_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_volunteer_activism_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_vec.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\vec.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_home_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_home_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_personal_list.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\personal_list.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_addinfo.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\addinfo.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_volunteer_activism_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_volunteer_activism_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_volunteer_activism_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_volunteer_activism_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_groups_list_button.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\groups_list_button.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_home_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_home_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_autopicture.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\autopicture.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_portfolio.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\portfolio.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_medical_information_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_medical_information_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_line4.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\line4.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_portefolio.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\portefolio.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_addinfo.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\addinfo.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_adress_rec.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\adress_rec.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_volunteer_activism_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_volunteer_activism_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_rectangle.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_home_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_home_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_calendar_cell.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\calendar_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_ballot_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_ballot_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_douleur_neutre.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\douleur_neutre.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_protfolio.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_protfolio.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_volunteer_activism_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_volunteer_activism_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_volunteer_activism_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_volunteer_activism_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_volunteer_activism_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_volunteer_activism_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_ballot_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_ballot_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_volunteer_activism_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_volunteer_activism_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_home_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_home_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_autoevaluation.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\autoevaluation.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_ballot_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_ballot_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_baseline_ballot_24.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\baseline_ballot_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_phone_rec.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\phone_rec.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_sos.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\sos.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_groups_list_button__5_.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\groups_list_button__5_.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_singup.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_singup.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_medical_information_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_medical_information_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_ballot_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_ballot_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_sliderbackground.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\sliderbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_wiouwou.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\wiouwou.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_contact_rec.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\contact_rec.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_medical_information_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_medical_information_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_medical_information_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_medical_information_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_profil_pic.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\profil_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_volunteer_activism_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_volunteer_activism_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_help.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_ballot_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_ballot_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_ballot_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_ballot_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_blood.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\blood.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_home_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_home_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_home_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_home_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_ballot_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_ballot_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_medical_information_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_medical_information_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_autopicture.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\autopicture.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_volunteer_activism_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_volunteer_activism_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_line4.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\line4.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_volunteer_activism_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_volunteer_activism_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_sliderbackground.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\sliderbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_ballot_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_ballot_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_autopicture.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\autopicture.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_ellipse_10.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\ellipse_10.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_vec.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\vec.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_baseline_home_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\baseline_home_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_autopicture.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\autopicture.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_home_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_home_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_home_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_home_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_home_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_home_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_medical_information_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_medical_information_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_volunteer_activism_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_volunteer_activism_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_ballot_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_ballot_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_sliderbackground.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\sliderbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_group_2.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\group_2.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_ballot_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_ballot_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_ballot_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_ballot_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_home_black_48.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_home_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_ballot_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_ballot_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_red_container.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\red_container.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_home_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_home_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_vector_2.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\vector_2.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\layout_activity_week_view.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_week_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_addinfo.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\addinfo.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_addinfo.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\addinfo.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_group_3.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\group_3.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_vector__1_.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\vector__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_volunteer_activism_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_volunteer_activism_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_ellipse_15.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\ellipse_15.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_volunteer_activism_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_volunteer_activism_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_medical_information_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_medical_information_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xhdpi_baseline_medical_information_black_36.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xhdpi\\baseline_medical_information_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_addinfo.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\addinfo.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_sliderbackground.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\sliderbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_volunteer_activism_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_volunteer_activism_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_blood.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\blood.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_line4.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\line4.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxxhdpi_baseline_volunteer_activism_black_18.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxxhdpi\\baseline_volunteer_activism_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_question_mark.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\question_mark.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_check_up_bttn.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\check_up_bttn.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable_auto_eval.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable\\auto_eval.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-hdpi_blood.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-hdpi\\blood.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_blood.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\blood.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-mdpi_baseline_medical_information_black_24.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-mdpi\\baseline_medical_information_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-merged_res-40:\\drawable-xxhdpi_baseline_medical_information_black_20.png.flat",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\drawable-xxhdpi\\baseline_medical_information_black_20.png"
     }
 ]
