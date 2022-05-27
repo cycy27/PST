@@ -12,18 +12,18 @@
         android:backgroundTint="#FFFFFF"
         android:foregroundTint="#390808"
         android:textAlignment="center"
-        tools:context=".Profil">
+        tools:context=".ProfilActivity">
 
         <ImageView
             android:id="@+id/imageView11"
-            android:layout_width="126dp"
-            android:layout_height="136dp"
+            android:layout_width="140dp"
+            android:layout_height="148dp"
             android:layout_marginTop="4dp"
+            android:contentDescription="todo"
             android:src="@drawable/profil_pic"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            android:contentDescription="todo" />
+            app:layout_constraintTop_toTopOf="parent" />
 
         <ImageView
             android:id="@+id/imageView12"
@@ -79,17 +79,18 @@
             android:id="@+id/editTextTextMultiLine"
             android:layout_width="350dp"
             android:layout_height="wrap_content"
+            android:autofillHints=""
             android:ems="10"
             android:gravity="start|top"
             android:inputType="textMultiLine"
             android:minHeight="48dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.491"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/imageView13"
             app:layout_constraintVertical_bias="0.0"
-            tools:ignore="SpeakableTextPresentCheck"
-            android:autofillHints="" />
+            tools:ignore="SpeakableTextPresentCheck" />
 
         <ImageView
             android:id="@+id/imageView15"
@@ -417,7 +418,7 @@
             app:layout_constraintHorizontal_bias="0.076"
             app:layout_constraintStart_toStartOf="@+id/imageView23"
             app:layout_constraintTop_toTopOf="@+id/imageView23"
-             />
+            />
 
         <CheckBox
             android:id="@+id/checkBox"
@@ -473,6 +474,3 @@
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
-
-
-

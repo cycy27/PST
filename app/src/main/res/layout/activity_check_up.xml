@@ -4,8 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Check_up">
-
+    tools:context=".CheckUpActivity">
     <ImageView
         android:id="@+id/imageView4"
         android:layout_width="34dp"
@@ -136,4 +135,5 @@
         app:layout_constraintTop_toBottomOf="@+id/imageButton17"
         app:layout_constraintVertical_bias="0.576"
         app:srcCompat="@drawable/group_5" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

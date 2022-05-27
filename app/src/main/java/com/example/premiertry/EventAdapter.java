@@ -1,7 +1,6 @@
 package com.example.premiertry;
 
 import android.content.Context;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,12 +10,11 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class EventAdapter extends ArrayAdapter<Event>
 {
-    public EventAdapter(@NonNull Context context,  List<Event> events)
+    public EventAdapter(@NonNull Context context, List<Event> events)
     {
         super(context, 0, events);
     }

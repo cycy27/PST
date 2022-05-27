@@ -5,57 +5,62 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="26"
+        android:minSdkVersion="28"
         android:targetSdkVersion="32" />
 
     <application
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
         android:debuggable="true"
         android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/Theme.Premiertry" >
         <activity
-            android:name="com.example.premiertry.Sos"
+            android:name="com.example.premiertry.SigninActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.premiertry.Signin"
+            android:name="com.example.premiertry.SignupActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.premiertry.Singup"
+            android:name="com.example.premiertry.Welcome3Activity"
             android:exported="false" />
         <activity
-            android:name="com.example.premiertry.welcome3"
+            android:name="com.example.premiertry.Welcome2Activity"
             android:exported="false" />
         <activity
-            android:name="com.example.premiertry.welcome2"
+            android:name="com.example.premiertry.SosActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.PortfolioActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.ProfilActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.CheckUpActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.AutoevaluationActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.WeekViewActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.HistoryActivity"
             android:exported="false" />
         <activity
             android:name="com.example.premiertry.MainActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.premiertry.Profil"
-            android:exported="true" />
-        <activity
-            android:name="com.example.premiertry.Protfolio"
-            android:exported="false" />
-        <activity
-            android:name="com.example.premiertry.Check_up"
-            android:exported="false" />
-        <activity
-            android:name="com.example.premiertry.welcome1"
-            android:exported="true" />
-        <activity
-            android:name="com.example.premiertry.Autoevaluation"
-            android:exported="false"
-            android:label="@string/title_activity_autoevaluation" />
-        <activity
-            android:name="com.example.premiertry.History"
+            android:name="com.example.premiertry.Welcome1Activity"
             android:exported="true"
-            android:label="test" >
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

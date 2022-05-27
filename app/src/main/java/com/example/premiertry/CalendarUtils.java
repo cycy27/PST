@@ -1,5 +1,4 @@
 package com.example.premiertry;
-
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.LocalTime;
@@ -69,7 +68,7 @@ public class CalendarUtils
 
         while (current.isAfter(oneWeekAgo))
         {
-            if(current.getDayOfWeek() == DayOfWeek.SUNDAY)
+            if(current.getDayOfWeek() == DayOfWeek.MONDAY)
                 return current;
 
             current = current.minusDays(1);
@@ -80,3 +79,4 @@ public class CalendarUtils
 
 
 }
+

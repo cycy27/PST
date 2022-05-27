@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FCEFEF"
-    tools:context=".Sos">
+    tools:context=".SosActivity">
+
 
     <ImageView
         android:id="@+id/emojiwiouwoug"
@@ -44,7 +45,6 @@
         android:layout_centerVertical="true"
         android:gravity="center_horizontal|center_vertical"
         android:text="        You have 15s to cancel your call.
-
         After 15s a call to the emergency will be made to the emergency and your contact"
         android:textColor="#000000"
         android:textSize="20dp"
@@ -96,4 +96,5 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.153"
         app:srcCompat="@drawable/wiouwou" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

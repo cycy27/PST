@@ -4,6 +4,8 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
 
+
+
 public class Event
 {
     public static ArrayList<Event> eventsList = new ArrayList<>();
@@ -24,16 +26,10 @@ public class Event
     }
 
 
-    private String sympt1;
-    private String sympt2;
-    private String sympt3;
-    private String sympt4;
-    private String sympt5;
-    private String sympt6;
+
     private String result;
     private LocalDate date;
     private LocalTime time;
-    private String text;
 
 
 
