@@ -144,8 +144,14 @@ id textView12
 id textView13
 id textView14
 id textView15
+id textView16
+id textView17
 id textView18
+id textView19
 id textView2
+id textView20
+id textView21
+id textView22
 id textView3
 id textView4
 id textView5
@@ -184,6 +190,7 @@ string check_up
 string checkupbtn
 string default_web_client_id
 string edit
+string editTextLogin
 string editTextPhone
 string elipse0
 string elipse1

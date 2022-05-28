@@ -10,6 +10,8 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Objects;
 
 public class Singup extends AppCompatActivity {
@@ -34,8 +36,22 @@ public class Singup extends AppCompatActivity {
 
         //button listeners
         buttoncontinuesu.setOnClickListener(view -> {
-            User user= new User(-1,name.getText().toString(),email.getText().toString(),password.getText().toString());
-            Toast.makeText(Singup.this, user.toString(),Toast.LENGTH_SHORT).show();
+            User user;
+            try{
+
+                user= new User(-1,name.getText().toString(),email.getText().toString(),password.getText().toString());
+                Toast.makeText(Singup.this, user.toString(),Toast.LENGTH_SHORT).show();
+
+
+            }catch(Exception e){
+                Toast.makeText(Singup.this, "error",Toast.LENGTH_SHORT).show();
+                user= new User(-1,"error","error","error");
+
+            }
+            DataBaseHelper dataBaseHelper= new DataBaseHelper(Singup.this);
+            List<User> allUsers= dataBaseHelper.getAllUsers();
+            //boolean done= dataBaseHelper.addOne(user);
+            Toast.makeText(Singup.this, "users: "+ allUsers.toString(),Toast.LENGTH_SHORT).show();
 
         }
 

@@ -20,7 +20,7 @@ public class welcome1 extends AppCompatActivity {
         loginbutton.setOnClickListener(new View.OnClickListener (){
             @Override
             public void onClick(View v){
-                opensingup();
+                openSignin();
             }
         });
 
@@ -28,7 +28,7 @@ public class welcome1 extends AppCompatActivity {
         registerbutton.setOnClickListener(new View.OnClickListener (){
             @Override
             public void onClick(View v){
-                openSignin();
+                opensingup();
             }
         });
 

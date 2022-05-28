@@ -1,27 +1,27 @@
 [
     {
-        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/merged_res/debug/drawable_home.png.flat",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/drawable/home.png"
     },
     {
         "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/merged_res/debug/drawable_portfolio.png.flat",
         "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/drawable/portfolio.png"
     },
     {
-        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/merged_res/debug/drawable_home.png.flat",
-        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/drawable/home.png"
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
         "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/merged_res/debug/drawable_age_rec.png.flat",
         "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/drawable/age_rec.png"
     },
     {
-        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
-    },
-    {
         "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
     },
     {
         "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",

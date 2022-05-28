@@ -40,5 +40,6 @@
     <string name="checkupbtn">checkupbutton</string>
     <string name="elipse0">elipse0</string>
     <string name="casa">casa</string>
+    <string name="editTextLogin">"edit test "</string>
 
 </resources>

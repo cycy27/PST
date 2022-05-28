@@ -37,18 +37,35 @@ public final class ActivitySingupBinding implements ViewBinding {
   public final EditText pswd;
 
   @NonNull
+  public final TextView textView19;
+
+  @NonNull
+  public final TextView textView20;
+
+  @NonNull
+  public final TextView textView21;
+
+  @NonNull
+  public final TextView textView22;
+
+  @NonNull
   public final TextView textView4;
 
   private ActivitySingupBinding(@NonNull ConstraintLayout rootView,
       @NonNull Button buttoncontinuesu, @NonNull EditText confirmpswd,
       @NonNull EditText emailpersonsu, @NonNull EditText namesu, @NonNull EditText pswd,
-      @NonNull TextView textView4) {
+      @NonNull TextView textView19, @NonNull TextView textView20, @NonNull TextView textView21,
+      @NonNull TextView textView22, @NonNull TextView textView4) {
     this.rootView = rootView;
     this.buttoncontinuesu = buttoncontinuesu;
     this.confirmpswd = confirmpswd;
     this.emailpersonsu = emailpersonsu;
     this.namesu = namesu;
     this.pswd = pswd;
+    this.textView19 = textView19;
+    this.textView20 = textView20;
+    this.textView21 = textView21;
+    this.textView22 = textView22;
     this.textView4 = textView4;
   }
 
@@ -109,6 +126,30 @@ public final class ActivitySingupBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.textView19;
+      TextView textView19 = ViewBindings.findChildViewById(rootView, id);
+      if (textView19 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView20;
+      TextView textView20 = ViewBindings.findChildViewById(rootView, id);
+      if (textView20 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView21;
+      TextView textView21 = ViewBindings.findChildViewById(rootView, id);
+      if (textView21 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView22;
+      TextView textView22 = ViewBindings.findChildViewById(rootView, id);
+      if (textView22 == null) {
+        break missingId;
+      }
+
       id = R.id.textView4;
       TextView textView4 = ViewBindings.findChildViewById(rootView, id);
       if (textView4 == null) {
@@ -116,7 +157,7 @@ public final class ActivitySingupBinding implements ViewBinding {
       }
 
       return new ActivitySingupBinding((ConstraintLayout) rootView, buttoncontinuesu, confirmpswd,
-          emailpersonsu, namesu, pswd, textView4);
+          emailpersonsu, namesu, pswd, textView19, textView20, textView21, textView22, textView4);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

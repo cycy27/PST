@@ -33,14 +33,22 @@ public final class ActivitySigninBinding implements ViewBinding {
   @NonNull
   public final TextView textView15;
 
+  @NonNull
+  public final TextView textView16;
+
+  @NonNull
+  public final TextView textView17;
+
   private ActivitySigninBinding(@NonNull ConstraintLayout rootView, @NonNull EditText EditEmail2si,
       @NonNull Button buttoncontinuesi, @NonNull EditText editPassword2si,
-      @NonNull TextView textView15) {
+      @NonNull TextView textView15, @NonNull TextView textView16, @NonNull TextView textView17) {
     this.rootView = rootView;
     this.EditEmail2si = EditEmail2si;
     this.buttoncontinuesi = buttoncontinuesi;
     this.editPassword2si = editPassword2si;
     this.textView15 = textView15;
+    this.textView16 = textView16;
+    this.textView17 = textView17;
   }
 
   @Override
@@ -94,8 +102,20 @@ public final class ActivitySigninBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.textView16;
+      TextView textView16 = ViewBindings.findChildViewById(rootView, id);
+      if (textView16 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView17;
+      TextView textView17 = ViewBindings.findChildViewById(rootView, id);
+      if (textView17 == null) {
+        break missingId;
+      }
+
       return new ActivitySigninBinding((ConstraintLayout) rootView, EditEmail2si, buttoncontinuesi,
-          editPassword2si, textView15);
+          editPassword2si, textView15, textView16, textView17);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
