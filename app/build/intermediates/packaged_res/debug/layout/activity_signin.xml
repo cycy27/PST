@@ -13,7 +13,7 @@
         android:layout_height="34dp"
         android:text="Register"
         android:textColor="#851824"
-        android:textSize="25dp"
+        android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.079"
@@ -23,12 +23,12 @@
 
     <Button
         android:id="@+id/buttoncontinuesi"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Continue"
-        app:cornerRadius="10dp"
-        android:textSize="15dp"
+        android:layout_width="118dp"
+        android:layout_height="76dp"
         android:backgroundTint="#D5A4A5"
+        android:text="Continue"
+        android:textSize="15sp"
+        app:cornerRadius="10sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -36,23 +36,23 @@
 
     <EditText
         android:id="@+id/EditEmail2si"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="223dp"
+        android:layout_height="58dp"
         android:ems="10"
         android:inputType="textPersonName"
         android:text="Email:"
         android:textColor="#851824"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.114"
+        app:layout_constraintHorizontal_bias="0.109"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.198" />
+        app:layout_constraintVertical_bias="0.196" />
 
     <EditText
         android:id="@+id/editPassword2si"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="223dp"
+        android:layout_height="56dp"
         android:ems="10"
         android:inputType="textPersonName"
         android:text="Password:"

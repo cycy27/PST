@@ -27,6 +27,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Premiertry" >
         <activity
+            android:name="com.example.premiertry.HelpActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.premiertry.SigninActivity"
             android:exported="false" />
         <activity

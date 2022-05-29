@@ -57,5 +57,18 @@
     <string name="Time">Time</string>
     <string name="check">Check out all your Symptoms</string>
 
+    <string name="elipse9">elipse9</string>
+    <string name="elipse10">elipse10</string>
+    <string name="gobacks">gbcks</string>
+    <string name="helpe">Helpe</string>
+    <string name="Help">Help</string>
+    <string name="please_te_us_how_we_can_help_or_improve_we_will_email_you_back_as_soon_as_possible">Please te us how we can help or improve we will email you back as soon as possible !</string>
+    <string name="multiline">multiline</string>
+    <string name="type_your_request_here">Type your request here</string>
+    <string name="profilpric" />
+    <string name="profilprics">profpic</string>
+    <string name="home">Home</string>
+    <string name="profilpicface">profilpickface</string>
+    <string name="Heartrate">hrtrte</string>
 
 </resources>

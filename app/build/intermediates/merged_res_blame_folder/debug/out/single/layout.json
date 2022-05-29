@@ -40,8 +40,8 @@
         "source": "com.example.premiertry.app-main-42:/layout/activity_welcome2.xml"
     },
     {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_singup.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_singup.xml"
+        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_help.xml",
+        "source": "com.example.premiertry.app-main-42:/layout/activity_help.xml"
     },
     {
         "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_welcome1.xml",
