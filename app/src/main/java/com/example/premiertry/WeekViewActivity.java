@@ -11,6 +11,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ImageButton;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -23,6 +24,7 @@ public class WeekViewActivity extends AppCompatActivity implements CalendarAdapt
     private TextView monthYearText;
     private RecyclerView calendarRecyclerView;
     private ListView eventListView;
+    ImageButton btn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
@@ -31,6 +33,7 @@ public class WeekViewActivity extends AppCompatActivity implements CalendarAdapt
         setContentView(R.layout.activity_week_view);
         initWidgets();
         setWeekView();
+        addListenerOnButtonClick();
     }
 
     private void initWidgets()
@@ -38,6 +41,7 @@ public class WeekViewActivity extends AppCompatActivity implements CalendarAdapt
         calendarRecyclerView = findViewById(R.id.calendarRecyclerView);
         monthYearText = findViewById(R.id.monthYearTV);
         eventListView = findViewById(R.id.eventListView);
+        btn = (ImageButton) findViewById(R.id.GoBackArrow);
     }
 
     private void setWeekView()
@@ -89,6 +93,22 @@ public class WeekViewActivity extends AppCompatActivity implements CalendarAdapt
     public void newEventAction(View view)
     {
         startActivity(new Intent(this, AutoevaluationActivity.class));
+    }
+
+    public void addListenerOnButtonClick() {
+
+
+        btn = (ImageButton) findViewById(R.id.GoBackArrow);
+
+
+        btn.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+
+                finish();
+            }
+        });
     }
 }
 
