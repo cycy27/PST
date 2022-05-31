@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageButton profilpicface;
     private ImageButton historybutton;
     private ImageButton Sosbutton;
+    private ImageButton autoevalbutton;
 
 
     @Override
@@ -56,6 +57,12 @@ public class MainActivity extends AppCompatActivity {
                 openSos();
             }
         });
+        autoevalbutton = (ImageButton) findViewById(R.id.autoevalbutton);
+        autoevalbutton.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v){
+                openautoeval();
+            }
+        });
     }
 
     public void openCheck_up(){
@@ -76,6 +83,10 @@ public class MainActivity extends AppCompatActivity {
     }
     public void openSos(){
         Intent intent = new Intent(this, SosActivity.class);
+        startActivity(intent);
+    }
+    public void openautoeval(){
+        Intent intent = new Intent(this, AutoevaluationActivity.class);
         startActivity(intent);
     }
 }

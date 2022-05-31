@@ -114,6 +114,7 @@ id Checkup
 id Cough
 id EditEmail2si
 id GoBackArrow
+id autoevalbutton
 id bottomnav
 id button
 id buttoncancel
@@ -161,9 +162,7 @@ id imageButton16
 id imageButton17
 id imageButton18
 id imageButton19
-id imageButton20
 id imageButton21
-id imageButton3
 id imageButton9
 id imageView
 id imageView10
@@ -254,7 +253,6 @@ layout activity_history
 layout activity_main
 layout activity_portfolio
 layout activity_profil
-layout activity_protfolio
 layout activity_signin
 layout activity_signup
 layout activity_sos
