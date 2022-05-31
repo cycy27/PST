@@ -12,14 +12,13 @@
     android:paddingTop="?attr/actionBarSize">
 
 
-
     <TextView
         android:id="@+id/textHome"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:accessibilityLiveRegion="none"
         android:fontFamily="sans-serif-black"
-        android:text="Home"
+        android:text="@string/home"
         android:textColor="#7A2328"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -58,16 +57,16 @@
 
     <ImageButton
         android:id="@+id/checkup_button"
-        android:layout_width="411dp"
-        android:layout_height="88dp"
+        android:layout_width="380dp"
+        android:layout_height="72dp"
         android:backgroundTint="#FFFFFF"
         android:contentDescription="@string/checkupbtn"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.258"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.231"
+        app:layout_constraintVertical_bias="0.218"
         app:srcCompat="@drawable/groups_list_button"
         tools:ignore="DuplicateSpeakableTextCheck" />
 
@@ -79,25 +78,25 @@
         android:contentDescription="@string/autoeval"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.428"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/checkup_button"
-        app:layout_constraintVertical_bias="0.0"
+        app:layout_constraintVertical_bias="0.084"
         app:srcCompat="@drawable/auto_eval"
         tools:ignore="ImageContrastCheck,DuplicateSpeakableTextCheck" />
 
     <ImageButton
-        android:id="@+id/imageButton4"
+        android:id="@+id/portfolioboutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FFFFFF"
         android:contentDescription="@string/btnPortfolio"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.428"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton3"
-        app:layout_constraintVertical_bias="0.0"
+        app:layout_constraintVertical_bias="0.125"
         app:srcCompat="@drawable/portfolio"
         tools:ignore="ImageContrastCheck" />
 
@@ -111,8 +110,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.428"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton4"
-        app:layout_constraintVertical_bias="0.0"
+        app:layout_constraintTop_toBottomOf="@+id/portfolioboutton"
+        app:layout_constraintVertical_bias="0.159"
         app:srcCompat="@drawable/history"
         tools:ignore="ImageContrastCheck" />
 
@@ -124,11 +123,27 @@
         android:contentDescription="@string/SOS"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.428"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton5"
-        app:layout_constraintVertical_bias="0.293"
+        app:layout_constraintVertical_bias="0.692"
         app:srcCompat="@drawable/sos" />
+
+    <ImageButton
+        android:id="@+id/profilpicface"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#FFFFFF"
+        android:contentDescription="@string/profilpicface"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.904"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.039"
+        app:srcCompat="@drawable/group_7" />
+
+
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/nav_view"

@@ -72,6 +72,7 @@ drawable group_3
 drawable group_4
 drawable group_5
 drawable group_6
+drawable group_7
 drawable group__1_
 drawable groups_list_button
 drawable groups_list_button__5_
@@ -162,7 +163,6 @@ id imageButton19
 id imageButton20
 id imageButton21
 id imageButton3
-id imageButton4
 id imageButton5
 id imageButton6
 id imageButton8
@@ -216,6 +216,8 @@ id othersymptoms
 id outofbreath
 id painlevel
 id parentView
+id portfolioboutton
+id profilpicface
 id pswd
 id registerbutton
 id spinner
