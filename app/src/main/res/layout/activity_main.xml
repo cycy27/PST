@@ -63,10 +63,10 @@
         android:contentDescription="@string/checkupbtn"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.258"
+        app:layout_constraintHorizontal_bias="0.516"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.218"
+        app:layout_constraintVertical_bias="0.267"
         app:srcCompat="@drawable/groups_list_button"
         tools:ignore="DuplicateSpeakableTextCheck" />
 
@@ -81,7 +81,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/checkup_button"
-        app:layout_constraintVertical_bias="0.084"
+        app:layout_constraintVertical_bias="0.025"
         app:srcCompat="@drawable/auto_eval"
         tools:ignore="ImageContrastCheck,DuplicateSpeakableTextCheck" />
 
@@ -93,15 +93,15 @@
         android:contentDescription="@string/btnPortfolio"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.428"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton3"
-        app:layout_constraintVertical_bias="0.125"
+        app:layout_constraintVertical_bias="0.011"
         app:srcCompat="@drawable/portfolio"
         tools:ignore="ImageContrastCheck" />
 
     <ImageButton
-        android:id="@+id/imageButton5"
+        android:id="@+id/historybutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FFFFFF"
@@ -111,21 +111,21 @@
         app:layout_constraintHorizontal_bias="0.428"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/portfolioboutton"
-        app:layout_constraintVertical_bias="0.159"
+        app:layout_constraintVertical_bias="0.045"
         app:srcCompat="@drawable/history"
         tools:ignore="ImageContrastCheck" />
 
     <ImageButton
-        android:id="@+id/imageButton6"
+        android:id="@+id/sosbutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FFFFFF"
         android:contentDescription="@string/SOS"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/nav_view"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.428"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton5"
+        app:layout_constraintTop_toBottomOf="@+id/historybutton"
         app:layout_constraintVertical_bias="0.692"
         app:srcCompat="@drawable/sos" />
 
@@ -171,8 +171,10 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
 
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
         app:navGraph="@navigation/mobile_navigation" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

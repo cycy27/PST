@@ -150,6 +150,7 @@ id eventTimeTV
 id feelfaint
 id feelstiff
 id headache
+id historybutton
 id hlpbtn
 id imageButton
 id imageButton10
@@ -163,8 +164,6 @@ id imageButton19
 id imageButton20
 id imageButton21
 id imageButton3
-id imageButton5
-id imageButton6
 id imageButton8
 id imageButton9
 id imageView
@@ -220,6 +219,7 @@ id portfolioboutton
 id profilpicface
 id pswd
 id registerbutton
+id sosbutton
 id spinner
 id spinner1
 id spinner2

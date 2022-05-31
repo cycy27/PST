@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
     private ImageButton checkup_button;
     private ImageButton portfoliobutton;
     private ImageButton profilpicface;
+    private ImageButton historybutton;
+    private ImageButton Sosbutton;
 
 
     @Override
@@ -40,6 +42,20 @@ public class MainActivity extends AppCompatActivity {
                 openProfil();
             }
         });
+
+        historybutton = (ImageButton) findViewById(R.id.historybutton);
+        historybutton.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v){
+                openHistory();
+            }
+        });
+
+        Sosbutton = (ImageButton) findViewById(R.id.sosbutton);
+        Sosbutton.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v){
+                openSos();
+            }
+        });
     }
 
     public void openCheck_up(){
@@ -52,6 +68,14 @@ public class MainActivity extends AppCompatActivity {
     }
     public void openProfil(){
         Intent intent = new Intent(this, ProfilActivity.class);
+        startActivity(intent);
+    }
+    public void openHistory(){
+        Intent intent = new Intent(this, HistoryActivity.class);
+        startActivity(intent);
+    }
+    public void openSos(){
+        Intent intent = new Intent(this, SosActivity.class);
         startActivity(intent);
     }
 }
