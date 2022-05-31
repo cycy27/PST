@@ -10,14 +10,16 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 
-public class HistoryActivity extends AppCompatActivity implements CalendarAdapter.OnItemListener{
+public class HistoryActivity extends AppCompatActivity implements CalendarAdapter.OnItemListener {
     private TextView monthYearText;
     private RecyclerView calendarRecyclerView;
+    ImageButton btn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,15 +29,16 @@ public class HistoryActivity extends AppCompatActivity implements CalendarAdapte
         initWidgets();
         CalendarUtils.selectedDate = LocalDate.now();
         setMonthView();
-    }
-    private void initWidgets()
-    {
-        calendarRecyclerView = findViewById(R.id.calendarRecyclerView);
-        monthYearText = findViewById(R.id.monthYearTV);
+        addListenerOnButtonClick();
     }
 
-    private void setMonthView()
-    {
+    private void initWidgets() {
+        calendarRecyclerView = findViewById(R.id.calendarRecyclerView);
+        monthYearText = findViewById(R.id.monthYearTV);
+        btn = findViewById(R.id.GoBackArrow);
+    }
+
+    private void setMonthView() {
         monthYearText.setText(monthYearFromDate(CalendarUtils.selectedDate));
         ArrayList<LocalDate> daysInMonth = daysInMonthArray(CalendarUtils.selectedDate);
 
@@ -45,30 +48,41 @@ public class HistoryActivity extends AppCompatActivity implements CalendarAdapte
         calendarRecyclerView.setAdapter(calendarAdapter);
     }
 
-    public void previousMonthAction(View view)
-    {
+    public void previousMonthAction(View view) {
         CalendarUtils.selectedDate = CalendarUtils.selectedDate.minusMonths(1);
         setMonthView();
     }
 
-    public void nextMonthAction(View view)
-    {
+    public void nextMonthAction(View view) {
         CalendarUtils.selectedDate = CalendarUtils.selectedDate.plusMonths(1);
         setMonthView();
     }
 
     @Override
-    public void onItemClick(int position, LocalDate date)
-    {
-        if(date != null)
-        {
+    public void onItemClick(int position, LocalDate date) {
+        if (date != null) {
             CalendarUtils.selectedDate = date;
             setMonthView();
         }
     }
 
-    public void weeklyAction(View view)
-    {
+    public void weeklyAction(View view) {
         startActivity(new Intent(this, WeekViewActivity.class));
+    }
+
+    public void addListenerOnButtonClick() {
+
+
+        btn = (ImageButton) findViewById(R.id.GoBackArrow);
+
+
+        btn.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+
+                finish();
+            }
+        });
     }
 }
