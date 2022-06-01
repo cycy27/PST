@@ -1,7 +1,6 @@
 package com.example.premiertry;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -36,14 +35,13 @@ public class Welcome1 extends AppCompatActivity {
     }
 
     public void opensingup(){
-        Intent intent = new Intent(this, Singup.class);
+        Intent intent = new Intent(this, SignupActivity.class);
         startActivity(intent);
     }
     public void openSignin(){
-        Intent intent = new Intent(this, Signin.class);
+        Intent intent = new Intent(this, SigninActivity.class);
         startActivity(intent);
     }
 
 
 }
-

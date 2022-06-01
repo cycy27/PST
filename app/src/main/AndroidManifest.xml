@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.premiertry">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.premiertry" >
 
     <application
         android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Premiertry">
+
+        android:theme="@style/Theme.Premiertry"
+        tools:targetApi="31" >
         <activity
-            android:name=".Sos"
+            android:name=".HelpActivity"
             android:exported="false" />
         <activity
-            android:name=".Signin"
+            android:name=".SigninActivity"
             android:exported="false" />
         <activity
-            android:name=".Singup"
+            android:name=".SignupActivity"
             android:exported="false" />
         <activity
             android:name=".Welcome3"
@@ -25,20 +30,35 @@
             android:name=".Welcome2"
             android:exported="false" />
         <activity
+            android:name=".SosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PortfolioActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CheckUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AutoevaluationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WeekViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HistoryActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
-        <activity
-            android:name=".Profil"
-            android:exported="true" />
-        <activity
-            android:name=".Protfolio"
-            android:exported="false" />
-        <activity
-            android:name=".Check_up"
-            android:exported="false" />
+
+
         <activity
             android:name=".Welcome1"
-            android:exported="true">
+            android:exported="true"
+            android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

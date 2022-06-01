@@ -4,7 +4,32 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     tools:context=".Signin">
+=======
+    tools:context=".SigninActivity">
+
+<<<<<<<< HEAD:app/src/main/res/layout/activity_singup.xml
+    <EditText
+        android:id="@+id/SignUpPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:hint="Password"
+        android:minHeight="48dp"
+        android:text=""
+        android:textColor="#851824"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.129"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.401"
+        tools:ignore="SpeakableTextPresentCheck" />
+========
+>>>>>>>> origin/christryn°2:app/build/intermediates/packaged_res/debug/layout/activity_signin.xml
+>>>>>>> origin/christryn°2
 
     <TextView
         android:id="@+id/textView15"
@@ -22,9 +47,21 @@
 
 
     <Button
+<<<<<<< HEAD
         android:id="@+id/SignInContinue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+=======
+<<<<<<<< HEAD:app/src/main/res/layout/activity_singup.xml
+        android:id="@+id/SignUpContinue"
+        android:layout_width="135dp"
+        android:layout_height="60dp"
+========
+        android:id="@+id/SignInContinue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+>>>>>>>> origin/christryn°2:app/build/intermediates/packaged_res/debug/layout/activity_signin.xml
+>>>>>>> origin/christryn°2
         android:backgroundTint="#D5A4A5"
         android:text="Continue"
         android:textColor="#FFFF"
@@ -37,6 +74,55 @@
         app:layout_constraintVertical_bias="0.56" />
 
     <EditText
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:app/src/main/res/layout/activity_singup.xml
+        android:id="@+id/SignUpName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Name"
+        android:minHeight="48dp"
+        android:text=""
+        android:textColor="#851824"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.129"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.152"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/SignUpEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="E-mail"
+        android:minHeight="48dp"
+        android:text=""
+        android:textColor="#851824"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.129"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.273"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/SignUpConfirmPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Confirm password"
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        android:text=""
+========
+>>>>>>> origin/christryn°2
         android:id="@+id/SignInEmail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -72,10 +158,30 @@
         android:id="@+id/SignInEmailError"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
+=======
+>>>>>>>> origin/christryn°2:app/build/intermediates/packaged_res/debug/layout/activity_signin.xml
+>>>>>>> origin/christryn°2
         android:textColor="#851824"
         android:textSize="18dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:app/src/main/res/layout/activity_singup.xml
+        app:layout_constraintHorizontal_bias="0.129"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.544"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/nameAlert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+========
+>>>>>>> origin/christryn°2
         app:layout_constraintHorizontal_bias="0.094"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -85,12 +191,73 @@
         android:id="@+id/SignInPasswordError"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
+=======
+>>>>>>>> origin/christryn°2:app/build/intermediates/packaged_res/debug/layout/activity_signin.xml
+>>>>>>> origin/christryn°2
         android:textColor="#851824"
         android:textSize="18dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:app/src/main/res/layout/activity_singup.xml
+        app:layout_constraintHorizontal_bias="0.038"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.214" />
+
+    <TextView
+        android:id="@+id/confirmPassAlert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:textColor="#851824"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.038"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.594" />
+
+    <TextView
+        android:id="@+id/emailAlert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:textColor="#851824"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.038"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.332" />
+
+    <TextView
+        android:id="@+id/paswordAlert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="18dp"
+        android:textColor="#851824"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.038"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.455" />
+
+========
+>>>>>>> origin/christryn°2
         app:layout_constraintHorizontal_bias="0.103"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.459" />
+<<<<<<< HEAD
+=======
+>>>>>>>> origin/christryn°2:app/build/intermediates/packaged_res/debug/layout/activity_signin.xml
+
+>>>>>>> origin/christryn°2
 </androidx.constraintlayout.widget.ConstraintLayout>

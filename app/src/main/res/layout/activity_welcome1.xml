@@ -5,7 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#7A2328"
+<<<<<<< HEAD
     tools:context=".Welcome1">
+=======
+    tools:context=".Welcome1Activity">
+>>>>>>> origin/christryn°2
 
     <TextView
         android:id="@+id/textView"
@@ -113,5 +117,3 @@
         app:srcCompat="@drawable/ellipse_13" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
-

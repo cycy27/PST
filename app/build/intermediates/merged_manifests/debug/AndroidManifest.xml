@@ -5,37 +5,69 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="21"
+        android:minSdkVersion="28"
         android:targetSdkVersion="32" />
 
     <application
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
         android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Premiertry" >
         <activity
-            android:name="com.example.premiertry.Sos"
+            android:name="com.example.premiertry.HelpActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.premiertry.Signin"
+            android:name="com.example.premiertry.SigninActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.premiertry.Singup"
+            android:name="com.example.premiertry.SignupActivity"
             android:exported="false" />
         <activity
+<<<<<<< HEAD
             android:name="com.example.premiertry.Welcome3"
             android:exported="false" />
         <activity
             android:name="com.example.premiertry.Welcome2"
+=======
+            android:name="com.example.premiertry.Welcome3Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.Welcome2Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.SosActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.PortfolioActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.ProfilActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.CheckUpActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.AutoevaluationActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.WeekViewActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.HistoryActivity"
+>>>>>>> origin/christryn°2
             android:exported="false" />
         <activity
             android:name="com.example.premiertry.MainActivity"
             android:exported="false" />
         <activity
+<<<<<<< HEAD
             android:name="com.example.premiertry.Profil"
             android:exported="true" />
         <activity
@@ -47,12 +79,74 @@
         <activity
             android:name="com.example.premiertry.Welcome1"
             android:exported="true" >
+=======
+            android:name="com.example.premiertry.Welcome1Activity"
+            android:exported="true"
+            android:label="@string/app_name" >
+>>>>>>> origin/christryn°2
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
+=======
+        <activity
+            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.premiertry.firebaseinitprovider"
+            android:directBootAware="true"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.premiertry.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
+>>>>>>> origin/christryn°2
     </application>
 
 </manifest>

@@ -8,7 +8,11 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 
+<<<<<<<< HEAD:app/src/main/java/com/example/premiertry/Welcome3.java
 public class Welcome3 extends AppCompatActivity {
+========
+public class Welcome3Activity extends AppCompatActivity {
+>>>>>>>> origin/christryn°2:app/src/main/java/com/example/premiertry/Welcome3Activity.java
 
     private ImageView Buttonnextw3;
 
