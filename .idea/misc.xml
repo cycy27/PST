@@ -9,9 +9,11 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1828125" />
         <entry key="app/src/main/res/layout/activity_profil.xml" value="0.34260429835651074" />
         <entry key="app/src/main/res/layout/activity_protfolio.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/activity_singup.xml" value="0.1828125" />
+        <entry key="app/src/main/res/layout/activity_signin.xml" value="0.5447941888619855" />
+        <entry key="app/src/main/res/layout/activity_singup.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_welcome1.xml" value="0.1828125" />
         <entry key="app/src/main/res/layout/activity_welcome2.xml" value="0.1828125" />
+        <entry key="app/src/main/res/layout/background_color.xml" value="0.21197916666666666" />
         <entry key="app/src/main/res/layout/profil.xml" value="0.5" />
         <entry key="other/premiertry/app/src/main/res/layout/activity_check_up.xml" value="0.35733695652173914" />
       </map>
