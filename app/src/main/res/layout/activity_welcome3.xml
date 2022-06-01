@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Welcome3">
+    tools:context=".welcome3">
 
     <TextView
         android:id="@+id/textView14"
@@ -46,7 +46,7 @@
         app:srcCompat="@drawable/ellipse_10" />
 
     <ImageView
-        android:id="@+id/Buttonnextw3"
+        android:id="@+id/imageView33"
         android:layout_width="53dp"
         android:layout_height="44dp"
         android:rotation="180"

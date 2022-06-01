@@ -45,4 +45,5 @@
     <string name="bottom_navigation_menu_home">Home</string>
     <string name="bottom_navigation_menu_checkup">Check-up</string>
     <string name="bottom_navigation_menu_history">History</string>
+    
 </resources>
