@@ -1,5 +1,7 @@
 package com.example.premiertry;
 
+
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
@@ -10,12 +12,12 @@ import android.widget.ImageButton;
 public class CheckUpActivity extends AppCompatActivity {
     private ImageButton goback;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_check_up);
-        goback = (ImageButton) findViewById(R.id.GoBackArrow);
+
+        goback = (ImageButton) findViewById(R.id.goback);
         goback.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 openMainActivity();

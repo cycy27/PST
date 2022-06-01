@@ -1,138 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".CheckUpActivity">
-    <ImageView
-        android:id="@+id/imageView4"
-        android:layout_width="34dp"
-        android:layout_height="67dp"
-        android:contentDescription="@string/elipse3"
-        android:rotation="-17"
-        android:rotationY="8"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.689"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.862"
-        app:srcCompat="@drawable/ellipse_8" />
+    android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="107dp"
-        android:layout_height="139dp"
-        android:contentDescription="@string/elipse2etdemi"
-        android:rotationY="193"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.899"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.799"
-        app:srcCompat="@drawable/ellipse_8" />
-
-    <TextView
-        android:id="@+id/Checkup"
-        android:layout_width="wrap_content"
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:accessibilityLiveRegion="none"
-        android:fontFamily="sans-serif-black"
-        android:text="@string/check_up"
-        android:textColor="#7A2328"
-        android:textSize="34sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.303"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.12" />
-
-    <ImageButton
-        android:id="@+id/GoBackArrow"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/menu"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.03"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.04000002"
-        app:srcCompat="@drawable/vector"
-        tools:ignore="DuplicateSpeakableTextCheck" />
-
-    <ImageButton
-        android:id="@+id/imageButton9"
-        android:layout_width="52dp"
-        android:layout_height="48dp"
-        android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/casa"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.93"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.050000012"
-        app:srcCompat="@drawable/menu" />
-
-    <ImageButton
-        android:id="@+id/imageButton16"
-        android:layout_width="161dp"
-        android:layout_height="141dp"
+        android:background="#FFFFFF"
         android:backgroundTint="#FFFFFF"
         android:contentDescription="@string/heartrate"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.104"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.289"
-        app:srcCompat="@drawable/group_2"
-        tools:ignore="DuplicateSpeakableTextCheck" />
+        tools:context=".CheckUpActivity">
 
-    <ImageButton
-        android:id="@+id/imageButton17"
-        android:layout_width="179dp"
-        android:layout_height="141dp"
-        android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/temperature"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.931"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.289"
-        app:srcCompat="@drawable/group_3" />
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="34dp"
+            android:layout_height="67dp"
+            android:contentDescription="@string/elipse3"
+            android:rotation="-17"
+            android:rotationY="8"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.716"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0"
+            app:srcCompat="@drawable/ellipse_8" />
 
-    <ImageButton
-        android:id="@+id/imageButton18"
-        android:layout_width="161dp"
-        android:layout_height="141dp"
-        android:backgroundTint="#FFFFFF"
-        android:contentDescription="@string/spo2"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.104"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton16"
-        app:layout_constraintVertical_bias="0.039"
-        app:srcCompat="@drawable/group_4" />
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="107dp"
+            android:layout_height="139dp"
+            android:layout_marginTop="276dp"
+            android:contentDescription="@string/elipse2etdemi"
+            android:rotationY="193"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView39"
+            app:srcCompat="@drawable/ellipse_8" />
 
-    <ImageButton
-        android:id="@+id/imageButton19"
-        android:layout_width="179dp"
-        android:layout_height="139dp"
-        android:backgroundTint="#FFFDFD"
-        android:contentDescription="@string/bloodpressure"
-        app:layout_constraintBottom_toTopOf="@+id/imageView2"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.644"
-        app:layout_constraintStart_toEndOf="@+id/imageButton18"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton17"
-        app:layout_constraintVertical_bias="0.576"
-        app:srcCompat="@drawable/group_5" />
+        <TextView
+            android:id="@+id/Checkup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:accessibilityLiveRegion="none"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/check_up"
+            android:textColor="#7A2328"
+            android:textSize="34sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.303"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.12" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+        <ImageButton
+            android:id="@+id/goback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FFFFFF"
+            android:contentDescription="@string/menu"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.03"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.04000002"
+            app:srcCompat="@drawable/vector"
+            tools:ignore="DuplicateSpeakableTextCheck" />
+
+        <ImageView
+            android:id="@+id/imageView34"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/Heartrate"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.444"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.676"
+            app:srcCompat="@drawable/group_8" />
+
+        <ImageView
+            android:id="@+id/imageView35"
+            android:layout_width="371dp"
+            android:layout_height="89dp"
+            android:contentDescription="@string/temperature"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.6"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.866"
+            app:srcCompat="@drawable/group_3" />
+
+        <ImageView
+            android:id="@+id/imageView36"
+            android:layout_width="401dp"
+            android:layout_height="91dp"
+            android:contentDescription="@string/bloodpressure"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.279"
+            app:srcCompat="@drawable/group_5" />
+
+        <ImageView
+            android:id="@+id/imageView39"
+            android:layout_width="370dp"
+            android:layout_height="86dp"
+            android:contentDescription="@string/spo2"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.585"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.487"
+            app:srcCompat="@drawable/group_4" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

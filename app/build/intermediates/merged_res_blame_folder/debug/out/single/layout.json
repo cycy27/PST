@@ -1,35 +1,31 @@
 [
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-mergeDebugResources-39:\\layout\\activity_check_up.xml",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_check_up.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-mergeDebugResources-39:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\fragment_dashboard.xml"
     },
     {
         "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-mergeDebugResources-39:\\layout\\event_cell.xml",
         "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\event_cell.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-mergeDebugResources-39:\\layout\\fragment_dashboard.xml",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\fragment_dashboard.xml"
+        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-mergeDebugResources-39:\\layout\\activity_check_up.xml",
+        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_check_up.xml"
     },
     {
         "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-mergeDebugResources-39:\\layout\\fragment_home.xml",
         "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-mergeDebugResources-39:\\layout\\activity_protfolio.xml",
-        "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_protfolio.xml"
-    },
-    {
         "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-mergeDebugResources-39:\\layout\\activity_history.xml",
         "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_history.xml"
     },
     {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_portfolio.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_portfolio.xml"
-    },
-    {
         "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-mergeDebugResources-39:\\layout\\activity_welcome1.xml",
         "source": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-main-42:\\layout\\activity_welcome1.xml"
+    },
+    {
+        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_check_up.xml",
+        "source": "com.example.premiertry.app-main-42:/layout/activity_check_up.xml"
     },
     {
         "merged": "C:\\Users\\chris\\.gradle\\daemon\\7.3.3\\com.example.premiertry.app-mergeDebugResources-39:\\layout\\activity_main.xml",

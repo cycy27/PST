@@ -67,12 +67,12 @@ drawable ellipse_15
 drawable ellipse_15_2
 drawable ellipse_8
 drawable feel_good
-drawable group_2
 drawable group_3
 drawable group_4
 drawable group_5
 drawable group_6
 drawable group_7
+drawable group_8
 drawable group__1_
 drawable groups_list_button
 drawable groups_list_button__5_
@@ -150,6 +150,7 @@ id eventListView
 id eventTimeTV
 id feelfaint
 id feelstiff
+id goback
 id headache
 id historybutton
 id hlpbtn
@@ -158,12 +159,7 @@ id imageButton10
 id imageButton11
 id imageButton13
 id imageButton14
-id imageButton16
-id imageButton17
-id imageButton18
-id imageButton19
 id imageButton21
-id imageButton9
 id imageView
 id imageView10
 id imageView11
@@ -190,6 +186,10 @@ id imageView3
 id imageView30
 id imageView31
 id imageView32
+id imageView34
+id imageView35
+id imageView36
+id imageView39
 id imageView4
 id imageView5
 id imageView6

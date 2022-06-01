@@ -20,7 +20,7 @@
 14-->[com.google.firebase:firebase-database:20.0.5] C:\Users\chris\.gradle\caches\transforms-3\30f489740fed80d6be652a87e651007e\transformed\firebase-database-20.0.5\AndroidManifest.xml:26:22-64
 15
 16    <application
-16-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:6:5-65:19
+16-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:6:5-66:19
 17        android:allowBackup="true"
 17-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:7:9-35
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -39,206 +39,205 @@
 25-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:12:9-54
 26        android:supportsRtl="true"
 26-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:13:9-35
-27        android:testOnly="true"
-28        android:theme="@style/Theme.Premiertry" >
-28-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:14:9-48
-29        <activity
-29-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:16:9-18:40
-30            android:name="com.example.premiertry.HelpActivity"
-30-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:17:13-41
-31            android:exported="false" />
-31-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:18:13-37
-32        <activity
-32-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:19:9-21:40
-33            android:name="com.example.premiertry.SigninActivity"
-33-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:20:13-43
-34            android:exported="false" />
-34-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:21:13-37
-35        <activity
-35-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:22:9-24:40
-36            android:name="com.example.premiertry.SignupActivity"
-36-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:23:13-43
-37            android:exported="false" />
-37-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:24:13-37
-38        <activity
-38-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:25:9-27:40
-39            android:name="com.example.premiertry.Welcome3Activity"
-39-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:26:13-45
-40            android:exported="false" />
-40-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:27:13-37
-41        <activity
-41-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:28:9-30:40
-42            android:name="com.example.premiertry.Welcome2Activity"
-42-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:29:13-45
-43            android:exported="false" />
-43-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:30:13-37
-44        <activity
-44-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:31:9-33:40
-45            android:name="com.example.premiertry.SosActivity"
-45-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:32:13-40
-46            android:exported="false" />
-46-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:33:13-37
-47        <activity
-47-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:34:9-36:40
-48            android:name="com.example.premiertry.PortfolioActivity"
-48-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:35:13-46
-49            android:exported="false" />
-49-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:36:13-37
-50        <activity
-50-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:37:9-39:40
-51            android:name="com.example.premiertry.ProfilActivity"
-51-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:38:13-43
-52            android:exported="false" />
-52-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:39:13-37
-53        <activity
-53-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:40:9-42:40
-54            android:name="com.example.premiertry.CheckUpActivity"
-54-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:41:13-44
-55            android:exported="false" />
-55-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:42:13-37
-56        <activity
-56-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:43:9-45:40
-57            android:name="com.example.premiertry.AutoevaluationActivity"
-57-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:44:13-51
-58            android:exported="false" />
-58-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:45:13-37
-59        <activity
-59-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:46:9-48:40
-60            android:name="com.example.premiertry.WeekViewActivity"
-60-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:47:13-45
-61            android:exported="false" />
-61-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:48:13-37
-62        <activity
-62-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:49:9-51:40
-63            android:name="com.example.premiertry.HistoryActivity"
-63-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:50:13-44
-64            android:exported="false" />
-64-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:51:13-37
-65        <activity
-65-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:52:9-54:40
-66            android:name="com.example.premiertry.MainActivity"
-66-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:53:13-41
-67            android:exported="false" />
-67-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:54:13-37
-68        <activity
-68-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:55:9-64:20
-69            android:name="com.example.premiertry.Welcome1Activity"
-69-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:56:13-45
-70            android:exported="true"
-70-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:57:13-36
-71            android:label="@string/app_name" >
-71-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:58:13-45
-72            <intent-filter>
-72-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:59:13-63:29
-73                <action android:name="android.intent.action.MAIN" />
-73-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:60:17-69
-73-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:60:25-66
-74
-75                <category android:name="android.intent.category.LAUNCHER" />
-75-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:62:17-77
-75-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:62:27-74
-76            </intent-filter>
-77        </activity>
-78        <activity
-78-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
-79            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-79-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
-80            android:excludeFromRecents="true"
-80-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
-81            android:exported="true"
-81-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
-82            android:launchMode="singleTask"
-82-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
-83            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-83-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
-84            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-84-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
-85
-86        <service
-86-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
-87            android:name="com.google.firebase.components.ComponentDiscoveryService"
-87-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
-88            android:directBootAware="true"
-88-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:35:13-43
-89            android:exported="false" >
-89-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
-90            <meta-data
-90-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
-91                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-91-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
-92                android:value="com.google.firebase.components.ComponentRegistrar" />
-92-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
-93            <meta-data
-93-->[com.google.firebase:firebase-database:20.0.5] C:\Users\chris\.gradle\caches\transforms-3\30f489740fed80d6be652a87e651007e\transformed\firebase-database-20.0.5\AndroidManifest.xml:32:13-34:85
-94                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-94-->[com.google.firebase:firebase-database:20.0.5] C:\Users\chris\.gradle\caches\transforms-3\30f489740fed80d6be652a87e651007e\transformed\firebase-database-20.0.5\AndroidManifest.xml:33:17-109
-95                android:value="com.google.firebase.components.ComponentRegistrar" />
-95-->[com.google.firebase:firebase-database:20.0.5] C:\Users\chris\.gradle\caches\transforms-3\30f489740fed80d6be652a87e651007e\transformed\firebase-database-20.0.5\AndroidManifest.xml:34:17-82
-96        </service>
-97
-98        <activity
-98-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\chris\.gradle\caches\transforms-3\554e56b7ca3c23393183273258feb399\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-99            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-99-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\chris\.gradle\caches\transforms-3\554e56b7ca3c23393183273258feb399\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-100            android:exported="false"
-100-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\chris\.gradle\caches\transforms-3\554e56b7ca3c23393183273258feb399\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-101            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-101-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\chris\.gradle\caches\transforms-3\554e56b7ca3c23393183273258feb399\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-102
-103        <provider
-103-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
-104            android:name="com.google.firebase.provider.FirebaseInitProvider"
-104-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:27:13-77
-105            android:authorities="com.example.premiertry.firebaseinitprovider"
-105-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:28:13-72
-106            android:directBootAware="true"
-106-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:29:13-43
-107            android:exported="false"
-107-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:30:13-37
-108            android:initOrder="100" />
-108-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:31:13-36
-109
-110        <meta-data
-110-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\chris\.gradle\caches\transforms-3\f4edb30f12a4233ffb8ce3032d6469ff\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
-111            android:name="com.google.android.gms.version"
-111-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\chris\.gradle\caches\transforms-3\f4edb30f12a4233ffb8ce3032d6469ff\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
-112            android:value="@integer/google_play_services_version" />
-112-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\chris\.gradle\caches\transforms-3\f4edb30f12a4233ffb8ce3032d6469ff\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
-113
-114        <provider
-114-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-115            android:name="androidx.startup.InitializationProvider"
-115-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-116            android:authorities="com.example.premiertry.androidx-startup"
-116-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-117            android:exported="false" >
-117-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-118            <meta-data
-118-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-119                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-119-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-120                android:value="androidx.startup" />
-120-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-121            <meta-data
-121-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\chris\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-122                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-122-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\chris\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-123                android:value="androidx.startup" />
-123-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\chris\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-124        </provider>
-125
-126        <uses-library
-126-->[androidx.window:window:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-127            android:name="androidx.window.extensions"
-127-->[androidx.window:window:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-128            android:required="false" />
-128-->[androidx.window:window:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-129        <uses-library
-129-->[androidx.window:window:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-130            android:name="androidx.window.sidecar"
-130-->[androidx.window:window:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-131            android:required="false" />
-131-->[androidx.window:window:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-132    </application>
-133
-134</manifest>
+27        android:theme="@style/Theme.Premiertry" >
+27-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:15:9-48
+28        <activity
+28-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:17:9-19:40
+29            android:name="com.example.premiertry.HelpActivity"
+29-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:18:13-41
+30            android:exported="false" />
+30-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:19:13-37
+31        <activity
+31-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:20:9-22:40
+32            android:name="com.example.premiertry.SigninActivity"
+32-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:21:13-43
+33            android:exported="false" />
+33-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:22:13-37
+34        <activity
+34-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:23:9-25:40
+35            android:name="com.example.premiertry.SignupActivity"
+35-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:24:13-43
+36            android:exported="false" />
+36-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:25:13-37
+37        <activity
+37-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:26:9-28:40
+38            android:name="com.example.premiertry.Welcome3Activity"
+38-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:27:13-45
+39            android:exported="false" />
+39-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:28:13-37
+40        <activity
+40-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:29:9-31:40
+41            android:name="com.example.premiertry.Welcome2Activity"
+41-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:30:13-45
+42            android:exported="false" />
+42-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:31:13-37
+43        <activity
+43-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:32:9-34:40
+44            android:name="com.example.premiertry.SosActivity"
+44-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:33:13-40
+45            android:exported="false" />
+45-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:34:13-37
+46        <activity
+46-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:35:9-37:40
+47            android:name="com.example.premiertry.PortfolioActivity"
+47-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:36:13-46
+48            android:exported="false" />
+48-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:37:13-37
+49        <activity
+49-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:38:9-40:40
+50            android:name="com.example.premiertry.ProfilActivity"
+50-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:39:13-43
+51            android:exported="false" />
+51-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:40:13-37
+52        <activity
+52-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:41:9-43:40
+53            android:name="com.example.premiertry.CheckUpActivity"
+53-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:42:13-44
+54            android:exported="false" />
+54-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:43:13-37
+55        <activity
+55-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:44:9-46:40
+56            android:name="com.example.premiertry.AutoevaluationActivity"
+56-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:45:13-51
+57            android:exported="false" />
+57-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:46:13-37
+58        <activity
+58-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:47:9-49:40
+59            android:name="com.example.premiertry.WeekViewActivity"
+59-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:48:13-45
+60            android:exported="false" />
+60-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:49:13-37
+61        <activity
+61-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:50:9-52:40
+62            android:name="com.example.premiertry.HistoryActivity"
+62-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:51:13-44
+63            android:exported="false" />
+63-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:52:13-37
+64        <activity
+64-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:53:9-55:40
+65            android:name="com.example.premiertry.MainActivity"
+65-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:54:13-41
+66            android:exported="false" />
+66-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:55:13-37
+67        <activity
+67-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:56:9-65:20
+68            android:name="com.example.premiertry.Welcome1Activity"
+68-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:57:13-45
+69            android:exported="true"
+69-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:58:13-36
+70            android:label="@string/app_name" >
+70-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:59:13-45
+71            <intent-filter>
+71-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:60:13-64:29
+72                <action android:name="android.intent.action.MAIN" />
+72-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:61:17-69
+72-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:61:25-66
+73
+74                <category android:name="android.intent.category.LAUNCHER" />
+74-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:63:17-77
+74-->C:\Users\chris\Documents\GitHub\PST\app\src\main\AndroidManifest.xml:63:27-74
+75            </intent-filter>
+76        </activity>
+77        <activity
+77-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+78            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+78-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+79            android:excludeFromRecents="true"
+79-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+80            android:exported="true"
+80-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+81            android:launchMode="singleTask"
+81-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+82            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+82-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+83            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+83-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+84
+85        <service
+85-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+86            android:name="com.google.firebase.components.ComponentDiscoveryService"
+86-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
+87            android:directBootAware="true"
+87-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+88            android:exported="false" >
+88-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
+89            <meta-data
+89-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+90                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+90-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+91                android:value="com.google.firebase.components.ComponentRegistrar" />
+91-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\chris\.gradle\caches\transforms-3\1d5b0f878f0ac05be7d315bb575a1229\transformed\firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+92            <meta-data
+92-->[com.google.firebase:firebase-database:20.0.5] C:\Users\chris\.gradle\caches\transforms-3\30f489740fed80d6be652a87e651007e\transformed\firebase-database-20.0.5\AndroidManifest.xml:32:13-34:85
+93                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+93-->[com.google.firebase:firebase-database:20.0.5] C:\Users\chris\.gradle\caches\transforms-3\30f489740fed80d6be652a87e651007e\transformed\firebase-database-20.0.5\AndroidManifest.xml:33:17-109
+94                android:value="com.google.firebase.components.ComponentRegistrar" />
+94-->[com.google.firebase:firebase-database:20.0.5] C:\Users\chris\.gradle\caches\transforms-3\30f489740fed80d6be652a87e651007e\transformed\firebase-database-20.0.5\AndroidManifest.xml:34:17-82
+95        </service>
+96
+97        <activity
+97-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\chris\.gradle\caches\transforms-3\554e56b7ca3c23393183273258feb399\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+98            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+98-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\chris\.gradle\caches\transforms-3\554e56b7ca3c23393183273258feb399\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+99            android:exported="false"
+99-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\chris\.gradle\caches\transforms-3\554e56b7ca3c23393183273258feb399\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+100            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+100-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\chris\.gradle\caches\transforms-3\554e56b7ca3c23393183273258feb399\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+101
+102        <provider
+102-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+103            android:name="com.google.firebase.provider.FirebaseInitProvider"
+103-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+104            android:authorities="com.example.premiertry.firebaseinitprovider"
+104-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+105            android:directBootAware="true"
+105-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+106            android:exported="false"
+106-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+107            android:initOrder="100" />
+107-->[com.google.firebase:firebase-common:20.1.1] C:\Users\chris\.gradle\caches\transforms-3\5792fb13a6e36032bf6fc1e87848959b\transformed\firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+108
+109        <meta-data
+109-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\chris\.gradle\caches\transforms-3\f4edb30f12a4233ffb8ce3032d6469ff\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+110            android:name="com.google.android.gms.version"
+110-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\chris\.gradle\caches\transforms-3\f4edb30f12a4233ffb8ce3032d6469ff\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+111            android:value="@integer/google_play_services_version" />
+111-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\chris\.gradle\caches\transforms-3\f4edb30f12a4233ffb8ce3032d6469ff\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+112
+113        <provider
+113-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+114            android:name="androidx.startup.InitializationProvider"
+114-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+115            android:authorities="com.example.premiertry.androidx-startup"
+115-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+116            android:exported="false" >
+116-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+117            <meta-data
+117-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+118                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+118-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+119                android:value="androidx.startup" />
+119-->[androidx.emoji2:emoji2:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+120            <meta-data
+120-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\chris\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+121                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+121-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\chris\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+122                android:value="androidx.startup" />
+122-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\chris\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+123        </provider>
+124
+125        <uses-library
+125-->[androidx.window:window:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+126            android:name="androidx.window.extensions"
+126-->[androidx.window:window:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+127            android:required="false" />
+127-->[androidx.window:window:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+128        <uses-library
+128-->[androidx.window:window:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+129            android:name="androidx.window.sidecar"
+129-->[androidx.window:window:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+130            android:required="false" />
+130-->[androidx.window:window:1.0.0] C:\Users\chris\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+131    </application>
+132
+133</manifest>
