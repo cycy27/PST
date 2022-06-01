@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="rose_200">#FFEEEF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="ConsultDoc">ConsultDoc</string>
+    <string name="Email">Email</string>
+    <string name="Nom_Prenom">Nom Prénom</string>
+    <string name="SOS">sos</string>
+    <string name="addDoc">adddocument</string>
+    <string name="adresse">Adresse</string>
+    <string name="app_name">PST</string>
+    <string name="autoeval">AUTOeval</string>
+    <string name="bloodpressure">bldpressr</string>
+    <string name="btnPortfolio">Btnportfolio</string>
+    <string name="casa">casa</string>
+    <string name="check_">check-up</string>
+    <string name="check_up">Check-up</string>
+    <string name="checkupbtn">checkupbutton</string>
+    <string name="default_web_client_id" translatable="false">703759091858-06oac41nr4jkgqp9pv4q15ocst5qpo1i.apps.googleusercontent.com</string>
+    <string name="edit">edit</string>
+    <string name="editTextLogin">"edit test "</string>
+    <string name="editTextPhone">editTextPhone</string>
+    <string name="elipse0">elipse0</string>
+    <string name="elipse1">elipse1</string>
+    <string name="elipse2etdemi">elipse2etdemi</string>
+    <string name="elipse3">elipse3</string>
+    <string name="elipse4">elipse4</string>
+    <string name="elipse5">elipse5</string>
+    <string name="email">\@ Email</string>
+    <string name="firebase_database_url" translatable="false">https://pst3a-82c4d-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">703759091858</string>
+    <string name="google_api_key" translatable="false">AIzaSyBTponfelCp5TqWbJ0pceWMBpq_0oA4IX8</string>
+    <string name="google_app_id" translatable="false">1:703759091858:android:c882948d4102f67595fe4b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBTponfelCp5TqWbJ0pceWMBpq_0oA4IX8</string>
+    <string name="google_storage_bucket" translatable="false">pst3a-82c4d.appspot.com</string>
+    <string name="heartrate">hrtrate</string>
+    <string name="help">help</string>
+    <string name="history">History</string>
+    <string name="menu">menu</string>
+    <string name="menumode">menumode_</string>
+    <string name="n_de_t_l_phone">N° de téléphone</string>
+    <string name="number"/>
+    <string name="number2">Numéro de téléphone</string>
+    <string name="petitdetail">petitDetail</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="profil">Profil</string>
+    <string name="project_id" translatable="false">pst3a-82c4d</string>
+    <string name="retour">retour</string>
+    <string name="spo2">sp02</string>
+    <string name="temperature">temp</string>
+    <string name="toutpetitdetail">toutpetitdetail</string>
+    <style name="Theme.Premiertry" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryVariant">#FBFCFD</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

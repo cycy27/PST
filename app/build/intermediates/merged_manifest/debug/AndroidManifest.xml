@@ -18,16 +18,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Premiertry" >
         <activity
+            android:name="com.example.premiertry.Sos"
+            android:exported="false" />
+        <activity
+            android:name="com.example.premiertry.Signin"
+            android:exported="false" />
+        <activity
             android:name="com.example.premiertry.Singup"
             android:exported="false" />
         <activity
-            android:name="com.example.premiertry.welcome3"
+            android:name="com.example.premiertry.Welcome3"
             android:exported="false" />
         <activity
-            android:name="com.example.premiertry.welcome2"
+            android:name="com.example.premiertry.Welcome2"
             android:exported="false" />
         <activity
-            android:name="com.example.premiertry.welcome1"
+            android:name="com.example.premiertry.MainActivity"
             android:exported="false" />
         <activity
             android:name="com.example.premiertry.Profil"
@@ -39,7 +45,7 @@
             android:name="com.example.premiertry.Check_up"
             android:exported="false" />
         <activity
-            android:name="com.example.premiertry.MainActivity"
+            android:name="com.example.premiertry.Welcome1"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
