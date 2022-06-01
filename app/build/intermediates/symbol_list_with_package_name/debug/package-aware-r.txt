@@ -1793,7 +1793,6 @@ id BOTTOM_START
 id Buttonnextw3
 id CTRL
 id Checkup
-id EditEmail2si
 id FUNCTION
 id META
 id NO_DEBUG
@@ -1802,6 +1801,16 @@ id SHOW_ALL
 id SHOW_PATH
 id SHOW_PROGRESS
 id SYM
+id SignInContinue
+id SignInEmail
+id SignInEmailError
+id SignInPassword
+id SignInPasswordError
+id SignUpConfirmPassword
+id SignUpContinue
+id SignUpEmail
+id SignUpName
+id SignUpPassword
 id TOP_END
 id TOP_START
 id accelerate
@@ -1880,8 +1889,6 @@ id bottom
 id bounce
 id buttonPanel
 id buttoncancel
-id buttoncontinuesi
-id buttoncontinuesu
 id buttonpsd
 id buttonqr
 id cache_measures
@@ -1909,8 +1916,8 @@ id clip_horizontal
 id clip_vertical
 id clockwise
 id collapseActionView
+id confirmPassAlert
 id confirm_button
-id confirmpswd
 id container
 id content
 id contentPanel
@@ -1950,7 +1957,6 @@ id dropdown_menu
 id easeIn
 id easeInOut
 id easeOut
-id editPassword2si
 id editTextPhone
 id editTextPhone2
 id editTextTextEmailAddress
@@ -1958,7 +1964,7 @@ id editTextTextMultiLine
 id editTextTextPersonName
 id edit_query
 id elastic
-id emailpersonsu
+id emailAlert
 id emojiurgence
 id emojiwiouwoug
 id end
@@ -2119,7 +2125,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
-id namesu
+id nameAlert
 id navigation_bar_item_icon_view
 id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
@@ -2143,6 +2149,7 @@ id parentPanel
 id parentRelative
 id parent_matrix
 id password_toggle
+id paswordAlert
 id path
 id pathRelative
 id peekHeight
@@ -2152,7 +2159,6 @@ id position
 id postLayout
 id progress_circular
 id progress_horizontal
-id pswd
 id radio
 id ratio
 id rectangles
@@ -2256,14 +2262,8 @@ id textView12
 id textView13
 id textView14
 id textView15
-id textView16
-id textView17
 id textView18
-id textView19
 id textView2
-id textView20
-id textView21
-id textView22
 id textView3
 id textView4
 id textView5

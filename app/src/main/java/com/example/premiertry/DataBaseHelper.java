@@ -49,8 +49,8 @@ public class DataBaseHelper extends SQLiteOpenHelper {
         ContentValues cv= new ContentValues();
 
         cv.put(COLUMN_NAME,user.getName());
-        cv.put(COLUMN_EMAIL,user.getName());
-        cv.put(COLUMN_PASSWORD,user.getName());
+        cv.put(COLUMN_EMAIL,user.getEmail());
+        cv.put(COLUMN_PASSWORD,user.getPassword());
 
         long insert = db.insert(USER_TABLE, null, cv);
         if(insert==-1){
@@ -87,5 +87,39 @@ public class DataBaseHelper extends SQLiteOpenHelper {
         cursor.close();
         db.close();
         return allUsers;
+    }
+
+    public boolean checkUser(String userEmail, String userPassword){
+        SQLiteDatabase db = this.getReadableDatabase();
+        User user=null;
+        String queryString ="SELECT  * FROM " + USER_TABLE + " WHERE "+COLUMN_EMAIL+"=\'"
+                + userEmail+"\'" +" AND "+COLUMN_PASSWORD+"=\'"+userPassword+"\'";
+        Cursor cursor = db.rawQuery(queryString, null);
+        if(cursor.moveToFirst()){
+            cursor.close();
+            db.close();
+            return true;
+
+        }
+        cursor.close();
+        db.close();
+        return false;
+    }
+
+    public boolean checkUser(String userEmail){
+        SQLiteDatabase db = this.getReadableDatabase();
+        User user=null;
+        String queryString ="SELECT  * FROM " + USER_TABLE + " WHERE "+COLUMN_EMAIL+"=\'"
+                + userEmail+"\'";
+        Cursor cursor = db.rawQuery(queryString, null);
+        if(cursor.moveToFirst()){
+            cursor.close();
+            db.close();
+            return true;
+
+        }
+        cursor.close();
+        db.close();
+        return false;
     }
 }

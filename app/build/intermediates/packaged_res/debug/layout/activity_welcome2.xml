@@ -5,7 +5,7 @@
     android:background="#7A2328"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".welcome2">
+    tools:context=".Welcome2">
 
     <TextView
         android:id="@+id/tittlew2"

@@ -47,13 +47,13 @@
 28-->/root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:20:13-37
 29        <activity
 29-->/root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:21:9-23:40
-30            android:name="com.example.premiertry.welcome3"
+30            android:name="com.example.premiertry.Welcome3"
 30-->/root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:22:13-37
 31            android:exported="false" />
 31-->/root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:23:13-37
 32        <activity
 32-->/root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:24:9-26:40
-33            android:name="com.example.premiertry.welcome2"
+33            android:name="com.example.premiertry.Welcome2"
 33-->/root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:25:13-37
 34            android:exported="false" />
 34-->/root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:26:13-37
@@ -83,7 +83,7 @@
 46-->/root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:38:13-37
 47        <activity
 47-->/root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:39:9-47:20
-48            android:name="com.example.premiertry.welcome1"
+48            android:name="com.example.premiertry.Welcome1"
 48-->/root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:40:13-37
 49            android:exported="true" >
 49-->/root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:41:13-36

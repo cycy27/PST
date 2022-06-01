@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class welcome2 extends AppCompatActivity {
+public class Welcome2 extends AppCompatActivity {
     private Button buttonqr;
 
     @Override
@@ -25,7 +25,7 @@ public class welcome2 extends AppCompatActivity {
 
     }
     public void openwelcome3() {
-        Intent intent = new Intent(this, welcome3.class);
+        Intent intent = new Intent(this, Welcome3.class);
         startActivity(intent);
 
     }

@@ -22,50 +22,50 @@ public final class ActivitySingupBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final Button buttoncontinuesu;
+  public final EditText SignUpConfirmPassword;
 
   @NonNull
-  public final EditText confirmpswd;
+  public final Button SignUpContinue;
 
   @NonNull
-  public final EditText emailpersonsu;
+  public final EditText SignUpEmail;
 
   @NonNull
-  public final EditText namesu;
+  public final EditText SignUpName;
 
   @NonNull
-  public final EditText pswd;
+  public final EditText SignUpPassword;
 
   @NonNull
-  public final TextView textView19;
+  public final TextView confirmPassAlert;
 
   @NonNull
-  public final TextView textView20;
+  public final TextView emailAlert;
 
   @NonNull
-  public final TextView textView21;
+  public final TextView nameAlert;
 
   @NonNull
-  public final TextView textView22;
+  public final TextView paswordAlert;
 
   @NonNull
   public final TextView textView4;
 
   private ActivitySingupBinding(@NonNull ConstraintLayout rootView,
-      @NonNull Button buttoncontinuesu, @NonNull EditText confirmpswd,
-      @NonNull EditText emailpersonsu, @NonNull EditText namesu, @NonNull EditText pswd,
-      @NonNull TextView textView19, @NonNull TextView textView20, @NonNull TextView textView21,
-      @NonNull TextView textView22, @NonNull TextView textView4) {
+      @NonNull EditText SignUpConfirmPassword, @NonNull Button SignUpContinue,
+      @NonNull EditText SignUpEmail, @NonNull EditText SignUpName, @NonNull EditText SignUpPassword,
+      @NonNull TextView confirmPassAlert, @NonNull TextView emailAlert, @NonNull TextView nameAlert,
+      @NonNull TextView paswordAlert, @NonNull TextView textView4) {
     this.rootView = rootView;
-    this.buttoncontinuesu = buttoncontinuesu;
-    this.confirmpswd = confirmpswd;
-    this.emailpersonsu = emailpersonsu;
-    this.namesu = namesu;
-    this.pswd = pswd;
-    this.textView19 = textView19;
-    this.textView20 = textView20;
-    this.textView21 = textView21;
-    this.textView22 = textView22;
+    this.SignUpConfirmPassword = SignUpConfirmPassword;
+    this.SignUpContinue = SignUpContinue;
+    this.SignUpEmail = SignUpEmail;
+    this.SignUpName = SignUpName;
+    this.SignUpPassword = SignUpPassword;
+    this.confirmPassAlert = confirmPassAlert;
+    this.emailAlert = emailAlert;
+    this.nameAlert = nameAlert;
+    this.paswordAlert = paswordAlert;
     this.textView4 = textView4;
   }
 
@@ -96,57 +96,57 @@ public final class ActivitySingupBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.buttoncontinuesu;
-      Button buttoncontinuesu = ViewBindings.findChildViewById(rootView, id);
-      if (buttoncontinuesu == null) {
+      id = R.id.SignUpConfirmPassword;
+      EditText SignUpConfirmPassword = ViewBindings.findChildViewById(rootView, id);
+      if (SignUpConfirmPassword == null) {
         break missingId;
       }
 
-      id = R.id.confirmpswd;
-      EditText confirmpswd = ViewBindings.findChildViewById(rootView, id);
-      if (confirmpswd == null) {
+      id = R.id.SignUpContinue;
+      Button SignUpContinue = ViewBindings.findChildViewById(rootView, id);
+      if (SignUpContinue == null) {
         break missingId;
       }
 
-      id = R.id.emailpersonsu;
-      EditText emailpersonsu = ViewBindings.findChildViewById(rootView, id);
-      if (emailpersonsu == null) {
+      id = R.id.SignUpEmail;
+      EditText SignUpEmail = ViewBindings.findChildViewById(rootView, id);
+      if (SignUpEmail == null) {
         break missingId;
       }
 
-      id = R.id.namesu;
-      EditText namesu = ViewBindings.findChildViewById(rootView, id);
-      if (namesu == null) {
+      id = R.id.SignUpName;
+      EditText SignUpName = ViewBindings.findChildViewById(rootView, id);
+      if (SignUpName == null) {
         break missingId;
       }
 
-      id = R.id.pswd;
-      EditText pswd = ViewBindings.findChildViewById(rootView, id);
-      if (pswd == null) {
+      id = R.id.SignUpPassword;
+      EditText SignUpPassword = ViewBindings.findChildViewById(rootView, id);
+      if (SignUpPassword == null) {
         break missingId;
       }
 
-      id = R.id.textView19;
-      TextView textView19 = ViewBindings.findChildViewById(rootView, id);
-      if (textView19 == null) {
+      id = R.id.confirmPassAlert;
+      TextView confirmPassAlert = ViewBindings.findChildViewById(rootView, id);
+      if (confirmPassAlert == null) {
         break missingId;
       }
 
-      id = R.id.textView20;
-      TextView textView20 = ViewBindings.findChildViewById(rootView, id);
-      if (textView20 == null) {
+      id = R.id.emailAlert;
+      TextView emailAlert = ViewBindings.findChildViewById(rootView, id);
+      if (emailAlert == null) {
         break missingId;
       }
 
-      id = R.id.textView21;
-      TextView textView21 = ViewBindings.findChildViewById(rootView, id);
-      if (textView21 == null) {
+      id = R.id.nameAlert;
+      TextView nameAlert = ViewBindings.findChildViewById(rootView, id);
+      if (nameAlert == null) {
         break missingId;
       }
 
-      id = R.id.textView22;
-      TextView textView22 = ViewBindings.findChildViewById(rootView, id);
-      if (textView22 == null) {
+      id = R.id.paswordAlert;
+      TextView paswordAlert = ViewBindings.findChildViewById(rootView, id);
+      if (paswordAlert == null) {
         break missingId;
       }
 
@@ -156,8 +156,9 @@ public final class ActivitySingupBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivitySingupBinding((ConstraintLayout) rootView, buttoncontinuesu, confirmpswd,
-          emailpersonsu, namesu, pswd, textView19, textView20, textView21, textView22, textView4);
+      return new ActivitySingupBinding((ConstraintLayout) rootView, SignUpConfirmPassword,
+          SignUpContinue, SignUpEmail, SignUpName, SignUpPassword, confirmPassAlert, emailAlert,
+          nameAlert, paswordAlert, textView4);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -22,33 +22,34 @@ public final class ActivitySigninBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final EditText EditEmail2si;
+  public final Button SignInContinue;
 
   @NonNull
-  public final Button buttoncontinuesi;
+  public final EditText SignInEmail;
 
   @NonNull
-  public final EditText editPassword2si;
+  public final TextView SignInEmailError;
+
+  @NonNull
+  public final EditText SignInPassword;
+
+  @NonNull
+  public final TextView SignInPasswordError;
 
   @NonNull
   public final TextView textView15;
 
-  @NonNull
-  public final TextView textView16;
-
-  @NonNull
-  public final TextView textView17;
-
-  private ActivitySigninBinding(@NonNull ConstraintLayout rootView, @NonNull EditText EditEmail2si,
-      @NonNull Button buttoncontinuesi, @NonNull EditText editPassword2si,
-      @NonNull TextView textView15, @NonNull TextView textView16, @NonNull TextView textView17) {
+  private ActivitySigninBinding(@NonNull ConstraintLayout rootView, @NonNull Button SignInContinue,
+      @NonNull EditText SignInEmail, @NonNull TextView SignInEmailError,
+      @NonNull EditText SignInPassword, @NonNull TextView SignInPasswordError,
+      @NonNull TextView textView15) {
     this.rootView = rootView;
-    this.EditEmail2si = EditEmail2si;
-    this.buttoncontinuesi = buttoncontinuesi;
-    this.editPassword2si = editPassword2si;
+    this.SignInContinue = SignInContinue;
+    this.SignInEmail = SignInEmail;
+    this.SignInEmailError = SignInEmailError;
+    this.SignInPassword = SignInPassword;
+    this.SignInPasswordError = SignInPasswordError;
     this.textView15 = textView15;
-    this.textView16 = textView16;
-    this.textView17 = textView17;
   }
 
   @Override
@@ -78,21 +79,33 @@ public final class ActivitySigninBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.EditEmail2si;
-      EditText EditEmail2si = ViewBindings.findChildViewById(rootView, id);
-      if (EditEmail2si == null) {
+      id = R.id.SignInContinue;
+      Button SignInContinue = ViewBindings.findChildViewById(rootView, id);
+      if (SignInContinue == null) {
         break missingId;
       }
 
-      id = R.id.buttoncontinuesi;
-      Button buttoncontinuesi = ViewBindings.findChildViewById(rootView, id);
-      if (buttoncontinuesi == null) {
+      id = R.id.SignInEmail;
+      EditText SignInEmail = ViewBindings.findChildViewById(rootView, id);
+      if (SignInEmail == null) {
         break missingId;
       }
 
-      id = R.id.editPassword2si;
-      EditText editPassword2si = ViewBindings.findChildViewById(rootView, id);
-      if (editPassword2si == null) {
+      id = R.id.SignInEmailError;
+      TextView SignInEmailError = ViewBindings.findChildViewById(rootView, id);
+      if (SignInEmailError == null) {
+        break missingId;
+      }
+
+      id = R.id.SignInPassword;
+      EditText SignInPassword = ViewBindings.findChildViewById(rootView, id);
+      if (SignInPassword == null) {
+        break missingId;
+      }
+
+      id = R.id.SignInPasswordError;
+      TextView SignInPasswordError = ViewBindings.findChildViewById(rootView, id);
+      if (SignInPasswordError == null) {
         break missingId;
       }
 
@@ -102,20 +115,8 @@ public final class ActivitySigninBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.textView16;
-      TextView textView16 = ViewBindings.findChildViewById(rootView, id);
-      if (textView16 == null) {
-        break missingId;
-      }
-
-      id = R.id.textView17;
-      TextView textView17 = ViewBindings.findChildViewById(rootView, id);
-      if (textView17 == null) {
-        break missingId;
-      }
-
-      return new ActivitySigninBinding((ConstraintLayout) rootView, EditEmail2si, buttoncontinuesi,
-          editPassword2si, textView15, textView16, textView17);
+      return new ActivitySigninBinding((ConstraintLayout) rootView, SignInContinue, SignInEmail,
+          SignInEmailError, SignInPassword, SignInPasswordError, textView15);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -102,13 +102,13 @@ ADDED from /root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.
 		ADDED from /root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:20:13-37
 	android:name
 		ADDED from /root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:19:13-35
-activity#com.example.premiertry.welcome3
+activity#com.example.premiertry.Welcome3
 ADDED from /root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:21:9-23:40
 	android:exported
 		ADDED from /root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:23:13-37
 	android:name
 		ADDED from /root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:22:13-37
-activity#com.example.premiertry.welcome2
+activity#com.example.premiertry.Welcome2
 ADDED from /root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:24:9-26:40
 	android:exported
 		ADDED from /root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:26:13-37
@@ -138,7 +138,7 @@ ADDED from /root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.
 		ADDED from /root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:38:13-37
 	android:name
 		ADDED from /root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:37:13-37
-activity#com.example.premiertry.welcome1
+activity#com.example.premiertry.Welcome1
 ADDED from /root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:39:9-47:20
 	android:exported
 		ADDED from /root/AndroidStudioProjects/PST-android/app/src/main/AndroidManifest.xml:41:13-36
