@@ -128,65 +128,6 @@ public class Singup extends AppCompatActivity {
     }
 
 
-    /*private EditText name, email, password, confirmPassword;
-
-    private Button buttoncontinuesu;
-
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_singup);
-
-        //mAuth = FirebaseAuth.getInstance();
-
-        name = findViewById(R.id.namesu);
-        email = findViewById(R.id.emailpersonsu);
-        password = findViewById(R.id.pswd);
-        confirmPassword = findViewById(R.id.confirmpswd);
-        buttoncontinuesu = (Button) findViewById(R.id.buttoncontinuesu);
-
-        //button listeners
-        buttoncontinuesu.setOnClickListener(view -> {
-            if(password.getText().equals(confirmPassword)){
-                User user;
-                try{
-
-                    user= new User(-1,name.getText().toString(),email.getText().toString(),password.getText().toString());
-                    Toast.makeText(Singup.this, user.toString(),Toast.LENGTH_SHORT).show();
-
-
-                }catch(Exception e){
-                    Toast.makeText(Singup.this, "error",Toast.LENGTH_SHORT).show();
-                    user= new User(-1,"error","error","error");
-
-                }
-                DataBaseHelper dataBaseHelper= new DataBaseHelper(Singup.this);
-                boolean done= dataBaseHelper.addOne(user);
-                if(!done)
-                    Toast.makeText(Singup.this, "Error adding to Database!",Toast.LENGTH_SHORT).show();
-                else
-                    openWelcome3();
-
-                //List<User> allUsers= dataBaseHelper.getAllUsers(); // get users
-                //boolean done= dataBaseHelper.addOne(user); //add users
-                //Toast.makeText(Singup.this, "users: "+ allUsers.toString(),Toast.LENGTH_SHORT).show();
-
-            }
-            else{
-                Toast.makeText(Singup.this, "Passwords do not match! ",Toast.LENGTH_SHORT).show();
-
-            }
-
-
-        }
-
-                //User user = new User(name.getText().toString(),email.getText().toString(),password.getText().toString());
-        );
-    }
-
-
-*/
-
 }
 
 
