@@ -29,4 +29,5 @@ public class Welcome2Activity extends AppCompatActivity {
         startActivity(intent);
 
     }
+
 }

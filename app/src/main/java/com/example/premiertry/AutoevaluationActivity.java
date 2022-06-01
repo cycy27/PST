@@ -3,6 +3,7 @@ package com.example.premiertry;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.graphics.Color;
+import android.inputmethodservice.Keyboard;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -19,6 +20,9 @@ import java.time.LocalTime;
 
 
 public class AutoevaluationActivity extends AppCompatActivity {
+
+
+
     CheckBox sympt1,sympt2,sympt3,sympt4, sympt5, sympt6;
     Button buttonOrder;
     EditText editText;
@@ -68,7 +72,7 @@ public class AutoevaluationActivity extends AppCompatActivity {
         StringBuilder result = new StringBuilder();
 
         int seekBarValue= seekbar.getProgress();
-        result.append("Painlevel:"+seekBarValue);
+        result.append("Pain level:"+seekBarValue);
         result.append(", Symptoms: ");
 
         if (sympt1.isChecked()) {
@@ -103,7 +107,12 @@ public class AutoevaluationActivity extends AppCompatActivity {
         // interessting for data base as it is here that you have all required data
         Event newEvent = new Event(result.toString(), CalendarUtils.selectedDate, time);
         Event.eventsList.add(newEvent);
-        //holder.parentView.setBackgroundColor(Color.LTGRAY);
+
+
+
+
+
+
         finish();
     }
 

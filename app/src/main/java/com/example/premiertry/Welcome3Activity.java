@@ -16,6 +16,7 @@ public class Welcome3Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome3);
+
         Buttonnextw3 = (ImageView) findViewById(R.id.Buttonnextw3);
         Buttonnextw3.setOnClickListener(new View.OnClickListener (){
             @Override

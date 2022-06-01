@@ -21,7 +21,7 @@ public class Welcome1Activity extends AppCompatActivity {
         loginbutton.setOnClickListener(new View.OnClickListener (){
             @Override
             public void onClick(View v){
-                opensingup();
+                openSignin();
             }
         });
 
@@ -29,7 +29,7 @@ public class Welcome1Activity extends AppCompatActivity {
         registerbutton.setOnClickListener(new View.OnClickListener (){
             @Override
             public void onClick(View v){
-                openSignin();
+                opensingup();
             }
         });
 
@@ -44,4 +44,6 @@ public class Welcome1Activity extends AppCompatActivity {
         Intent intent = new Intent(this, SigninActivity.class);
         startActivity(intent);
     }
+
+
 }

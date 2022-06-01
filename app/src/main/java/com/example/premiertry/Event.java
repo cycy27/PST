@@ -20,6 +20,7 @@ public class Event
         {
             if(event.getDate().equals(date))
                 events.add(event);
+
         }
 
         return events;
@@ -33,7 +34,7 @@ public class Event
 
 
 
-    public Event( String result, LocalDate date, LocalTime time)
+    public Event(String result, LocalDate date, LocalTime time)
     {
         this.result = result;
         this.date = date;
