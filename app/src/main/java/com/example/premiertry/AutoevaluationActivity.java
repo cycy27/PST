@@ -13,6 +13,7 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 
 
+import java.time.LocalDate;
 import java.time.LocalTime;
 
 
@@ -25,6 +26,7 @@ public class AutoevaluationActivity extends AppCompatActivity {
     SeekBar seekbar;
     private TextView eventDateTV, eventTimeTV;
     private LocalTime time;
+    private LocalDate date;
 
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -32,10 +34,15 @@ public class AutoevaluationActivity extends AppCompatActivity {
         setContentView(R.layout.activity_autoevaluation);
         initWidgets();
         time = LocalTime.now();
-        eventDateTV.setText("Date: " + CalendarUtils.formattedDate(CalendarUtils.selectedDate));
+        if(CalendarUtils.selectedDate == null) {
+            date = LocalDate.now();
+            eventDateTV.setText("Date: " + CalendarUtils.formattedDate(date));
+        }
+        else {
+            eventDateTV.setText("Date: " + CalendarUtils.formattedDate(CalendarUtils.selectedDate));
+        }
         eventTimeTV.setText("Time: " + CalendarUtils.formattedTime(time));
         addListenerOnButtonClick();
-
 
     }
 
