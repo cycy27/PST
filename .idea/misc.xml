@@ -3,10 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-<<<<<<< HEAD
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.191" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.191" />
+        <entry key="app/src/main/res/layout/activity_autoevaluation.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_check_up.xml" value="0.3421875" />
+        <entry key="app/src/main/res/layout/activity_history.xml" value="0.17395833333333333" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1828125" />
         <entry key="app/src/main/res/layout/activity_profil.xml" value="0.34260429835651074" />
         <entry key="app/src/main/res/layout/activity_protfolio.xml" value="0.33" />
@@ -14,52 +15,14 @@
         <entry key="app/src/main/res/layout/activity_singup.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_welcome1.xml" value="0.1828125" />
         <entry key="app/src/main/res/layout/activity_welcome2.xml" value="0.1828125" />
+        <entry key="app/src/main/res/layout/activity_welcome3.xml" value="0.3046875" />
         <entry key="app/src/main/res/layout/background_color.xml" value="0.21197916666666666" />
         <entry key="app/src/main/res/layout/profil.xml" value="0.5" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.17395833333333333" />
         <entry key="other/premiertry/app/src/main/res/layout/activity_check_up.xml" value="0.35733695652173914" />
-=======
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/drawable/rectangle.xml" value="0.16" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/activity_autoevaluation.xml" value="0.2" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/activity_check_up.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/activity_history.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/activity_main.xml" value="0.1368421052631579" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/activity_portfolio.xml" value="0.11302083333333333" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/activity_profil.xml" value="0.12" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/activity_signin.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/activity_sos.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/activity_week_view.xml" value="0.176" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/activity_welcome1.xml" value="0.12" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/activity_welcome2.xml" value="0.21965579710144928" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/activity_welcome3.xml" value="0.21965579710144928" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/calendar_cell.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/event_cell.xml" value="0.11197916666666667" />
-        <entry key="..\:/Users/chris/AndroidStudioProjects/premiertry/app/src/main/res/layout/fragment_dashboard.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_autoevaluation.xml" value="0.1" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_check_up.xml" value="0.1" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_help.xml" value="0.16" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_history.xml" value="0.1" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_main.xml" value="0.16" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_portfolio.xml" value="0.11302083333333333" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_profil.xml" value="0.14175724637681159" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_protfolio.xml" value="0.11302083333333333" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_signin.xml" value="0.1" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_signup.xml" value="0.1" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_singup.xml" value="0.14175724637681159" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_week_view.xml" value="0.1" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_welcome1.xml" value="0.11302083333333333" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_welcome2.xml" value="0.11458333333333333" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/activity_welcome3.xml" value="0.1" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/event_cell.xml" value="0.12360688956433637" />
-        <entry key="..\:/Users/chris/Documents/GitHub/PST/app/src/main/res/layout/fragment_home.xml" value="0.17864583333333334" />
->>>>>>> origin/christryn°2
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/build/classes" />
-  </component>
-  <component name="ProjectType">
-    <option name="id" value="Android" />
-  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>

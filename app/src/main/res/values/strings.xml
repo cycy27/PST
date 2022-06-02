@@ -4,7 +4,7 @@
     <string name="title_dashboard">Check-up</string>
     <string name="title_notifications">History</string>
 
-    <string name="app_name">PST</string>
+    <string name="app_name">Cardio\'Bend</string>
     <string name="check_up">Check-up</string>
 
     <string name="check_">check-up</string>
@@ -48,7 +48,6 @@
     <string name="bottom_navigation_menu_home">Home</string>
     <string name="bottom_navigation_menu_checkup">Check-up</string>
     <string name="bottom_navigation_menu_history">History</string>
-<<<<<<< HEAD
 
 
     <!--Christine's addition-->
@@ -78,6 +77,3 @@
     <string name="Heartrate">hrtrte</string>
 
 </resources>
-=======
-</resources>
->>>>>>> fc87c51c0c8563fa9d06b8df344f46fc130f0748

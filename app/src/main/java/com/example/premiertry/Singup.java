@@ -54,7 +54,7 @@ public class Singup extends AppCompatActivity {
                         user= new User(-1,"error","error","error");
 
                     }
-                    boolean done= dataBaseHelper.addOne(user);
+                    boolean done= dataBaseHelper.addOneUser(user);
                     if(!done)
                         Toast.makeText(Singup.this, "Error adding to Database!",Toast.LENGTH_SHORT).show();
                     else

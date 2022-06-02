@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
-<<<<<<< HEAD
-    <color name="black">#FF000000</color>
-=======
     <color name="app">#7A2328</color>
+    <color name="app_light"> #8A2328 </color>
     <color name="background_grey">#EEEEEE</color>
     <color name="background_light">#FAFAFA</color>
     <color name="black">#FF000000</color>
@@ -13,7 +11,6 @@
     <color name="gray">#888</color>
     <color name="pink">#E3D7D7</color>
     <color name="purple_200">#FFBB86FC</color>
->>>>>>> origin/christryn°2
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="rose_200">#FFEEEF</color>
@@ -23,27 +20,6 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <string name="ConsultDoc">ConsultDoc</string>
-<<<<<<< HEAD
-    <string name="Email">Email</string>
-    <string name="Nom_Prenom">Nom Prénom</string>
-    <string name="SOS">sos</string>
-    <string name="addDoc">adddocument</string>
-    <string name="adresse">Adresse</string>
-    <string name="app_name">PST</string>
-    <string name="autoeval">AUTOeval</string>
-    <string name="bloodpressure">bldpressr</string>
-    <string name="btnPortfolio">Btnportfolio</string>
-    <string name="casa">casa</string>
-    <string name="check_">check-up</string>
-    <string name="check_up">Check-up</string>
-    <string name="checkupbtn">checkupbutton</string>
-    <string name="default_web_client_id" translatable="false">703759091858-06oac41nr4jkgqp9pv4q15ocst5qpo1i.apps.googleusercontent.com</string>
-    <string name="edit">edit</string>
-    <string name="editTextLogin">"edit test "</string>
-    <string name="editTextPhone">editTextPhone</string>
-    <string name="elipse0">elipse0</string>
-    <string name="elipse1">elipse1</string>
-=======
     <string name="Date">Date</string>
     <string name="Email">Email</string>
     <string name="Heartrate">hrtrte</string>
@@ -54,11 +30,14 @@
     <string name="addDoc">adddocument</string>
     <string name="adresse">Adresse</string>
     <string name="app">CalendarAppExample</string>
-    <string name="app_name">PST</string>
+    <string name="app_name">Cardio\'Bend</string>
     <string name="autoeval">AUTOeval</string>
     <string name="autoevaltext">Today\'s Evaluation</string>
     <string name="back"><![CDATA[<-]]></string>
     <string name="bloodpressure">bldpressr</string>
+    <string name="bottom_navigation_menu_checkup">Check-up</string>
+    <string name="bottom_navigation_menu_history">History</string>
+    <string name="bottom_navigation_menu_home">Home</string>
     <string name="btnPortfolio">Btnportfolio</string>
     <string name="calendarcell">1</string>
     <string name="casa">casa</string>
@@ -66,35 +45,28 @@
     <string name="check_">check-up</string>
     <string name="check_up">Check-up</string>
     <string name="checkupbtn">checkupbutton</string>
+    <string name="default_web_client_id" translatable="false">703759091858-06oac41nr4jkgqp9pv4q15ocst5qpo1i.apps.googleusercontent.com</string>
     <string name="edit">edit</string>
+    <string name="editTextLogin">"edit test "</string>
     <string name="editTextPhone">editTextPhone</string>
     <string name="elipse0">elipse0</string>
     <string name="elipse1">elipse1</string>
     <string name="elipse10">elipse10</string>
->>>>>>> origin/christryn°2
     <string name="elipse2etdemi">elipse2etdemi</string>
     <string name="elipse3">elipse3</string>
     <string name="elipse4">elipse4</string>
     <string name="elipse5">elipse5</string>
-<<<<<<< HEAD
+    <string name="elipse9">elipse9</string>
     <string name="email">\@ Email</string>
+    <string name="eventcell">Event</string>
     <string name="firebase_database_url" translatable="false">https://pst3a-82c4d-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="forward"><![CDATA[->]]></string>
     <string name="gcm_defaultSenderId" translatable="false">703759091858</string>
+    <string name="gobacks">gbcks</string>
     <string name="google_api_key" translatable="false">AIzaSyBTponfelCp5TqWbJ0pceWMBpq_0oA4IX8</string>
     <string name="google_app_id" translatable="false">1:703759091858:android:c882948d4102f67595fe4b</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBTponfelCp5TqWbJ0pceWMBpq_0oA4IX8</string>
     <string name="google_storage_bucket" translatable="false">pst3a-82c4d.appspot.com</string>
-    <string name="heartrate">hrtrate</string>
-    <string name="help">help</string>
-    <string name="history">History</string>
-    <string name="menu">menu</string>
-    <string name="menumode">menumode_</string>
-=======
-    <string name="elipse9">elipse9</string>
-    <string name="email">\@ Email</string>
-    <string name="eventcell">Event</string>
-    <string name="forward"><![CDATA[->]]></string>
-    <string name="gobacks">gbcks</string>
     <string name="heartrate">hrtrate</string>
     <string name="help">help</string>
     <string name="helpe">Helpe</string>
@@ -103,30 +75,17 @@
     <string name="menu">menu</string>
     <string name="menumode">menumode_</string>
     <string name="multiline">multiline</string>
->>>>>>> origin/christryn°2
     <string name="n_de_t_l_phone">N° de téléphone</string>
     <string name="number"/>
     <string name="number2">Numéro de téléphone</string>
     <string name="petitdetail">petitDetail</string>
-<<<<<<< HEAD
-    <string name="portfolio">Portfolio</string>
-    <string name="profil">Profil</string>
-    <string name="project_id" translatable="false">pst3a-82c4d</string>
-    <string name="retour">retour</string>
-    <string name="spo2">sp02</string>
-    <string name="temperature">temp</string>
-    <string name="toutpetitdetail">toutpetitdetail</string>
-    <style name="Theme.Premiertry" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
-        
-        <item name="colorPrimary">#FFFFFF</item>
-        <item name="colorPrimaryVariant">#FBFCFD</item>
-=======
     <string name="please_te_us_how_we_can_help_or_improve_we_will_email_you_back_as_soon_as_possible">Please te us how we can help or improve we will email you back as soon as possible !</string>
     <string name="portfolio">Portfolio</string>
     <string name="profil">Profil</string>
     <string name="profilpicface">profilpickface</string>
     <string name="profilpric"/>
     <string name="profilprics">profpic</string>
+    <string name="project_id" translatable="false">pst3a-82c4d</string>
     <string name="retour">retour</string>
     <string name="spo2">sp02</string>
     <string name="temperature">temp</string>
@@ -136,21 +95,18 @@
     <string name="toutpetitdetail">toutpetitdetail</string>
     <string name="type_your_request_here">Type your request here</string>
     <style name="Theme.Premiertry" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
-        
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
->>>>>>> origin/christryn°2
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/app_light</item>
+        <item name="colorPrimaryVariant">@color/app</item>
         <item name="colorOnPrimary">@color/white</item>
-        
+        <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
         <item name="colorSecondaryVariant">@color/teal_700</item>
         <item name="colorOnSecondary">@color/black</item>
-        
+        <!-- Status bar color. -->
         <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
-        
+        <!-- Customize your theme here. -->
     </style>
-<<<<<<< HEAD
-=======
     <style name="ThemeOverlay.Slider" parent="">
         
         <item name="colorOnPrimary">@color/purple_500</item>
@@ -161,5 +117,4 @@
         
         <item name="backgroundTint">@color/white</item>
     </style>
->>>>>>> origin/christryn°2
 </resources>

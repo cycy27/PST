@@ -1,17 +1,10 @@
 {
     "logs": [
         {
-<<<<<<< HEAD
             "outputFile": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
                     "source": "/root/.gradle/caches/transforms-3/f97c5df623dd74a0a16a6b829c4558ac/transformed/material-1.4.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
-=======
-            "outputFile": "com.example.premiertry.app-mergeDebugResources-38:/values-ldrtl-v17/values-ldrtl-v17.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\chris\\.gradle\\caches\\transforms-3\\1217d3aa52fa78bda9a0244b3a55003a\\transformed\\material-1.6.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
->>>>>>> origin/christryn°2
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

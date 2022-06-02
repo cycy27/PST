@@ -4,12 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-<<<<<<< HEAD
-    tools:context=".Welcome3">
-=======
-    tools:context=".Welcome3Activity">
->>>>>>> origin/christryn°2
 
+    tools:context=".Welcome3">
     <TextView
         android:id="@+id/textView14"
         android:layout_width="326dp"
@@ -61,8 +57,5 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.953"
         app:srcCompat="@drawable/vector" />
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/christryn°2
 </androidx.constraintlayout.widget.ConstraintLayout>

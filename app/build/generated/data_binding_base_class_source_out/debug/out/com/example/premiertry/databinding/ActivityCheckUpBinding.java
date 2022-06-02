@@ -6,10 +6,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.ImageView;
+import android.widget.ScrollView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.premiertry.R;
@@ -19,55 +19,50 @@ import java.lang.String;
 
 public final class ActivityCheckUpBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final ScrollView rootView;
 
   @NonNull
   public final TextView Checkup;
 
   @NonNull
-  public final ImageButton imageButton16;
-
-  @NonNull
-  public final ImageButton imageButton17;
-
-  @NonNull
-  public final ImageButton imageButton18;
-
-  @NonNull
-  public final ImageButton imageButton19;
-
-  @NonNull
-  public final ImageButton imageButton8;
-
-  @NonNull
-  public final ImageButton imageButton9;
+  public final ImageButton goback;
 
   @NonNull
   public final ImageView imageView2;
 
   @NonNull
+  public final ImageView imageView34;
+
+  @NonNull
+  public final ImageView imageView35;
+
+  @NonNull
+  public final ImageView imageView36;
+
+  @NonNull
+  public final ImageView imageView39;
+
+  @NonNull
   public final ImageView imageView4;
 
-  private ActivityCheckUpBinding(@NonNull ConstraintLayout rootView, @NonNull TextView Checkup,
-      @NonNull ImageButton imageButton16, @NonNull ImageButton imageButton17,
-      @NonNull ImageButton imageButton18, @NonNull ImageButton imageButton19,
-      @NonNull ImageButton imageButton8, @NonNull ImageButton imageButton9,
-      @NonNull ImageView imageView2, @NonNull ImageView imageView4) {
+  private ActivityCheckUpBinding(@NonNull ScrollView rootView, @NonNull TextView Checkup,
+      @NonNull ImageButton goback, @NonNull ImageView imageView2, @NonNull ImageView imageView34,
+      @NonNull ImageView imageView35, @NonNull ImageView imageView36,
+      @NonNull ImageView imageView39, @NonNull ImageView imageView4) {
     this.rootView = rootView;
     this.Checkup = Checkup;
-    this.imageButton16 = imageButton16;
-    this.imageButton17 = imageButton17;
-    this.imageButton18 = imageButton18;
-    this.imageButton19 = imageButton19;
-    this.imageButton8 = imageButton8;
-    this.imageButton9 = imageButton9;
+    this.goback = goback;
     this.imageView2 = imageView2;
+    this.imageView34 = imageView34;
+    this.imageView35 = imageView35;
+    this.imageView36 = imageView36;
+    this.imageView39 = imageView39;
     this.imageView4 = imageView4;
   }
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public ScrollView getRoot() {
     return rootView;
   }
 
@@ -98,39 +93,9 @@ public final class ActivityCheckUpBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.imageButton16;
-      ImageButton imageButton16 = ViewBindings.findChildViewById(rootView, id);
-      if (imageButton16 == null) {
-        break missingId;
-      }
-
-      id = R.id.imageButton17;
-      ImageButton imageButton17 = ViewBindings.findChildViewById(rootView, id);
-      if (imageButton17 == null) {
-        break missingId;
-      }
-
-      id = R.id.imageButton18;
-      ImageButton imageButton18 = ViewBindings.findChildViewById(rootView, id);
-      if (imageButton18 == null) {
-        break missingId;
-      }
-
-      id = R.id.imageButton19;
-      ImageButton imageButton19 = ViewBindings.findChildViewById(rootView, id);
-      if (imageButton19 == null) {
-        break missingId;
-      }
-
-      id = R.id.imageButton8;
-      ImageButton imageButton8 = ViewBindings.findChildViewById(rootView, id);
-      if (imageButton8 == null) {
-        break missingId;
-      }
-
-      id = R.id.imageButton9;
-      ImageButton imageButton9 = ViewBindings.findChildViewById(rootView, id);
-      if (imageButton9 == null) {
+      id = R.id.goback;
+      ImageButton goback = ViewBindings.findChildViewById(rootView, id);
+      if (goback == null) {
         break missingId;
       }
 
@@ -140,15 +105,38 @@ public final class ActivityCheckUpBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.imageView34;
+      ImageView imageView34 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView34 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView35;
+      ImageView imageView35 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView35 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView36;
+      ImageView imageView36 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView36 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView39;
+      ImageView imageView39 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView39 == null) {
+        break missingId;
+      }
+
       id = R.id.imageView4;
       ImageView imageView4 = ViewBindings.findChildViewById(rootView, id);
       if (imageView4 == null) {
         break missingId;
       }
 
-      return new ActivityCheckUpBinding((ConstraintLayout) rootView, Checkup, imageButton16,
-          imageButton17, imageButton18, imageButton19, imageButton8, imageButton9, imageView2,
-          imageView4);
+      return new ActivityCheckUpBinding((ScrollView) rootView, Checkup, goback, imageView2,
+          imageView34, imageView35, imageView36, imageView39, imageView4);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

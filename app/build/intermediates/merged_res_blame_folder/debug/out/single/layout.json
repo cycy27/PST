@@ -1,12 +1,55 @@
 [
     {
-<<<<<<< HEAD
-        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_singup.xml",
-        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_singup.xml"
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_history.xml",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_history.xml"
     },
     {
         "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sos.xml",
         "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_sos.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_help.xml",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_help.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_portfolio.xml",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_portfolio.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_welcome1.xml",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_welcome1.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_check_up.xml",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_check_up.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/event_cell.xml",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/event_cell.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_autoevaluation.xml",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_autoevaluation.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_week_view.xml",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_week_view.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_notifications.xml",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_dashboard.xml",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/calendar_cell.xml",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/calendar_cell.xml"
     },
     {
         "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
@@ -17,20 +60,12 @@
         "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_welcome2.xml"
     },
     {
-        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_welcome1.xml",
-        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_welcome1.xml"
+        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_signup.xml",
+        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_signup.xml"
     },
     {
         "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_welcome3.xml",
         "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_welcome3.xml"
-    },
-    {
-        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_check_up.xml",
-        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_check_up.xml"
-    },
-    {
-        "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_protfolio.xml",
-        "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_protfolio.xml"
     },
     {
         "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_signin.xml",
@@ -39,81 +74,5 @@
     {
         "merged": "/root/AndroidStudioProjects/PST-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_profil.xml",
         "source": "/root/AndroidStudioProjects/PST-android/app/src/main/res/layout/activity_profil.xml"
-=======
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/calendar_cell.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/calendar_cell.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_autoevaluation.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_autoevaluation.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_signin.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_signin.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_main.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_main.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_week_view.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_week_view.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/event_cell.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/event_cell.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_portfolio.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_portfolio.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/fragment_home.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/fragment_home.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_check_up.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_check_up.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_welcome2.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_welcome2.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_help.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_help.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_welcome1.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_welcome1.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_sos.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_sos.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_signup.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_signup.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_welcome3.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_welcome3.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_history.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_history.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/activity_profil.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/activity_profil.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/fragment_dashboard.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/fragment_dashboard.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-mergeDebugResources-39:/layout/fragment_notifications.xml",
-        "source": "com.example.premiertry.app-main-42:/layout/fragment_notifications.xml"
->>>>>>> origin/christryn°2
     }
 ]

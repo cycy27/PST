@@ -2,24 +2,15 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-<<<<<<< HEAD
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-=======
     android:id="@+id/container"
     android:layout_width="match_parent"
->>>>>>> origin/christryn°2
     android:background="#FFFFFF"
     android:backgroundTint="#FFFFFF"
     android:foregroundTint="#390808"
     android:textAlignment="center"
-<<<<<<< HEAD
-    tools:context=".MainActivity">
-=======
     android:layout_height="match_parent"
     android:paddingTop="?attr/actionBarSize">
 
->>>>>>> origin/christryn°2
 
     <TextView
         android:id="@+id/textHome"
@@ -27,11 +18,7 @@
         android:layout_height="wrap_content"
         android:accessibilityLiveRegion="none"
         android:fontFamily="sans-serif-black"
-<<<<<<< HEAD
-        android:text="Home"
-=======
         android:text="@string/home"
->>>>>>> origin/christryn°2
         android:textColor="#7A2328"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -70,92 +57,52 @@
 
     <ImageButton
         android:id="@+id/checkup_button"
-<<<<<<< HEAD
-        android:layout_width="411dp"
-        android:layout_height="88dp"
-=======
         android:layout_width="380dp"
         android:layout_height="72dp"
->>>>>>> origin/christryn°2
         android:backgroundTint="#FFFFFF"
         android:contentDescription="@string/checkupbtn"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-<<<<<<< HEAD
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.231"
-=======
         app:layout_constraintHorizontal_bias="0.516"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.267"
->>>>>>> origin/christryn°2
         app:srcCompat="@drawable/groups_list_button"
         tools:ignore="DuplicateSpeakableTextCheck" />
 
     <ImageButton
-<<<<<<< HEAD
-        android:id="@+id/imageButton3"
-=======
         android:id="@+id/autoevalbutton"
->>>>>>> origin/christryn°2
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FAFAFA"
         android:contentDescription="@string/autoeval"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-<<<<<<< HEAD
-        app:layout_constraintHorizontal_bias="0.428"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/checkup_button"
-        app:layout_constraintVertical_bias="0.0"
-=======
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/checkup_button"
         app:layout_constraintVertical_bias="0.025"
->>>>>>> origin/christryn°2
         app:srcCompat="@drawable/auto_eval"
         tools:ignore="ImageContrastCheck,DuplicateSpeakableTextCheck" />
 
     <ImageButton
-<<<<<<< HEAD
-        android:id="@+id/imageButton4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-=======
         android:id="@+id/portfolioboutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="264dp"
->>>>>>> origin/christryn°2
         android:backgroundTint="#FFFFFF"
         android:contentDescription="@string/btnPortfolio"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-<<<<<<< HEAD
-        app:layout_constraintHorizontal_bias="0.428"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton3"
-        app:layout_constraintVertical_bias="0.0"
-=======
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/autoevalbutton"
         app:layout_constraintVertical_bias="0.011"
->>>>>>> origin/christryn°2
         app:srcCompat="@drawable/portfolio"
         tools:ignore="ImageContrastCheck" />
 
     <ImageButton
-<<<<<<< HEAD
-        android:id="@+id/imageButton5"
-=======
         android:id="@+id/historybutton"
->>>>>>> origin/christryn°2
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FFFFFF"
@@ -164,36 +111,17 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.428"
         app:layout_constraintStart_toStartOf="parent"
-<<<<<<< HEAD
-        app:layout_constraintTop_toBottomOf="@+id/imageButton4"
-        app:layout_constraintVertical_bias="0.0"
-=======
         app:layout_constraintTop_toBottomOf="@+id/portfolioboutton"
         app:layout_constraintVertical_bias="0.045"
->>>>>>> origin/christryn°2
         app:srcCompat="@drawable/history"
         tools:ignore="ImageContrastCheck" />
 
     <ImageButton
-<<<<<<< HEAD
-        android:id="@+id/imageButton6"
-=======
         android:id="@+id/sosbutton"
->>>>>>> origin/christryn°2
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FFFFFF"
         android:contentDescription="@string/SOS"
-<<<<<<< HEAD
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton5"
-        app:layout_constraintVertical_bias="0.293"
-        app:srcCompat="@drawable/sos" />
-
-=======
         app:layout_constraintBottom_toTopOf="@+id/nav_view"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.428"
@@ -245,5 +173,4 @@
 <!--Don't replace fragment with androidx.fragment.app.FragmentContainerView-->
     <!--It would make the program crash-->
 
->>>>>>> origin/christryn°2
 </androidx.constraintlayout.widget.ConstraintLayout>

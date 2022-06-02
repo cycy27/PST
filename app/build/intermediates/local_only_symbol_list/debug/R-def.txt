@@ -1,9 +1,7 @@
 R_DEF: Internal format may change without notice
 local
-<<<<<<< HEAD
-color black
-=======
 color app
+color app_light
 color background_grey
 color background_light
 color black
@@ -13,7 +11,6 @@ color colorPrimaryDark
 color gray
 color pink
 color purple_200
->>>>>>> origin/christryn°2
 color purple_500
 color purple_700
 color rose_200
@@ -22,16 +19,11 @@ color teal_700
 color white
 dimen activity_horizontal_margin
 dimen activity_vertical_margin
-<<<<<<< HEAD
-=======
 drawable addinfo
->>>>>>> origin/christryn°2
 drawable adress_rec
 drawable age_rec
 drawable auto_eval
 drawable autoevaluation
-<<<<<<< HEAD
-=======
 drawable autopicture
 drawable baseline_ballot_24
 drawable baseline_ballot_black_18
@@ -62,37 +54,26 @@ drawable baseline_volunteer_activism_black_24
 drawable baseline_volunteer_activism_black_36
 drawable baseline_volunteer_activism_black_48
 drawable blood
->>>>>>> origin/christryn°2
 drawable check_up_bttn
 drawable checkicon
 drawable contact_person
 drawable contact_phone
 drawable contact_phone_rec
 drawable contact_rec
-<<<<<<< HEAD
-=======
 drawable douleur_forte
 drawable douleur_neutre
->>>>>>> origin/christryn°2
 drawable ellipse_10
 drawable ellipse_13
 drawable ellipse_15
 drawable ellipse_15_2
 drawable ellipse_8
-<<<<<<< HEAD
-drawable group_2
-=======
 drawable feel_good
->>>>>>> origin/christryn°2
 drawable group_3
 drawable group_4
 drawable group_5
 drawable group_6
-<<<<<<< HEAD
-=======
 drawable group_7
 drawable group_8
->>>>>>> origin/christryn°2
 drawable group__1_
 drawable groups_list_button
 drawable groups_list_button__5_
@@ -101,17 +82,12 @@ drawable help
 drawable history
 drawable home
 drawable homeicon
-<<<<<<< HEAD
-drawable ic_launcher_background
-drawable ic_launcher_foreground
-=======
 drawable ic_dashboard_black_24dp
 drawable ic_home_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_notifications_black_24dp
 drawable line4
->>>>>>> origin/christryn°2
 drawable menu
 drawable personal_list
 drawable phone
@@ -123,32 +99,21 @@ drawable profil_person
 drawable profil_pic
 drawable profil_rec
 drawable question_mark
-<<<<<<< HEAD
-drawable red_container
-drawable sos
-drawable submit
-=======
 drawable rectangle
 drawable red_container
 drawable sliderbackground
 drawable sos
 drawable submit
 drawable vec
->>>>>>> origin/christryn°2
 drawable vector
 drawable vector_2
 drawable vector__1_
 drawable wiouwou
-<<<<<<< HEAD
-id Buttonnextw3
-id Checkup
-=======
 id BloodPicture
 id Buttonnextw3
 id Checkup
 id Cough
 id GoBackArrow
->>>>>>> origin/christryn°2
 id SignInContinue
 id SignInEmail
 id SignInEmailError
@@ -159,11 +124,6 @@ id SignUpContinue
 id SignUpEmail
 id SignUpName
 id SignUpPassword
-<<<<<<< HEAD
-id buttoncancel
-id buttonpsd
-id buttonqr
-=======
 id autoevalbutton
 id bottomnav
 id button
@@ -172,29 +132,18 @@ id buttonpsd
 id buttonqr
 id calendarRecyclerView
 id cellDayText
->>>>>>> origin/christryn°2
 id checkBox
 id checkBox1
 id checkup
 id checkup_button
-<<<<<<< HEAD
-id confirmPassAlert
-=======
 id chestpain
 id confirmPassAlert
 id container
 id date_view
->>>>>>> origin/christryn°2
 id editTextPhone
 id editTextPhone2
 id editTextTextEmailAddress
 id editTextTextMultiLine
-<<<<<<< HEAD
-id editTextTextPersonName
-id emailAlert
-id emojiurgence
-id emojiwiouwoug
-=======
 id editTextTextMultiLine2
 id editTextTextPersonName
 id elipse10
@@ -213,27 +162,11 @@ id headache
 id historybutton
 id hlpbtn
 id imageButton
->>>>>>> origin/christryn°2
 id imageButton10
 id imageButton11
 id imageButton13
 id imageButton14
-<<<<<<< HEAD
-id imageButton16
-id imageButton17
-id imageButton18
-id imageButton19
-id imageButton20
 id imageButton21
-id imageButton3
-id imageButton4
-id imageButton5
-id imageButton6
-id imageButton8
-id imageButton9
-=======
-id imageButton21
->>>>>>> origin/christryn°2
 id imageView
 id imageView10
 id imageView11
@@ -260,26 +193,16 @@ id imageView3
 id imageView30
 id imageView31
 id imageView32
-<<<<<<< HEAD
-=======
 id imageView34
 id imageView35
 id imageView36
 id imageView39
->>>>>>> origin/christryn°2
 id imageView4
 id imageView5
 id imageView6
 id imageView7
 id imageView8
 id imageView9
-<<<<<<< HEAD
-id loginbutton
-id menumode
-id nameAlert
-id paswordAlert
-id registerbutton
-=======
 id linearLayout
 id linearLayout2
 id loginbutton
@@ -289,7 +212,9 @@ id monthYearTV
 id nameAlert
 id nav_host_fragment_activity_main
 id nav_view
+id navigation_checkup
 id navigation_dashboard
+id navigation_history
 id navigation_home
 id navigation_notifications
 id other
@@ -302,7 +227,6 @@ id portfolioboutton
 id profilpicface
 id registerbutton
 id sosbutton
->>>>>>> origin/christryn°2
 id spinner
 id spinner1
 id spinner2
@@ -315,10 +239,7 @@ id textView12
 id textView13
 id textView14
 id textView15
-<<<<<<< HEAD
-=======
 id textView16
->>>>>>> origin/christryn°2
 id textView18
 id textView2
 id textView3
@@ -328,43 +249,6 @@ id textView6
 id textView7
 id textView8
 id textView9
-<<<<<<< HEAD
-id textsos
-id titlesos
-id tittlew2
-layout activity_check_up
-layout activity_main
-layout activity_profil
-layout activity_protfolio
-layout activity_signin
-layout activity_singup
-layout activity_sos
-layout activity_welcome1
-layout activity_welcome2
-layout activity_welcome3
-mipmap ic_launcher
-mipmap ic_launcher_round
-string ConsultDoc
-string Email
-string Nom_Prenom
-string SOS
-string addDoc
-string adresse
-string app_name
-string autoeval
-string bloodpressure
-string btnPortfolio
-string casa
-string check_
-string check_up
-string checkupbtn
-string default_web_client_id
-string edit
-string editTextLogin
-string editTextPhone
-string elipse0
-string elipse1
-=======
 id text_dashboard
 id text_home
 id text_notifications
@@ -410,6 +294,9 @@ string autoeval
 string autoevaltext
 string back
 string bloodpressure
+string bottom_navigation_menu_checkup
+string bottom_navigation_menu_history
+string bottom_navigation_menu_home
 string btnPortfolio
 string calendarcell
 string casa
@@ -417,35 +304,28 @@ string check
 string check_
 string check_up
 string checkupbtn
+string default_web_client_id
 string edit
+string editTextLogin
 string editTextPhone
 string elipse0
 string elipse1
 string elipse10
->>>>>>> origin/christryn°2
 string elipse2etdemi
 string elipse3
 string elipse4
 string elipse5
-<<<<<<< HEAD
+string elipse9
 string email
+string eventcell
 string firebase_database_url
+string forward
 string gcm_defaultSenderId
+string gobacks
 string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
-string heartrate
-string help
-string history
-string menu
-string menumode
-=======
-string elipse9
-string email
-string eventcell
-string forward
-string gobacks
 string heartrate
 string help
 string helpe
@@ -454,27 +334,17 @@ string home
 string menu
 string menumode
 string multiline
->>>>>>> origin/christryn°2
 string n_de_t_l_phone
 string number
 string number2
 string petitdetail
-<<<<<<< HEAD
-string portfolio
-string profil
-string project_id
-string retour
-string spo2
-string temperature
-string toutpetitdetail
-style Theme.Premiertry
-=======
 string please_te_us_how_we_can_help_or_improve_we_will_email_you_back_as_soon_as_possible
 string portfolio
 string profil
 string profilpicface
 string profilpric
 string profilprics
+string project_id
 string retour
 string spo2
 string temperature
@@ -488,4 +358,3 @@ style Theme.Premiertry
 style TooltipStyle
 xml backup_rules
 xml data_extraction_rules
->>>>>>> origin/christryn°2

@@ -1,9 +1,9 @@
 package com.example.premiertry;
 
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.graphics.Color;
-import android.inputmethodservice.Keyboard;
+import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -23,14 +23,16 @@ public class AutoevaluationActivity extends AppCompatActivity {
 
 
 
-    CheckBox sympt1,sympt2,sympt3,sympt4, sympt5, sympt6;
+    CheckBox feelfaint,chestpain,cough,feelstiff,outofbreath,headache;
     Button buttonOrder;
-    EditText editText;
+    EditText other;
     ImageButton btn;
     SeekBar seekbar;
     private TextView eventDateTV, eventTimeTV;
     private LocalTime time;
+    private DataBaseHelper dataBaseHelper= new DataBaseHelper(AutoevaluationActivity.this);
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
@@ -49,18 +51,17 @@ public class AutoevaluationActivity extends AppCompatActivity {
 
         eventDateTV = findViewById(R.id.eventDateTV);
 
-        sympt1 =  findViewById(R.id.feelfaint);
-        sympt2 =  findViewById(R.id.chestpain);
-        sympt3 =  findViewById(R.id.Cough);
-        sympt4 =  findViewById(R.id.feelstiff);
-        sympt5 =  findViewById(R.id.outofbreath);
-        sympt6 =  findViewById(R.id.headache);
-        editText = findViewById(R.id.other);
+        feelfaint =  findViewById(R.id.feelfaint);
+        chestpain =  findViewById(R.id.chestpain);
+        cough =  findViewById(R.id.Cough);
+        feelstiff =  findViewById(R.id.feelstiff);
+        outofbreath =  findViewById(R.id.outofbreath);
+        headache =  findViewById(R.id.headache);
+        other = findViewById(R.id.other);
         btn = findViewById(R.id.GoBackArrow);
         buttonOrder =  findViewById(R.id.button);
         seekbar =  findViewById(R.id.painlevel);
         eventTimeTV = findViewById(R.id.eventTimeTV);
-        editText = findViewById(R.id.other);
         seekbar.setMax(10);
 
     }
@@ -75,38 +76,41 @@ public class AutoevaluationActivity extends AppCompatActivity {
         result.append("Pain level:"+seekBarValue);
         result.append(", Symptoms: ");
 
-        if (sympt1.isChecked()) {
+        if (feelfaint.isChecked()) {
 
             result.append(" sympt1");
         }
-        if (sympt2.isChecked()) {
+        if (chestpain.isChecked()) {
 
             result.append(" sympt2");
         }
-        if (sympt3.isChecked()) {
+        if (cough.isChecked()) {
 
             result.append(" sympt3");
         }
-        if (sympt4.isChecked()) {
+        if (feelstiff.isChecked()) {
 
             result.append(" sympt4");
         }
-        if (sympt5.isChecked()) {
+        if (outofbreath.isChecked()) {
 
             result.append(" sympt5");
         }
-        if (sympt6.isChecked()) {
+        if (headache.isChecked()) {
 
             result.append(" sympt6 ");
         }
 
         result.append(" Other mentions: ");
-        String eventName = editText.getText().toString();
+        String eventName = other.getText().toString();
         result.append(eventName);
 
         // interessting for data base as it is here that you have all required data
         Event newEvent = new Event(result.toString(), CalendarUtils.selectedDate, time);
         Event.eventsList.add(newEvent);
+
+        //TodayEvaluation tEval=new TodayEvaluation(-1,CalendarUtils.selectedDate.toString(),seekBarValue,headache.toString(),outofbreath.toString());
+
 
 
 

@@ -3,6 +3,7 @@ package com.example.premiertry;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -52,7 +53,8 @@ public class SignupActivity extends AppCompatActivity {
                         user= new User(-1,"error","error","error");
 
                     }
-                    boolean done= dataBaseHelper.addOne(user);
+                    boolean done= dataBaseHelper.addOneUser(user);
+                    dataBaseHelper.onUpgrade(dataBaseHelper.getWritableDatabase(),1,2);
                     if(!done)
                         Toast.makeText(SignupActivity.this, "Error adding to Database!",Toast.LENGTH_SHORT).show();
                     else
@@ -121,7 +123,7 @@ public class SignupActivity extends AppCompatActivity {
     }
 
     public void openWelcome3(){
-        Intent intent = new Intent(this, Welcome3Activity.class);
+        Intent intent = new Intent(this, Welcome3.class);
         startActivity(intent);
     }
 

@@ -7,11 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-<<<<<<<< HEAD:app/src/main/java/com/example/premiertry/Welcome2.java
 public class Welcome2 extends AppCompatActivity {
-========
-public class Welcome2Activity extends AppCompatActivity {
->>>>>>>> origin/christryn°2:app/src/main/java/com/example/premiertry/Welcome2Activity.java
     private Button buttonqr;
 
     @Override
@@ -29,11 +25,8 @@ public class Welcome2Activity extends AppCompatActivity {
 
     }
     public void openwelcome3() {
-<<<<<<<< HEAD:app/src/main/java/com/example/premiertry/Welcome2.java
         Intent intent = new Intent(this, Welcome3.class);
-========
-        Intent intent = new Intent(this, Welcome3Activity.class);
->>>>>>>> origin/christryn°2:app/src/main/java/com/example/premiertry/Welcome2Activity.java
+
         startActivity(intent);
 
     }
