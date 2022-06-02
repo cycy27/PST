@@ -12,10 +12,10 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.SeekBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 
-
-
+import java.time.LocalDate;
 import java.time.LocalTime;
 
 
@@ -24,12 +24,14 @@ public class AutoevaluationActivity extends AppCompatActivity {
 
 
     CheckBox feelfaint,chestpain,cough,feelstiff,outofbreath,headache;
+    Boolean feelfaintBool=false,chestpainBool=false,coughBool=false,feelstiffBool=false,outofbreathBool=false,headacheBool=false;
     Button buttonOrder;
     EditText other;
     ImageButton btn;
     SeekBar seekbar;
     private TextView eventDateTV, eventTimeTV;
     private LocalTime time;
+    private LocalDate date;
     private DataBaseHelper dataBaseHelper= new DataBaseHelper(AutoevaluationActivity.this);
 
     @RequiresApi(api = Build.VERSION_CODES.O)
@@ -39,10 +41,17 @@ public class AutoevaluationActivity extends AppCompatActivity {
         setContentView(R.layout.activity_autoevaluation);
         initWidgets();
         time = LocalTime.now();
-        eventDateTV.setText("Date: " + CalendarUtils.formattedDate(CalendarUtils.selectedDate));
+        if(CalendarUtils.selectedDate == null){
+            this.date= LocalDate.now();
+            eventDateTV.setText("Date: " + CalendarUtils.formattedDate(date));
+        }else{
+            this.date= CalendarUtils.selectedDate;
+            eventDateTV.setText("Date: " + CalendarUtils.formattedDate(CalendarUtils.selectedDate));
+        }
+
+
         eventTimeTV.setText("Time: " + CalendarUtils.formattedTime(time));
         addListenerOnButtonClick();
-
 
     }
 
@@ -78,27 +87,33 @@ public class AutoevaluationActivity extends AppCompatActivity {
 
         if (feelfaint.isChecked()) {
 
-            result.append(" sympt1");
+            result.append(" Faint");
+            feelfaintBool=true;
         }
         if (chestpain.isChecked()) {
 
-            result.append(" sympt2");
+            result.append(" ,Chest pain");
+            chestpainBool=true;
         }
         if (cough.isChecked()) {
 
-            result.append(" sympt3");
+            result.append(" ,Cough");
+            coughBool=true;
         }
         if (feelstiff.isChecked()) {
 
-            result.append(" sympt4");
+            result.append(" ,Stiffness");
+            feelstiffBool=true;
         }
         if (outofbreath.isChecked()) {
 
-            result.append(" sympt5");
+            result.append(" ,Out of Breath");
+            outofbreathBool=true;
         }
         if (headache.isChecked()) {
 
-            result.append(" sympt6 ");
+            result.append(" ,headache");
+            headacheBool=true;
         }
 
         result.append(" Other mentions: ");
@@ -109,7 +124,22 @@ public class AutoevaluationActivity extends AppCompatActivity {
         Event newEvent = new Event(result.toString(), CalendarUtils.selectedDate, time);
         Event.eventsList.add(newEvent);
 
-        //TodayEvaluation tEval=new TodayEvaluation(-1,CalendarUtils.selectedDate.toString(),seekBarValue,headache.toString(),outofbreath.toString());
+        //Toast.makeText(AutoevaluationActivity.this, "date: "+date,Toast.LENGTH_SHORT).show();
+        TodayEvaluation tEval=new TodayEvaluation(-1,""+date,
+                seekBarValue,
+                headacheBool,
+                outofbreathBool,
+                feelstiffBool,
+                chestpainBool,
+                feelfaintBool,
+                coughBool,
+                ""+other.getText().toString());
+        boolean done= dataBaseHelper.addEvaluation(tEval);
+        if(!done)
+            Toast.makeText(AutoevaluationActivity.this, "Error adding to Database!",Toast.LENGTH_SHORT).show();
+        else
+            Toast.makeText(AutoevaluationActivity.this, "Added to Database!",Toast.LENGTH_SHORT).show();
+
 
 
 

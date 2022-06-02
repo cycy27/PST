@@ -4,11 +4,13 @@ import static com.example.premiertry.CalendarUtils.daysInWeekArray;
 import static com.example.premiertry.CalendarUtils.monthYearFromDate;
 import static com.example.premiertry.CalendarUtils.daysInMonthArray;
 
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageButton;
@@ -26,6 +28,7 @@ public class WeekViewActivity extends AppCompatActivity implements CalendarAdapt
     private ListView eventListView;
     ImageButton btn;
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -44,6 +47,7 @@ public class WeekViewActivity extends AppCompatActivity implements CalendarAdapt
         btn = (ImageButton) findViewById(R.id.GoBackArrow);
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     private void setWeekView()
     {
         monthYearText.setText(monthYearFromDate(CalendarUtils.selectedDate));
@@ -57,18 +61,21 @@ public class WeekViewActivity extends AppCompatActivity implements CalendarAdapt
     }
 
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public void previousWeekAction(View view)
     {
         CalendarUtils.selectedDate = CalendarUtils.selectedDate.minusWeeks(1);
         setWeekView();
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public void nextWeekAction(View view)
     {
         CalendarUtils.selectedDate = CalendarUtils.selectedDate.plusWeeks(1);
         setWeekView();
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
     public void onItemClick(int position, LocalDate date)
     {

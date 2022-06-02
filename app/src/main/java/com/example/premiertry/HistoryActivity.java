@@ -3,11 +3,13 @@ package com.example.premiertry;
 import static com.example.premiertry.CalendarUtils.daysInMonthArray;
 import static com.example.premiertry.CalendarUtils.monthYearFromDate;
 
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageButton;
@@ -21,6 +23,7 @@ public class HistoryActivity extends AppCompatActivity implements CalendarAdapte
     private RecyclerView calendarRecyclerView;
     ImageButton btn;
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -38,6 +41,7 @@ public class HistoryActivity extends AppCompatActivity implements CalendarAdapte
         btn = findViewById(R.id.GoBackArrow);
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     private void setMonthView() {
         monthYearText.setText(monthYearFromDate(CalendarUtils.selectedDate));
         ArrayList<LocalDate> daysInMonth = daysInMonthArray(CalendarUtils.selectedDate);
@@ -48,16 +52,19 @@ public class HistoryActivity extends AppCompatActivity implements CalendarAdapte
         calendarRecyclerView.setAdapter(calendarAdapter);
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public void previousMonthAction(View view) {
         CalendarUtils.selectedDate = CalendarUtils.selectedDate.minusMonths(1);
         setMonthView();
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public void nextMonthAction(View view) {
         CalendarUtils.selectedDate = CalendarUtils.selectedDate.plusMonths(1);
         setMonthView();
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
     public void onItemClick(int position, LocalDate date) {
         if (date != null) {

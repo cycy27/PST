@@ -138,8 +138,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
     public boolean addEvaluation (TodayEvaluation eval){
         SQLiteDatabase db = this.getWritableDatabase();
         ContentValues cv= new ContentValues();
-
-        cv.put(COLUMN_USER_ID,eval.getUserID());
+        //change Y N to 1 0
         cv.put(COLUMN_DATE,eval.getDateTime());
         cv.put(COLUMN_PAIN_LEVEL,eval.getPainLevel());
         cv.put(COLUMN_HEAD_ACHE,eval.isHeadAche()?"Y":"N");
