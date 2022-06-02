@@ -2,8 +2,7 @@ package com.example.premiertry;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.graphics.Color;
-import android.inputmethodservice.Keyboard;
+
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -14,14 +13,10 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 
 
-
-
 import java.time.LocalTime;
 
 
 public class AutoevaluationActivity extends AppCompatActivity {
-
-
 
     CheckBox sympt1,sympt2,sympt3,sympt4, sympt5, sympt6;
     Button buttonOrder;
@@ -48,7 +43,6 @@ public class AutoevaluationActivity extends AppCompatActivity {
     {
 
         eventDateTV = findViewById(R.id.eventDateTV);
-
         sympt1 =  findViewById(R.id.feelfaint);
         sympt2 =  findViewById(R.id.chestpain);
         sympt3 =  findViewById(R.id.Cough);
@@ -65,10 +59,8 @@ public class AutoevaluationActivity extends AppCompatActivity {
 
     }
 
-
     public void saveEventAction(View view)
     {
-
         StringBuilder result = new StringBuilder();
 
         int seekBarValue= seekbar.getProgress();
@@ -108,20 +100,12 @@ public class AutoevaluationActivity extends AppCompatActivity {
         Event newEvent = new Event(result.toString(), CalendarUtils.selectedDate, time);
         Event.eventsList.add(newEvent);
 
-
-
-
-
-
         finish();
     }
 
     public void addListenerOnButtonClick() {
 
-
         btn = (ImageButton)findViewById(R.id.GoBackArrow);
-
-
 
         btn.setOnClickListener(new View.OnClickListener() {
 
