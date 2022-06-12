@@ -16,11 +16,40 @@ public class MainActivity extends AppCompatActivity {
     private ImageButton Sosbutton;
     private ImageButton autoevalbutton;
 
+    private ImageButton checkicon;
+    private ImageButton homeicon;
+    private ImageButton historyicon;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+
+
+        checkicon = (ImageButton)findViewById(R.id.imageView37);
+        checkicon.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v){
+                openCheck_up();
+            }
+        });
+        historyicon = (ImageButton)findViewById(R.id.imageView33);
+        historyicon.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v){
+                openHistory();
+            }
+        });
+        homeicon = (ImageButton)findViewById(R.id.imageView38);
+        homeicon.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v){
+                openMain();
+            }
+        });
+
+
+
 
 
         checkup_button = (ImageButton)findViewById(R.id.checkup_button);
@@ -87,6 +116,10 @@ public class MainActivity extends AppCompatActivity {
     }
     public void openautoeval(){
         Intent intent = new Intent(this, AutoevaluationActivity.class);
+        startActivity(intent);
+    }
+    public void openMain(){
+        Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
     }
 }

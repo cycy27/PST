@@ -20,6 +20,9 @@ public class HistoryActivity extends AppCompatActivity implements CalendarAdapte
     private TextView monthYearText;
     private RecyclerView calendarRecyclerView;
     ImageButton btn;
+    private ImageButton checkicon;
+    private ImageButton homeicon;
+    private ImageButton historyicon;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,6 +33,28 @@ public class HistoryActivity extends AppCompatActivity implements CalendarAdapte
         CalendarUtils.selectedDate = LocalDate.now();
         setMonthView();
         addListenerOnButtonClick();
+
+
+
+        checkicon = (ImageButton)findViewById(R.id.imageView37);
+        checkicon.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v){
+                openCheck_up();
+            }
+        });
+        historyicon = (ImageButton)findViewById(R.id.imageView33);
+        historyicon.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v){
+                openHistory();
+            }
+        });
+        homeicon = (ImageButton)findViewById(R.id.imageView38);
+        homeicon.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v){
+                openMain();
+            }
+        });
+
     }
 
     private void initWidgets() {
@@ -84,5 +109,17 @@ public class HistoryActivity extends AppCompatActivity implements CalendarAdapte
                 finish();
             }
         });
+    }
+    public void openMain(){
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
+    }
+    public void openHistory(){
+        Intent intent = new Intent(this, HistoryActivity.class);
+        startActivity(intent);
+    }
+    public void openCheck_up(){
+        Intent intent = new Intent(this, CheckUpActivity.class);
+        startActivity(intent);
     }
 }
