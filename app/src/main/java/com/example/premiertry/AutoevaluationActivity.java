@@ -3,6 +3,7 @@ package com.example.premiertry;
 import androidx.appcompat.app.AppCompatActivity;
 
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -27,6 +28,9 @@ public class AutoevaluationActivity extends AppCompatActivity {
     private TextView eventDateTV, eventTimeTV;
     private LocalTime time;
     private LocalDate date;
+    private ImageButton checkicon;
+    private ImageButton homeicon;
+    private ImageButton historyicon;
 
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -43,6 +47,25 @@ public class AutoevaluationActivity extends AppCompatActivity {
         }
         eventTimeTV.setText("Time: " + CalendarUtils.formattedTime(time));
         addListenerOnButtonClick();
+
+        checkicon = (ImageButton)findViewById(R.id.imageView37);
+        checkicon.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v){
+                openCheck_up();
+            }
+        });
+        historyicon = (ImageButton)findViewById(R.id.imageView33);
+        historyicon.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v){
+                openHistory();
+            }
+        });
+        homeicon = (ImageButton)findViewById(R.id.imageView38);
+        homeicon.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v){
+                openMain();
+            }
+        });
 
     }
 
@@ -127,6 +150,18 @@ public class AutoevaluationActivity extends AppCompatActivity {
 
 
 
+    }
+    public void openCheck_up(){
+        Intent intent = new Intent(this, CheckUpActivity.class);
+        startActivity(intent);
+    }
+    public void openMain(){
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
+    }
+    public void openHistory(){
+        Intent intent = new Intent(this, HistoryActivity.class);
+        startActivity(intent);
     }
 
 }
