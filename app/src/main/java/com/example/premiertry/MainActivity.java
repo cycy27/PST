@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         checkicon = (ImageButton)findViewById(R.id.imageView37);
         checkicon.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v){
-                openCheck_up();
+                openCheckup();
             }
         });
         historyicon = (ImageButton)findViewById(R.id.imageView33);
@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         checkup_button = (ImageButton)findViewById(R.id.checkup_button);
         checkup_button.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v){
-                openCheck_up();
+                openCheckup();
             }
         });
 
@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    public void openCheck_up(){
+    public void openCheckup(){
         Intent intent = new Intent(this, CheckUpActivity.class);
         startActivity(intent);
     }
