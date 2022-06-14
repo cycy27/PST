@@ -56,6 +56,7 @@ drawable baseline_volunteer_activism_black_48
 drawable blood
 drawable check_up_bttn
 drawable checkicon
+drawable checkupicon
 drawable contact_person
 drawable contact_phone
 drawable contact_phone_rec
@@ -128,7 +129,6 @@ id SignUpEmail
 id SignUpName
 id SignUpPassword
 id autoevalbutton
-id bottomnav
 id button
 id buttoncancel
 id buttonpsd
@@ -196,9 +196,12 @@ id imageView3
 id imageView30
 id imageView31
 id imageView32
+id imageView33
 id imageView34
 id imageView35
 id imageView36
+id imageView37
+id imageView38
 id imageView39
 id imageView4
 id imageView5
@@ -210,16 +213,9 @@ id linearLayout
 id linearLayout2
 id loginbutton
 id menumode
-id mobile_navigation
 id monthYearTV
 id nameAlert
-id nav_host_fragment_activity_main
 id nav_view
-id navigation_checkup
-id navigation_dashboard
-id navigation_history
-id navigation_home
-id navigation_notifications
 id other
 id othersymptoms
 id oui
@@ -277,10 +273,8 @@ layout event_cell
 layout fragment_dashboard
 layout fragment_home
 layout fragment_notifications
-menu bottom_nav_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
-navigation mobile_navigation
 string Age
 string ConsultDoc
 string Date

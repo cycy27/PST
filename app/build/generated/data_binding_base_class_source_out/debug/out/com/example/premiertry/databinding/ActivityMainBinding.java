@@ -13,7 +13,6 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.premiertry.R;
-import com.google.android.material.bottomnavigation.BottomNavigationView;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -41,7 +40,13 @@ public final class ActivityMainBinding implements ViewBinding {
   public final ImageView imageView3;
 
   @NonNull
-  public final BottomNavigationView navView;
+  public final ImageButton imageView33;
+
+  @NonNull
+  public final ImageButton imageView37;
+
+  @NonNull
+  public final ImageButton imageView38;
 
   @NonNull
   public final ImageButton portfolioboutton;
@@ -58,10 +63,10 @@ public final class ActivityMainBinding implements ViewBinding {
   private ActivityMainBinding(@NonNull ConstraintLayout rootView,
       @NonNull ImageButton autoevalbutton, @NonNull ImageButton checkupButton,
       @NonNull ConstraintLayout container, @NonNull ImageButton historybutton,
-      @NonNull ImageView imageView, @NonNull ImageView imageView3,
-      @NonNull BottomNavigationView navView, @NonNull ImageButton portfolioboutton,
-      @NonNull ImageButton profilpicface, @NonNull ImageButton sosbutton,
-      @NonNull TextView textHome) {
+      @NonNull ImageView imageView, @NonNull ImageView imageView3, @NonNull ImageButton imageView33,
+      @NonNull ImageButton imageView37, @NonNull ImageButton imageView38,
+      @NonNull ImageButton portfolioboutton, @NonNull ImageButton profilpicface,
+      @NonNull ImageButton sosbutton, @NonNull TextView textHome) {
     this.rootView = rootView;
     this.autoevalbutton = autoevalbutton;
     this.checkupButton = checkupButton;
@@ -69,7 +74,9 @@ public final class ActivityMainBinding implements ViewBinding {
     this.historybutton = historybutton;
     this.imageView = imageView;
     this.imageView3 = imageView3;
-    this.navView = navView;
+    this.imageView33 = imageView33;
+    this.imageView37 = imageView37;
+    this.imageView38 = imageView38;
     this.portfolioboutton = portfolioboutton;
     this.profilpicface = profilpicface;
     this.sosbutton = sosbutton;
@@ -135,9 +142,21 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.nav_view;
-      BottomNavigationView navView = ViewBindings.findChildViewById(rootView, id);
-      if (navView == null) {
+      id = R.id.imageView33;
+      ImageButton imageView33 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView33 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView37;
+      ImageButton imageView37 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView37 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView38;
+      ImageButton imageView38 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView38 == null) {
         break missingId;
       }
 
@@ -166,8 +185,8 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       return new ActivityMainBinding((ConstraintLayout) rootView, autoevalbutton, checkupButton,
-          container, historybutton, imageView, imageView3, navView, portfolioboutton, profilpicface,
-          sosbutton, textHome);
+          container, historybutton, imageView, imageView3, imageView33, imageView37, imageView38,
+          portfolioboutton, profilpicface, sosbutton, textHome);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
