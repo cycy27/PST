@@ -1,962 +1,966 @@
 [
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_volunteer_activism_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_volunteer_activism_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_group_4.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/group_4.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_medical_information_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_medical_information_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_baseline_medical_information_20.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/baseline_medical_information_20.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_volunteer_activism_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_volunteer_activism_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_sos.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/sos.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/ic_launcher_background.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_blood.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/blood.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-ldpi_baseline_ballot_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-pngs-33:/drawable-ldpi/baseline_ballot_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_check_up_bttn.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/check_up_bttn.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_ballot_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_ballot_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_question_mark.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/question_mark.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_ballot_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_ballot_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_medical_information_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_medical_information_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_medical_information_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_medical_information_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_home.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/home.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_volunteer_activism_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_volunteer_activism_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_ballot_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_ballot_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_ellipse_8.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/ellipse_8.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_medical_information_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_medical_information_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_submit.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/submit.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_vector.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/vector.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_addinfo.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/addinfo.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_vec.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/vec.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_baseline_home_24dp.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/baseline_home_24dp.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_autopicture.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/autopicture.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_group_5.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/group_5.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_sliderbackground.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/sliderbackground.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_volunteer_activism_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_volunteer_activism_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_ellipse_8.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/ellipse_8.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_douleur_neutre.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/douleur_neutre.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_signin.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/activity_signin.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_medical_information_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_medical_information_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_ballot_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_ballot_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_vec.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/vec.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_groups_list_button__5_.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/groups_list_button__5_.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_ballot_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_ballot_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_vec.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/vec.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_week_view.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_week_view.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_vec.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/vec.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_ballot_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_ballot_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_volunteer_activism_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_volunteer_activism_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_sliderbackground.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/sliderbackground.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_checkicon.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/checkicon.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_addinfo.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/addinfo.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_sliderbackground.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/sliderbackground.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_ballot_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_ballot_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_line4.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/line4.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-anydpi-v24_baseline_ballot_24.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-pngs-33:/drawable-anydpi-v24/baseline_ballot_24.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_home_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_home_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_vec.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/vec.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_home_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_home_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_home_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_home_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_vec.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/vec.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_help.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_help.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_autopicture.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/autopicture.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_groups_list_button.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/groups_list_button.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_volunteer_activism_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_volunteer_activism_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_home_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_home_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_ballot_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_ballot_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_volunteer_activism_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_volunteer_activism_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_baseline_home_24.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/baseline_home_24.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_blood.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/blood.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_vec.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/vec.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_volunteer_activism_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_volunteer_activism_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_ballot_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_ballot_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_medical_information_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_medical_information_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_fragment_notifications.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/fragment_notifications.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_medical_information_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_medical_information_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_check_up.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/activity_check_up.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_ballot_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_ballot_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_signup.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/activity_signup.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_sliderbackground.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/sliderbackground.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_group_8.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/group_8.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_home_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_home_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/ic_dashboard_black_24dp.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_group_6.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/group_6.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.premiertry.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_medical_information_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_medical_information_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_welcome1.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/activity_welcome1.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_home_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_home_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_home_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_home_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_homeicon.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/homeicon.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_blood.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/blood.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_ballot_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_ballot_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_autopicture.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/autopicture.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_autopicture.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/autopicture.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_help.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/help.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_volunteer_activism_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_volunteer_activism_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_group_3.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/group_3.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_personal_list.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/personal_list.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_home_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_home_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_menu.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/menu.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_baseline_home_24dp.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/baseline_home_24dp.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_sos.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/activity_sos.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_vector__1_.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/vector__1_.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_ellipse_10.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/ellipse_10.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_addinfo.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/addinfo.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_home_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_home_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_medical_information_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_medical_information_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_portefolio.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/portefolio.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_volunteer_activism_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_volunteer_activism_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_home_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_home_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_ballot_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_ballot_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_home_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_home_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/navigation_mobile_navigation.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/navigation/mobile_navigation.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_volunteer_activism_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_volunteer_activism_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_history.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/history.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_ellipse_15.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/ellipse_15.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_medical_information_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_medical_information_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_line4.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/line4.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_ballot_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_ballot_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_volunteer_activism_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_volunteer_activism_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_ic_home_black_24dp.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/ic_home_black_24dp.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_medical_information_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_medical_information_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_ballot_24.png.flat",
-        "source": "com.example.premiertry.app-pngs-33:/drawable-xxhdpi/baseline_ballot_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_autoevaluation.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/autoevaluation.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_ellipse_15_2.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/ellipse_15_2.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_volunteer_activism_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_volunteer_activism_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_medical_information_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_medical_information_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_home_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_home_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_event_cell.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/event_cell.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_ellipse_13.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/ellipse_13.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_blood.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/blood.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_ellipse_15_2.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/ellipse_15_2.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-anydpi-v24_baseline_ballot_24.xml.flat",
-        "source": "com.example.premiertry.app-pngs-33:/drawable-anydpi-v24/baseline_ballot_24.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-pngs-33:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_home_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_home_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_group__1_.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/group__1_.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_volunteer_activism_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_volunteer_activism_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_ballot_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_ballot_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_ballot_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_ballot_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_home_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_home_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_medical_information_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_medical_information_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/ic_notifications_black_24dp.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_fragment_notifications.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/fragment_notifications.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_line4.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/line4.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_home_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_home_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_ballot_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-pngs-33:/drawable-xxxhdpi/baseline_ballot_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_age_rec.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/age_rec.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_profil_circle.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/profil_circle.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_line4.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/line4.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_contact_person.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/contact_person.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_baseline_volunteer_activism_20.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/baseline_volunteer_activism_20.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_vec.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/vec.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_douleur_neutre.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/douleur_neutre.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/navigation/mobile_navigation.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_sos.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/sos.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_vec.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/vec.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_profil_circle.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/profil_circle.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_submit.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/submit.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_profil_person.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/profil_person.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_ballot_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-pngs-33:/drawable-xhdpi/baseline_ballot_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_groups_list_button__6_.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/groups_list_button__6_.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_ballot_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-pngs-33:/drawable-hdpi/baseline_ballot_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_volunteer_activism_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_volunteer_activism_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_medical_information_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_medical_information_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_adress_rec.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/adress_rec.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_week_view.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/activity_week_view.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_ballot_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_ballot_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_ballot_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_ballot_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_baseline_medical_information_24.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/baseline_medical_information_24.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_line4.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/line4.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_volunteer_activism_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_volunteer_activism_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_calendar_cell.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/calendar_cell.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_medical_information_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_medical_information_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_blood.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/blood.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_age_rec.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/age_rec.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_volunteer_activism_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_volunteer_activism_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_volunteer_activism_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_volunteer_activism_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_ballot_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_ballot_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_addinfo.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/addinfo.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_autopicture.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/autopicture.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_help.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/activity_help.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_blood.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/blood.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_blood.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/blood.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_autopicture.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/autopicture.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_home_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_home_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_home_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_home_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_medical_information_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_medical_information_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_volunteer_activism_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_volunteer_activism_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_medical_information_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_medical_information_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_profil.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_profil.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_ballot_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_ballot_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_line4.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/line4.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_auto_eval.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/auto_eval.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_check_up_bttn.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/check_up_bttn.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_home_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_home_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_medical_information_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_medical_information_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_ballot_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_ballot_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_ballot_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_ballot_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_ballot_24.png.flat",
-        "source": "com.example.premiertry.app-pngs-33:/drawable-xxxhdpi/baseline_ballot_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/menu/bottom_nav_menu.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_ballot_24.png.flat",
-        "source": "com.example.premiertry.app-pngs-33:/drawable-hdpi/baseline_ballot_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_ballot_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_ballot_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_autoevaluation.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/activity_autoevaluation.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_volunteer_activism_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_volunteer_activism_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_vec.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/vec.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/ic_dashboard_black_24dp.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_douleur_forte.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/douleur_forte.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_vec.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/vec.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_medical_information_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_medical_information_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_portfolio.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/portfolio.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_volunteer_activism_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_volunteer_activism_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_medical_information_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_medical_information_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_phone_rec.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/phone_rec.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_addinfo.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/addinfo.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_medical_information_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_medical_information_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_sliderbackground.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/sliderbackground.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_home_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_home_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.example.premiertry.app-main-40:/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_ballot_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_ballot_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_volunteer_activism_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_volunteer_activism_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_volunteer_activism_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_volunteer_activism_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_volunteer_activism_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_volunteer_activism_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_home_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_home_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_check_up.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_check_up.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_medical_information_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_medical_information_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_groups_list_button__6_.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/groups_list_button__6_.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_group_4.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/group_4.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_home_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_home_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_fragment_dashboard.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/fragment_dashboard.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_home_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_home_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_ballot_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_ballot_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_personal_list.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/personal_list.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_vec.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/vec.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_red_container.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/red_container.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_medical_information_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_medical_information_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_volunteer_activism_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_volunteer_activism_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_sliderbackground.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/sliderbackground.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_checkicon.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/checkicon.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_volunteer_activism_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_volunteer_activism_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_event_cell.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/event_cell.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_red_container.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/red_container.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_ballot_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_ballot_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_medical_information_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_medical_information_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_sliderbackground.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/sliderbackground.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/xml_backup_rules.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/xml/backup_rules.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_homeicon.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/homeicon.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_line4.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/line4.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_medical_information_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_medical_information_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_blood.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/blood.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_history.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_history.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.example.premiertry.app-main-40:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_medical_information_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_medical_information_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.example.premiertry.app-main-40:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_fragment_dashboard.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/fragment_dashboard.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_volunteer_activism_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_volunteer_activism_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_portfolio.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/portfolio.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.example.premiertry.app-main-40:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_home.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/home.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_group_3.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/group_3.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_baseline_home_24.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/baseline_home_24.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_ballot_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_ballot_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_sliderbackground.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/sliderbackground.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_rectangle.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/rectangle.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_rectangle.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/rectangle.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_baseline_volunteer_activism_24.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/baseline_volunteer_activism_24.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_contact_phone_rec.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/contact_phone_rec.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_ballot_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_ballot_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_welcome3.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_welcome3.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_ballot_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_ballot_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_autopicture.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/autopicture.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_medical_information_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_medical_information_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_autoevaluation.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_autoevaluation.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_ballot_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_ballot_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_medical_information_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_medical_information_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_ballot_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_ballot_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_volunteer_activism_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_volunteer_activism_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_vector_2.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/vector_2.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_douleur_forte.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/douleur_forte.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_sliderbackground.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/sliderbackground.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_ballot_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_ballot_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_ballot_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_ballot_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_medical_information_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_medical_information_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_volunteer_activism_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_volunteer_activism_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_volunteer_activism_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_volunteer_activism_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_ellipse_15.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/ellipse_15.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_medical_information_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_medical_information_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_help.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/help.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_ellipse_10.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/ellipse_10.png"
+    },
+    {
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_volunteer_activism_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_volunteer_activism_black_48.png"
+    },
+    {
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_home_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_home_black_48.png"
+    },
+    {
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_question_mark.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/question_mark.png"
+    },
+    {
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_ballot_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_ballot_black_20.png"
+    },
+    {
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_volunteer_activism_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_volunteer_activism_black_20.png"
+    },
+    {
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_sos.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_sos.xml"
     },
     {
         "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_profil.xml.flat",
         "source": "com.example.premiertry.app-main-40:/layout/activity_profil.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_home_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_home_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_home_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_home_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_home_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_home_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_auto_eval.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/auto_eval.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_vector__1_.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/vector__1_.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_medical_information_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_medical_information_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_medical_information_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_medical_information_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_medical_information_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_medical_information_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_contact_rec.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/contact_rec.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_contact_rec.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/contact_rec.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_home_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_home_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_sliderbackground.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/sliderbackground.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_volunteer_activism_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_volunteer_activism_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_home_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_home_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_home_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_home_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_vector_2.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/vector_2.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_contact_phone.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/contact_phone.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_ballot_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_ballot_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_baseline_medical_information_20.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/baseline_medical_information_20.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_menu.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/menu.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_home_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_home_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/ic_home_black_24dp.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_group_5.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/group_5.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_ballot_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_ballot_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_volunteer_activism_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_volunteer_activism_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_ballot_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_ballot_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_history.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/history.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_addinfo.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/addinfo.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_home_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_home_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_medical_information_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_medical_information_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_autopicture.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/autopicture.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_portfolio.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/activity_portfolio.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_line4.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/line4.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_home_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_home_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_sliderbackground.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/sliderbackground.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_ballot_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_ballot_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_home_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_home_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.premiertry.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_medical_information_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_medical_information_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_medical_information_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_medical_information_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_blood.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/blood.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.premiertry.app-pngs-33:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_medical_information_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_medical_information_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/xml/data_extraction_rules.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_home_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_home_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_autopicture.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/autopicture.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_fragment_home.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/fragment_home.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_volunteer_activism_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_volunteer_activism_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_line4.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/line4.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_ellipse_13.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/ellipse_13.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_ballot_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_ballot_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_home_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_home_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_addinfo.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/addinfo.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_groups_list_button.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/groups_list_button.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_home_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_home_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_autoevaluation.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/autoevaluation.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_medical_information_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_medical_information_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_home_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_home_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_volunteer_activism_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_volunteer_activism_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_blood.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/blood.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_baseline_volunteer_activism_24.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/baseline_volunteer_activism_24.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_ballot_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_ballot_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_adress_rec.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/adress_rec.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_volunteer_activism_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_volunteer_activism_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_volunteer_activism_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_volunteer_activism_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_welcome2.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/activity_welcome2.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_phone.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/phone.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_volunteer_activism_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_volunteer_activism_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_feel_good.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/feel_good.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_vector.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/vector.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_medical_information_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_medical_information_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.premiertry.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_ballot_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_ballot_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_volunteer_activism_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_volunteer_activism_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_medical_information_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_medical_information_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_feel_good.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/feel_good.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_ballot_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-pngs-33:/drawable-xxhdpi/baseline_ballot_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_ballot_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_ballot_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_groups_list_button__5_.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/groups_list_button__5_.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_contact_phone_rec.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/contact_phone_rec.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_baseline_volunteer_activism_20.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/baseline_volunteer_activism_20.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_home_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_home_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_group_8.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/group_8.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-ldpi_baseline_ballot_24.png.flat",
-        "source": "com.example.premiertry.app-pngs-33:/drawable-ldpi/baseline_ballot_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_portfolio.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_portfolio.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.premiertry.app-main-40:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_ballot_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_ballot_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_home_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_home_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_signup.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_signup.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_ballot_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_ballot_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_ballot_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_ballot_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_home_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_home_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_ballot_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_ballot_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_ballot_24.png.flat",
-        "source": "com.example.premiertry.app-pngs-33:/drawable-xhdpi/baseline_ballot_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_volunteer_activism_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_volunteer_activism_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_volunteer_activism_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_volunteer_activism_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_profil_person.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/profil_person.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_medical_information_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_medical_information_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_autopicture.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/autopicture.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_profil_pic.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/profil_pic.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_portefolio.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/portefolio.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_home_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_home_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_medical_information_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_medical_information_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.example.premiertry.app-main-40:/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_sliderbackground.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/sliderbackground.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_group_6.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/group_6.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_welcome1.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_welcome1.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_phone_rec.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/phone_rec.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_volunteer_activism_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_volunteer_activism_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_fragment_home.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/fragment_home.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_home_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_home_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_line4.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/line4.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_home_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_home_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_ballot_24.png.flat",
-        "source": "com.example.premiertry.app-pngs-33:/drawable-mdpi/baseline_ballot_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_home_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/baseline_home_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_baseline_medical_information_24.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/baseline_medical_information_24.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_contact_phone.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/contact_phone.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_phone.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/phone.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_blood.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/blood.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_autopicture.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/autopicture.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-hdpi_addinfo.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-hdpi/addinfo.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_medical_information_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_medical_information_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_volunteer_activism_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_volunteer_activism_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/menu_bottom_nav_menu.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/menu/bottom_nav_menu.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_contact_person.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/contact_person.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_calendar_cell.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/calendar_cell.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_addinfo.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/addinfo.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_profil_rec.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/profil_rec.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_medical_information_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_medical_information_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_home_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_home_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_volunteer_activism_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_volunteer_activism_black_24.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_medical_information_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_medical_information_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_ballot_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_ballot_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_signin.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_signin.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_wiouwou.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/wiouwou.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_home_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_home_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_addinfo.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/addinfo.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/layout_activity_welcome2.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/layout/activity_welcome2.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_autopicture.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/autopicture.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_volunteer_activism_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_volunteer_activism_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_profil_rec.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/profil_rec.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_medical_information_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_medical_information_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_main.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/activity_main.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_volunteer_activism_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_volunteer_activism_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_home_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_home_black_48.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_medical_information_black_20.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_medical_information_black_20.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.example.premiertry.app-main-40:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_ballot_black_36.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_ballot_black_36.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_blood.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/blood.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_medical_information_black_18.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_medical_information_black_18.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_volunteer_activism_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_volunteer_activism_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_medical_information_black_36.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_medical_information_black_36.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_baseline_home_20.xml.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/baseline_home_20.xml"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_ballot_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-mdpi/baseline_ballot_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_addinfo.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/addinfo.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_group__1_.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/group__1_.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_ballot_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-pngs-33:/drawable-mdpi/baseline_ballot_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_volunteer_activism_black_20.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_volunteer_activism_black_20.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-mdpi_baseline_home_black_24.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-mdpi/baseline_home_black_24.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_ic_notifications_black_24dp.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/ic_notifications_black_24dp.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_addinfo.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxhdpi/addinfo.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_group_7.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/group_7.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_profil_pic.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/profil_pic.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_welcome3.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/activity_welcome3.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_group_7.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/group_7.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xhdpi_baseline_home_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xhdpi/baseline_home_black_18.png"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_ballot_black_48.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_ballot_black_48.png"
     },
     {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-hdpi_baseline_ballot_black_48.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-hdpi/baseline_ballot_black_48.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable_baseline_home_20.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable/baseline_home_20.xml"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxxhdpi_baseline_volunteer_activism_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxxhdpi/baseline_volunteer_activism_black_18.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_home_black_24.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_home_black_24.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-38:/drawable-xxhdpi_baseline_medical_information_black_18.png.flat",
-        "source": "com.example.premiertry.app-main-40:/drawable-xxhdpi/baseline_medical_information_black_18.png"
-    },
-    {
-        "merged": "com.example.premiertry.app-merged_res-38:/layout_activity_history.xml.flat",
-        "source": "com.example.premiertry.app-main-40:/layout/activity_history.xml"
+        "merged": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-merged_res-38:/drawable_wiouwou.png.flat",
+        "source": "/Users/nesrina/.gradle/daemon/7.3.3/com.example.premiertry.app-main-40:/drawable/wiouwou.png"
     }
 ]

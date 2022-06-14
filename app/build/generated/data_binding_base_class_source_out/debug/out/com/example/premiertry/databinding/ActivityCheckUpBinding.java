@@ -34,9 +34,6 @@ public final class ActivityCheckUpBinding implements ViewBinding {
   public final ImageView imageView34;
 
   @NonNull
-  public final ImageView imageView35;
-
-  @NonNull
   public final ImageView imageView36;
 
   @NonNull
@@ -45,19 +42,30 @@ public final class ActivityCheckUpBinding implements ViewBinding {
   @NonNull
   public final ImageView imageView4;
 
+  @NonNull
+  public final TextView textView17;
+
+  @NonNull
+  public final TextView textView19;
+
+  @NonNull
+  public final TextView textView20;
+
   private ActivityCheckUpBinding(@NonNull ScrollView rootView, @NonNull TextView Checkup,
       @NonNull ImageButton goback, @NonNull ImageView imageView2, @NonNull ImageView imageView34,
-      @NonNull ImageView imageView35, @NonNull ImageView imageView36,
-      @NonNull ImageView imageView39, @NonNull ImageView imageView4) {
+      @NonNull ImageView imageView36, @NonNull ImageView imageView39, @NonNull ImageView imageView4,
+      @NonNull TextView textView17, @NonNull TextView textView19, @NonNull TextView textView20) {
     this.rootView = rootView;
     this.Checkup = Checkup;
     this.goback = goback;
     this.imageView2 = imageView2;
     this.imageView34 = imageView34;
-    this.imageView35 = imageView35;
     this.imageView36 = imageView36;
     this.imageView39 = imageView39;
     this.imageView4 = imageView4;
+    this.textView17 = textView17;
+    this.textView19 = textView19;
+    this.textView20 = textView20;
   }
 
   @Override
@@ -111,12 +119,6 @@ public final class ActivityCheckUpBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.imageView35;
-      ImageView imageView35 = ViewBindings.findChildViewById(rootView, id);
-      if (imageView35 == null) {
-        break missingId;
-      }
-
       id = R.id.imageView36;
       ImageView imageView36 = ViewBindings.findChildViewById(rootView, id);
       if (imageView36 == null) {
@@ -135,8 +137,26 @@ public final class ActivityCheckUpBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.textView17;
+      TextView textView17 = ViewBindings.findChildViewById(rootView, id);
+      if (textView17 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView19;
+      TextView textView19 = ViewBindings.findChildViewById(rootView, id);
+      if (textView19 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView20;
+      TextView textView20 = ViewBindings.findChildViewById(rootView, id);
+      if (textView20 == null) {
+        break missingId;
+      }
+
       return new ActivityCheckUpBinding((ScrollView) rootView, Checkup, goback, imageView2,
-          imageView34, imageView35, imageView36, imageView39, imageView4);
+          imageView34, imageView36, imageView39, imageView4, textView17, textView19, textView20);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

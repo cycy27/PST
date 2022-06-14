@@ -6,10 +6,10 @@
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.191" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.191" />
         <entry key="app/src/main/res/layout/activity_autoevaluation.xml" value="0.5" />
-        <entry key="app/src/main/res/layout/activity_check_up.xml" value="0.3421875" />
+        <entry key="app/src/main/res/layout/activity_check_up.xml" value="0.26211180124223604" />
         <entry key="app/src/main/res/layout/activity_help.xml" value="0.182518115942029" />
         <entry key="app/src/main/res/layout/activity_history.xml" value="0.17395833333333333" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1828125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.269219970703125" />
         <entry key="app/src/main/res/layout/activity_profil.xml" value="0.31658935546874994" />
         <entry key="app/src/main/res/layout/activity_protfolio.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_signin.xml" value="0.5447941888619855" />
