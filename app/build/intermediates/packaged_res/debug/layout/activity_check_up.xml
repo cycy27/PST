@@ -113,15 +113,15 @@
 
         <ImageButton
             android:id="@+id/imageView33"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="67dp"
+            android:layout_height="69dp"
             android:layout_marginEnd="32dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.639"
+            app:layout_constraintHorizontal_bias="0.203"
             app:layout_constraintStart_toEndOf="@+id/imageView37"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.989"
+            app:layout_constraintVertical_bias="0.99"
             app:srcCompat="@drawable/personal_list" />
 
         <ImageButton
@@ -130,23 +130,23 @@
             android:layout_height="71dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.524"
+            app:layout_constraintHorizontal_bias="0.348"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.993"
+            app:layout_constraintVertical_bias="0.991"
             app:srcCompat="@drawable/checkupicon" />
 
         <ImageButton
             android:id="@+id/imageView38"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="64dp"
+            android:layout_height="70dp"
             android:layout_marginStart="28dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toStartOf="@+id/imageView37"
-            app:layout_constraintHorizontal_bias="0.419"
+            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.993"
+            app:layout_constraintVertical_bias="0.992"
             app:srcCompat="@drawable/homeicon" />
 
         <TextView

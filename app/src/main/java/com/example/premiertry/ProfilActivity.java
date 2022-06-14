@@ -66,10 +66,6 @@ public class ProfilActivity extends AppCompatActivity {
                 }
                 //boolean done= dataBaseHelper.addOneProfil(profil);
 
-
-                Toast.makeText(ProfilActivity.this,
-                        profilSexButton.getText(), Toast.LENGTH_SHORT).show();
-
                 openMain();
             }
 

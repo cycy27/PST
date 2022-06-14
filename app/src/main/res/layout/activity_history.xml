@@ -218,14 +218,14 @@
 
     <ImageButton
         android:id="@+id/imageView37"
-        android:layout_width="75dp"
-        android:layout_height="71dp"
+        android:layout_width="76dp"
+        android:layout_height="74dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.524"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.993"
+        app:layout_constraintVertical_bias="0.98"
         app:srcCompat="@drawable/checkupicon" />
 
     <ImageButton

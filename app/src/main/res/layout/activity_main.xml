@@ -145,11 +145,10 @@
         app:srcCompat="@drawable/group_7" />
 
 
-
     <ImageButton
         android:id="@+id/imageView33"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="74dp"
+        android:layout_height="62dp"
         android:layout_marginEnd="32dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -161,8 +160,8 @@
 
     <ImageButton
         android:id="@+id/imageView37"
-        android:layout_width="75dp"
-        android:layout_height="71dp"
+        android:layout_width="78dp"
+        android:layout_height="65dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.524"
@@ -173,8 +172,8 @@
 
     <ImageButton
         android:id="@+id/imageView38"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="77dp"
+        android:layout_height="68dp"
         android:layout_marginStart="28dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/imageView37"

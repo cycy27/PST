@@ -48,7 +48,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
     public static final String COLUMN_PAIN_LEVEL ="PAIN_LEVEL";
     public static final String COLUMN_HEAD_ACHE ="HEAD_ACHE";
-    public static final String COLUMN_OUT_OF_BREATH ="OUT_OF_BREATH";
+    public static final String COLUMN_OUT_OF_BREATH ="UT_OF_BREATH";
     public static final String COLUMN_STIFF ="STIFF";
     public static final String COLUMN_CHEST_PAIN ="CHEST_PAIN";
     public static final String COLUMN_FAINT ="FAINT";
