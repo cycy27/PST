@@ -86,19 +86,6 @@
             app:srcCompat="@drawable/group_8" />
 
         <ImageView
-            android:id="@+id/imageView35"
-            android:layout_width="371dp"
-            android:layout_height="89dp"
-            android:contentDescription="@string/temperature"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.6"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.866"
-            app:srcCompat="@drawable/group_3" />
-
-        <ImageView
             android:id="@+id/imageView36"
             android:layout_width="401dp"
             android:layout_height="91dp"
@@ -108,7 +95,7 @@
             app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.279"
+            app:layout_constraintVertical_bias="0.269"
             app:srcCompat="@drawable/group_5" />
 
         <ImageView
@@ -161,6 +148,40 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.993"
             app:srcCompat="@drawable/homeicon" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Systolic : 112"
+            android:textSize="48sp"
+            app:layout_constraintBottom_toTopOf="@+id/imageView39"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView36" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="70-99%"
+            android:textSize="48sp"
+            app:layout_constraintBottom_toTopOf="@+id/imageView34"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView39" />
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="67-126 bpm"
+            android:textSize="48sp"
+            app:layout_constraintBottom_toTopOf="@+id/imageView37"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView34"
+            app:layout_constraintVertical_bias="0.192" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>

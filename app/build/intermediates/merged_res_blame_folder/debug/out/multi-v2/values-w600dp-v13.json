@@ -4,13 +4,13 @@
             "outputFile": "com.example.premiertry.app-mergeDebugResources-36:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\chris\\Documents\\GitHub\\PST\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "source": "/Users/nesrina/StudioProjects/PST/app/src/main/res/values-w600dp/dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "1",
-                        "startOffsets": "14",
+                        "startOffsets": "13",
                         "endColumns": "54",
-                        "endOffsets": "67"
+                        "endOffsets": "66"
                     },
                     "to": {
                         "startLines": "2",
