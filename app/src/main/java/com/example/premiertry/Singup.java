@@ -55,7 +55,7 @@ public class Singup extends AppCompatActivity {
 
                     }
                     boolean done= dataBaseHelper.addOneUser(user);
-                    //dataBaseHelper.onUpgrade(dataBaseHelper.getWritableDatabase(),1,2);
+                    dataBaseHelper.onUpgrade(dataBaseHelper.getWritableDatabase(),1,2);
                     if(!done)
                         Toast.makeText(Singup.this, "Error adding to Database!",Toast.LENGTH_SHORT).show();
                     else
@@ -125,6 +125,7 @@ public class Singup extends AppCompatActivity {
 
     public void openWelcome3(){
         Intent intent = new Intent(this, Welcome3.class);
+        //intent.putExtra("userID",)
         startActivity(intent);
     }
 

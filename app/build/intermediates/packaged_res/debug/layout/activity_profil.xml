@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -13,6 +14,8 @@
         android:foregroundTint="#390808"
         android:textAlignment="center"
         tools:context=".ProfilActivity">
+
+
 
         <ImageView
             android:id="@+id/imageView11"
@@ -29,12 +32,13 @@
             android:id="@+id/imageView12"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="140dp"
+            android:layout_marginTop="148dp"
+            android:contentDescription="todo2"
             android:src="@drawable/profil_rec"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.513"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/imageView11"
-            android:contentDescription="todo2" />
+            app:layout_constraintTop_toTopOf="@+id/imageView11" />
 
         <TextView
             android:id="@+id/textView2"
@@ -202,26 +206,15 @@
             app:layout_constraintStart_toStartOf="@+id/imageView17"
             app:layout_constraintTop_toTopOf="@+id/imageView17" />
 
-        <Spinner
-            android:id="@+id/spinner"
-            android:layout_width="60dp"
-            android:layout_height="20dp"
-            android:layout_marginTop="12dp"
-            android:background="#FFFF"
-            app:layout_constraintEnd_toEndOf="@+id/imageView17"
-            app:layout_constraintHorizontal_bias="0.507"
-            app:layout_constraintStart_toStartOf="@+id/imageView17"
-            app:layout_constraintTop_toBottomOf="@+id/textView7"
-            tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck,TouchTargetSizeCheck,TouchTargetSizeCheck" />
-
         <ImageView
             android:id="@+id/imageView18"
             android:layout_width="129dp"
             android:layout_height="80dp"
-            android:layout_marginEnd="44dp"
             android:layout_marginTop="20dp"
             android:src="@drawable/age_rec"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.843"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/editTextPhone" />
 
         <TextView
@@ -236,17 +229,6 @@
             app:layout_constraintEnd_toEndOf="@+id/imageView18"
             app:layout_constraintStart_toStartOf="@+id/imageView18"
             app:layout_constraintTop_toTopOf="@+id/imageView18" />
-
-        <Spinner
-            android:id="@+id/spinner1"
-            android:layout_width="60dp"
-            android:layout_height="20dp"
-            android:background="#fff"
-            app:layout_constraintBottom_toBottomOf="@+id/imageView18"
-            app:layout_constraintEnd_toEndOf="@+id/imageView18"
-            app:layout_constraintStart_toStartOf="@+id/imageView18"
-            app:layout_constraintTop_toBottomOf="@+id/textView8"
-            tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck,TouchTargetSizeCheck,TouchTargetSizeCheck" />
 
         <ImageView
             android:id="@+id/imageView19"
@@ -271,26 +253,17 @@
             app:layout_constraintStart_toStartOf="@+id/imageView19"
             app:layout_constraintTop_toTopOf="@+id/imageView19" />
 
-        <Spinner
-            android:id="@+id/spinner2"
-            android:layout_width="60dp"
-            android:layout_height="48dp"
-            android:layout_marginTop="12dp"
-            android:background="#fff"
-            android:contentDescription="@string/edit"
-            app:layout_constraintEnd_toEndOf="@+id/imageView19"
-            app:layout_constraintStart_toStartOf="@+id/imageView19"
-            app:layout_constraintTop_toBottomOf="@+id/textView9" />
-
         <ImageView
             android:id="@+id/imageView20"
             android:layout_width="129dp"
             android:layout_height="80dp"
             android:layout_marginStart="48dp"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="512dp"
             android:src="@drawable/age_rec"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.072"
             app:layout_constraintStart_toEndOf="@+id/imageView19"
-            app:layout_constraintTop_toBottomOf="@+id/imageView18" />
+            app:layout_constraintTop_toBottomOf="@+id/imageView12" />
 
         <TextView
             android:id="@+id/textView10"
@@ -305,17 +278,6 @@
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="@+id/imageView20"
             app:layout_constraintTop_toTopOf="@+id/imageView20" />
-
-        <Spinner
-            android:id="@+id/spinner3"
-            android:layout_width="60dp"
-            android:layout_height="20dp"
-            android:layout_marginTop="12dp"
-            android:background="#fff"
-            app:layout_constraintEnd_toEndOf="@+id/imageView20"
-            app:layout_constraintStart_toStartOf="@+id/imageView20"
-            app:layout_constraintTop_toBottomOf="@+id/textView10"
-            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
 
         <ImageView
             android:id="@+id/imageView21"
@@ -400,9 +362,9 @@
             android:id="@+id/imageView23"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
             android:src="@drawable/red_container"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.505"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/editTextPhone2" />
 
@@ -420,57 +382,138 @@
             app:layout_constraintTop_toTopOf="@+id/imageView23"
             />
 
-        <CheckBox
-            android:id="@+id/checkBox"
-            android:layout_width="68dp"
-            android:layout_height="39dp"
-            android:text="Oui"
-            android:textColor="#FFF"
-            android:textSize="18dp"
-            app:layout_constraintEnd_toEndOf="@+id/imageView23"
-            app:layout_constraintHorizontal_bias="0.619"
-            app:layout_constraintStart_toStartOf="@+id/textView13"
-            app:layout_constraintTop_toTopOf="@+id/imageView23" />
-        <CheckBox
-            android:id="@+id/checkBox1"
-            android:layout_width="68dp"
-            android:layout_height="39dp"
-            android:text="Non"
-            android:textColor="#FFF"
-            android:textSize="18sp"
-            app:layout_constraintEnd_toEndOf="@+id/imageView23"
-            app:layout_constraintHorizontal_bias="0.919"
-            app:layout_constraintStart_toStartOf="@+id/textView13"
-            app:layout_constraintTop_toTopOf="@+id/imageView23" />
-
         <ImageButton
-            android:id="@+id/imageButton11"
+            android:id="@+id/helpButton"
             android:layout_width="152dp"
-            android:layout_height="30dp"
+            android:layout_height="48dp"
             android:layout_marginTop="50dp"
+            android:contentDescription="@string/help"
             android:src="@drawable/help"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.159"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/imageView23"
-            app:layout_constraintVertical_bias="0.0"
-            android:contentDescription="TODO" />
+            app:layout_constraintVertical_bias="0.0" />
 
         <ImageButton
-            android:id="@+id/imageButton21"
+            android:id="@+id/submitbutton"
             android:layout_width="150dp"
-            android:layout_height="30dp"
+            android:layout_height="48dp"
             android:layout_marginTop="50dp"
+            android:contentDescription="todo3"
             android:src="@drawable/submit"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.574"
-            app:layout_constraintStart_toEndOf="@+id/imageButton11"
             app:layout_constraintTop_toBottomOf="@+id/imageView23"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <EditText
+            android:id="@+id/editTextNumber2"
+            android:layout_width="81dp"
+            android:layout_height="48dp"
+            android:backgroundTint="@color/white"
+            android:ems="10"
+            android:hint=""
+            android:inputType="number"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView17"
+            app:layout_constraintEnd_toEndOf="@+id/imageView17"
+            app:layout_constraintHorizontal_bias="0.714"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView7"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <EditText
+            android:id="@+id/editTextNumber"
+            android:layout_width="81dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="52dp"
+            android:backgroundTint="@color/white"
+            android:ems="10"
+            android:hint=""
+            android:inputType="number"
+
+            app:layout_constraintEnd_toEndOf="@+id/imageView19"
+            app:layout_constraintHorizontal_bias="0.479"
+            app:layout_constraintStart_toStartOf="@+id/imageView19"
+            app:layout_constraintTop_toBottomOf="@+id/editTextNumber2" />
+
+        <EditText
+            android:id="@+id/editTextNumber4"
+            android:layout_width="81dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="36dp"
+            android:backgroundTint="@color/white"
+            android:ems="10"
+            android:hint=""
+            android:inputType="number"
+            app:layout_constraintEnd_toEndOf="@+id/imageView20"
+            app:layout_constraintHorizontal_bias="0.541"
+            app:layout_constraintStart_toStartOf="@+id/imageView20"
+            app:layout_constraintTop_toTopOf="@+id/imageView20" />
+
+        <RadioGroup
+            android:id="@+id/sex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="15dp"
+            app:layout_constraintBottom_toTopOf="@+id/imageView21"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.85"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.84"
+            tools:ignore="MissingConstraints">
+
+            <RadioButton
+                android:id="@+id/Femme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="10dp"
+                android:text="F"
+                android:textColor="@color/white" />
+
+            <RadioButton
+                android:id="@+id/Homme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="10dp"
+                android:text="H"
+                android:textColor="@color/white" />
+        </RadioGroup>
+
+        <RadioGroup
+            android:id="@+id/smoking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="696dp"
+            android:orientation="horizontal"
+
+            android:padding="15dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.913"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editTextTextMultiLine"
             app:layout_constraintVertical_bias="0.0"
-            android:contentDescription="todo3" />
+            tools:ignore="MissingConstraints">
 
+            <RadioButton
+                android:id="@+id/oui"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="10dp"
+                android:text="oui"
+                android:textColor="@color/white" />
 
+            <RadioButton
+                android:id="@+id/Non"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="10dp"
+                android:text="Non"
+                android:textColor="@color/white" />
+        </RadioGroup>
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>

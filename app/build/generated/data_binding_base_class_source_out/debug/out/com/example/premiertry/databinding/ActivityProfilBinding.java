@@ -4,12 +4,12 @@ package com.example.premiertry.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
 import android.widget.ScrollView;
-import android.widget.Spinner;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -25,10 +25,22 @@ public final class ActivityProfilBinding implements ViewBinding {
   private final ScrollView rootView;
 
   @NonNull
-  public final CheckBox checkBox;
+  public final RadioButton Femme;
 
   @NonNull
-  public final CheckBox checkBox1;
+  public final RadioButton Homme;
+
+  @NonNull
+  public final RadioButton Non;
+
+  @NonNull
+  public final EditText editTextNumber;
+
+  @NonNull
+  public final EditText editTextNumber2;
+
+  @NonNull
+  public final EditText editTextNumber4;
 
   @NonNull
   public final EditText editTextPhone;
@@ -46,10 +58,7 @@ public final class ActivityProfilBinding implements ViewBinding {
   public final EditText editTextTextPersonName;
 
   @NonNull
-  public final ImageButton imageButton11;
-
-  @NonNull
-  public final ImageButton imageButton21;
+  public final ImageButton helpButton;
 
   @NonNull
   public final ImageView imageView11;
@@ -88,16 +97,16 @@ public final class ActivityProfilBinding implements ViewBinding {
   public final ImageView imageView23;
 
   @NonNull
-  public final Spinner spinner;
+  public final RadioButton oui;
 
   @NonNull
-  public final Spinner spinner1;
+  public final RadioGroup sex;
 
   @NonNull
-  public final Spinner spinner2;
+  public final RadioGroup smoking;
 
   @NonNull
-  public final Spinner spinner3;
+  public final ImageButton submitbutton;
 
   @NonNull
   public final TextView textView10;
@@ -132,32 +141,36 @@ public final class ActivityProfilBinding implements ViewBinding {
   @NonNull
   public final TextView textView9;
 
-  private ActivityProfilBinding(@NonNull ScrollView rootView, @NonNull CheckBox checkBox,
-      @NonNull CheckBox checkBox1, @NonNull EditText editTextPhone,
-      @NonNull EditText editTextPhone2, @NonNull EditText editTextTextEmailAddress,
-      @NonNull EditText editTextTextMultiLine, @NonNull EditText editTextTextPersonName,
-      @NonNull ImageButton imageButton11, @NonNull ImageButton imageButton21,
+  private ActivityProfilBinding(@NonNull ScrollView rootView, @NonNull RadioButton Femme,
+      @NonNull RadioButton Homme, @NonNull RadioButton Non, @NonNull EditText editTextNumber,
+      @NonNull EditText editTextNumber2, @NonNull EditText editTextNumber4,
+      @NonNull EditText editTextPhone, @NonNull EditText editTextPhone2,
+      @NonNull EditText editTextTextEmailAddress, @NonNull EditText editTextTextMultiLine,
+      @NonNull EditText editTextTextPersonName, @NonNull ImageButton helpButton,
       @NonNull ImageView imageView11, @NonNull ImageView imageView12,
       @NonNull ImageView imageView13, @NonNull ImageView imageView15,
       @NonNull ImageView imageView16, @NonNull ImageView imageView17,
       @NonNull ImageView imageView18, @NonNull ImageView imageView19,
       @NonNull ImageView imageView20, @NonNull ImageView imageView21,
-      @NonNull ImageView imageView22, @NonNull ImageView imageView23, @NonNull Spinner spinner,
-      @NonNull Spinner spinner1, @NonNull Spinner spinner2, @NonNull Spinner spinner3,
+      @NonNull ImageView imageView22, @NonNull ImageView imageView23, @NonNull RadioButton oui,
+      @NonNull RadioGroup sex, @NonNull RadioGroup smoking, @NonNull ImageButton submitbutton,
       @NonNull TextView textView10, @NonNull TextView textView11, @NonNull TextView textView12,
       @NonNull TextView textView13, @NonNull TextView textView2, @NonNull TextView textView3,
       @NonNull TextView textView5, @NonNull TextView textView6, @NonNull TextView textView7,
       @NonNull TextView textView8, @NonNull TextView textView9) {
     this.rootView = rootView;
-    this.checkBox = checkBox;
-    this.checkBox1 = checkBox1;
+    this.Femme = Femme;
+    this.Homme = Homme;
+    this.Non = Non;
+    this.editTextNumber = editTextNumber;
+    this.editTextNumber2 = editTextNumber2;
+    this.editTextNumber4 = editTextNumber4;
     this.editTextPhone = editTextPhone;
     this.editTextPhone2 = editTextPhone2;
     this.editTextTextEmailAddress = editTextTextEmailAddress;
     this.editTextTextMultiLine = editTextTextMultiLine;
     this.editTextTextPersonName = editTextTextPersonName;
-    this.imageButton11 = imageButton11;
-    this.imageButton21 = imageButton21;
+    this.helpButton = helpButton;
     this.imageView11 = imageView11;
     this.imageView12 = imageView12;
     this.imageView13 = imageView13;
@@ -170,10 +183,10 @@ public final class ActivityProfilBinding implements ViewBinding {
     this.imageView21 = imageView21;
     this.imageView22 = imageView22;
     this.imageView23 = imageView23;
-    this.spinner = spinner;
-    this.spinner1 = spinner1;
-    this.spinner2 = spinner2;
-    this.spinner3 = spinner3;
+    this.oui = oui;
+    this.sex = sex;
+    this.smoking = smoking;
+    this.submitbutton = submitbutton;
     this.textView10 = textView10;
     this.textView11 = textView11;
     this.textView12 = textView12;
@@ -214,15 +227,39 @@ public final class ActivityProfilBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.checkBox;
-      CheckBox checkBox = ViewBindings.findChildViewById(rootView, id);
-      if (checkBox == null) {
+      id = R.id.Femme;
+      RadioButton Femme = ViewBindings.findChildViewById(rootView, id);
+      if (Femme == null) {
         break missingId;
       }
 
-      id = R.id.checkBox1;
-      CheckBox checkBox1 = ViewBindings.findChildViewById(rootView, id);
-      if (checkBox1 == null) {
+      id = R.id.Homme;
+      RadioButton Homme = ViewBindings.findChildViewById(rootView, id);
+      if (Homme == null) {
+        break missingId;
+      }
+
+      id = R.id.Non;
+      RadioButton Non = ViewBindings.findChildViewById(rootView, id);
+      if (Non == null) {
+        break missingId;
+      }
+
+      id = R.id.editTextNumber;
+      EditText editTextNumber = ViewBindings.findChildViewById(rootView, id);
+      if (editTextNumber == null) {
+        break missingId;
+      }
+
+      id = R.id.editTextNumber2;
+      EditText editTextNumber2 = ViewBindings.findChildViewById(rootView, id);
+      if (editTextNumber2 == null) {
+        break missingId;
+      }
+
+      id = R.id.editTextNumber4;
+      EditText editTextNumber4 = ViewBindings.findChildViewById(rootView, id);
+      if (editTextNumber4 == null) {
         break missingId;
       }
 
@@ -256,15 +293,9 @@ public final class ActivityProfilBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.imageButton11;
-      ImageButton imageButton11 = ViewBindings.findChildViewById(rootView, id);
-      if (imageButton11 == null) {
-        break missingId;
-      }
-
-      id = R.id.imageButton21;
-      ImageButton imageButton21 = ViewBindings.findChildViewById(rootView, id);
-      if (imageButton21 == null) {
+      id = R.id.helpButton;
+      ImageButton helpButton = ViewBindings.findChildViewById(rootView, id);
+      if (helpButton == null) {
         break missingId;
       }
 
@@ -340,27 +371,27 @@ public final class ActivityProfilBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.spinner;
-      Spinner spinner = ViewBindings.findChildViewById(rootView, id);
-      if (spinner == null) {
+      id = R.id.oui;
+      RadioButton oui = ViewBindings.findChildViewById(rootView, id);
+      if (oui == null) {
         break missingId;
       }
 
-      id = R.id.spinner1;
-      Spinner spinner1 = ViewBindings.findChildViewById(rootView, id);
-      if (spinner1 == null) {
+      id = R.id.sex;
+      RadioGroup sex = ViewBindings.findChildViewById(rootView, id);
+      if (sex == null) {
         break missingId;
       }
 
-      id = R.id.spinner2;
-      Spinner spinner2 = ViewBindings.findChildViewById(rootView, id);
-      if (spinner2 == null) {
+      id = R.id.smoking;
+      RadioGroup smoking = ViewBindings.findChildViewById(rootView, id);
+      if (smoking == null) {
         break missingId;
       }
 
-      id = R.id.spinner3;
-      Spinner spinner3 = ViewBindings.findChildViewById(rootView, id);
-      if (spinner3 == null) {
+      id = R.id.submitbutton;
+      ImageButton submitbutton = ViewBindings.findChildViewById(rootView, id);
+      if (submitbutton == null) {
         break missingId;
       }
 
@@ -430,12 +461,13 @@ public final class ActivityProfilBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityProfilBinding((ScrollView) rootView, checkBox, checkBox1, editTextPhone,
-          editTextPhone2, editTextTextEmailAddress, editTextTextMultiLine, editTextTextPersonName,
-          imageButton11, imageButton21, imageView11, imageView12, imageView13, imageView15,
-          imageView16, imageView17, imageView18, imageView19, imageView20, imageView21, imageView22,
-          imageView23, spinner, spinner1, spinner2, spinner3, textView10, textView11, textView12,
-          textView13, textView2, textView3, textView5, textView6, textView7, textView8, textView9);
+      return new ActivityProfilBinding((ScrollView) rootView, Femme, Homme, Non, editTextNumber,
+          editTextNumber2, editTextNumber4, editTextPhone, editTextPhone2, editTextTextEmailAddress,
+          editTextTextMultiLine, editTextTextPersonName, helpButton, imageView11, imageView12,
+          imageView13, imageView15, imageView16, imageView17, imageView18, imageView19, imageView20,
+          imageView21, imageView22, imageView23, oui, sex, smoking, submitbutton, textView10,
+          textView11, textView12, textView13, textView2, textView3, textView5, textView6, textView7,
+          textView8, textView9);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -54,7 +54,7 @@ public class SignupActivity extends AppCompatActivity {
 
                     }
                     boolean done= dataBaseHelper.addOneUser(user);
-                    dataBaseHelper.onUpgrade(dataBaseHelper.getWritableDatabase(),1,2);
+                    //dataBaseHelper.onUpgrade(dataBaseHelper.getWritableDatabase(),1,2);
                     if(!done)
                         Toast.makeText(SignupActivity.this, "Error adding to Database!",Toast.LENGTH_SHORT).show();
                     else

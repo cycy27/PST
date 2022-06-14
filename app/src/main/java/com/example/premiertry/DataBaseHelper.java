@@ -17,7 +17,7 @@ import java.util.List;
 
 public class DataBaseHelper extends SQLiteOpenHelper {
 
-    public static final String USER_INFO_TABLE = "user_info";
+    public static final String PROFIL_TABLE = "profil";
     public static final String USER_TABLE = "user";
     public static final String CHECK_UP_TABLE = "check_up";
     public static final String EVALUATION_TABLE = "evaluation";
@@ -27,13 +27,18 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
 
     public static final String COLUMN_USER_ID = "USER_ID";
+    public static final String COLUMN_PROFIL_ID = "PROFIL_ID";
     public static final String COLUMN_EMAIL = "EMAIL";
     public static final String COLUMN_PASSWORD = "PASSWORD";
     public static final String COLUMN_NAME = "NAME";
 
+
+
     public static final String COLUMN_PHONE_NUMBER = "PHONE_NUMBER";
     public static final String COLUMN_AGE = "AGE";
     public static final String COLUMN_SEX = "SEX";
+    //public static final String COLUMN_SEX = "SEX";
+
 
     public static final String COLUMN_DATE = "DATE_TIME";
     public static final String COLUMN_BLOOD_PRESSURE = "BLOOD_PRESSURE";
@@ -43,16 +48,21 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
     public static final String COLUMN_PAIN_LEVEL ="PAIN_LEVEL";
     public static final String COLUMN_HEAD_ACHE ="HEAD_ACHE";
-    public static final String COLUMN_OUT_OF_BREATH ="UT_OF_BREATH";
-    public static final String COLUMN_STIFF ="STIFF ";
-    public static final String COLUMN_CHEST_PAIN ="CHEST_PAIN ";
+    public static final String COLUMN_OUT_OF_BREATH ="OUT_OF_BREATH";
+    public static final String COLUMN_STIFF ="STIFF";
+    public static final String COLUMN_CHEST_PAIN ="CHEST_PAIN";
     public static final String COLUMN_FAINT ="FAINT";
     public static final String COLUMN_COUGH ="COUGH";
     public static final String COLUMN_OTHER="OTHER";
 
     public static final String COLUMN_FAMILY_USER_ID="FAMILY_USER_ID";
-
-
+    private static final String COLUMN_CONTACT_NUMBER = "CONTACT_NUMBER";
+    private static final String COLUMN_NUMBER = "NUMBER";
+    private static final String COLUMN_WEIGHT = "WEIGHT" ;
+    private static final String COLUMN_HEIGHT = "HEIGHT";
+    private static final String COLUMN_SMOKING = "SMOKING";
+    private static final String COLUMN_CONTACT_NAME ="CONTACT_NAME" ;
+    private static final String COLUMN_ADRESS = "ADRESS";
 
 
     public DataBaseHelper(@Nullable Context context) {
@@ -84,6 +94,19 @@ public class DataBaseHelper extends SQLiteOpenHelper {
                 COLUMN_COUGH + " CHAR(1), "
                 + COLUMN_OTHER + " VARCHAR(50))";
 
+        String createProfilTable= "CREATE TABLE " + PROFIL_TABLE + " ("
+                + COLUMN_PROFIL_ID + " INTEGER PRIMARY KEY AUTOINCREMENT, "
+                + COLUMN_ADRESS + " VARCHAR(50)," +
+                COLUMN_EMAIL + " VARCHAR(25)," +
+                COLUMN_NUMBER + " VARCHAR(25), " +
+                COLUMN_AGE + " INTEGER, " +
+                COLUMN_WEIGHT + " INTEGER, " +
+                COLUMN_HEIGHT + " INTEGER, " +
+                COLUMN_SEX + " VARCHAR(6), "+
+                COLUMN_SMOKING + " VARCHAR(6), "
+                + COLUMN_CONTACT_NAME + " VARCHAR(25),"
+                + COLUMN_CONTACT_NUMBER + " VARCHAR(25))";
+
         String createFamilyTable= "CREATE TABLE " + FAMILY_TABLE + " (" + COLUMN_FAMILY_USER_ID + " INTEGER PRIMARY KEY AUTOINCREMENT, " + COLUMN_NAME + " VARCHAR(25) not null," +
                 COLUMN_PHONE_NUMBER + " INTEGER not null, "+
                 COLUMN_USER_ID + " VARCHAR(25) not null, "
@@ -94,6 +117,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
         db.execSQL(createCheckupTable);
         db.execSQL(createUserTable);
         db.execSQL(createEvaluationTable);
+        db.execSQL(createProfilTable);
         db.execSQL(createFamilyTable);
 
 
@@ -116,7 +140,20 @@ public class DataBaseHelper extends SQLiteOpenHelper {
             //db.execSQL(createFamilyTable);
             String alterTable= "ALTER TABLE " +EVALUATION_TABLE+
                     " ADD "+COLUMN_OTHER +" VARCHAR(50); ";
-            db.execSQL(alterTable);
+
+            String createProfilTable= "CREATE TABLE " + PROFIL_TABLE + " ("
+                    + COLUMN_PROFIL_ID + " INTEGER PRIMARY KEY AUTOINCREMENT, "
+                    + COLUMN_ADRESS + " VARCHAR(50)," +
+                    COLUMN_EMAIL + " VARCHAR(25)," +
+                    COLUMN_NUMBER + " VARCHAR(25), " +
+                    COLUMN_AGE + " INTEGER, " +
+                    COLUMN_WEIGHT + " INTEGER, " +
+                    COLUMN_HEIGHT + " INTEGER, " +
+                    COLUMN_SEX + " VARCHAR(6), "+
+                    COLUMN_SMOKING + " VARCHAR(6), "
+                    + COLUMN_CONTACT_NAME + " VARCHAR(25),"
+                    + COLUMN_CONTACT_NUMBER + " VARCHAR(25))";
+            db.execSQL(createProfilTable);
 
         }
     }
@@ -150,6 +187,28 @@ public class DataBaseHelper extends SQLiteOpenHelper {
         cv.put(COLUMN_OTHER,eval.getOther());
 
         long insert = db.insert(EVALUATION_TABLE, null, cv);
+        if(insert==-1){
+            return false;
+        }
+
+        return true;
+    }
+
+    public boolean addOneProfil (Profil profil){
+        SQLiteDatabase db = this.getWritableDatabase();
+        ContentValues cv= new ContentValues();
+        cv.put(COLUMN_ADRESS,profil.getAdress());
+        cv.put(COLUMN_EMAIL,profil.getEmail());
+        cv.put(COLUMN_NUMBER,profil.getNumber());
+        cv.put(COLUMN_AGE,profil.getAge());
+        cv.put(COLUMN_WEIGHT,profil.getWeight());
+        cv.put(COLUMN_HEIGHT,profil.getHeight());
+        cv.put(COLUMN_SEX,profil.getSex());
+        cv.put(COLUMN_SMOKING,profil.getSmoking());
+        cv.put(COLUMN_CONTACT_NAME,profil.getContactName());
+        cv.put(COLUMN_CONTACT_NUMBER,profil.getContactNumber());
+
+        long insert = db.insert(PROFIL_TABLE, null, cv);
         if(insert==-1){
             return false;
         }

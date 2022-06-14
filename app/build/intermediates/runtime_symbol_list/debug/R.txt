@@ -1904,9 +1904,12 @@ int id CTRL 0x7f080005
 int id Checkup 0x7f080006
 int id Cough 0x7f080007
 int id FUNCTION 0x7f080008
+int id Femme 0x7f080245
 int id GoBackArrow 0x7f080009
+int id Homme 0x7f080246
 int id META 0x7f08000a
 int id NO_DEBUG 0x7f08000b
+int id Non 0x7f08024c
 int id SHIFT 0x7f08000c
 int id SHOW_ALL 0x7f08000d
 int id SHOW_PATH 0x7f08000e
@@ -2015,8 +2018,6 @@ int id center_horizontal 0x7f080074
 int id center_vertical 0x7f080075
 int id chain 0x7f080076
 int id chains 0x7f080077
-int id checkBox 0x7f080078
-int id checkBox1 0x7f080079
 int id checkbox 0x7f08007a
 int id checked 0x7f08007b
 int id checkup 0x7f08007c
@@ -2076,6 +2077,9 @@ int id dropdown_menu 0x7f0800b1
 int id easeIn 0x7f0800b2
 int id easeInOut 0x7f0800b3
 int id easeOut 0x7f0800b4
+int id editTextNumber 0x7f080247
+int id editTextNumber2 0x7f080248
+int id editTextNumber4 0x7f080249
 int id editTextPhone 0x7f0800b5
 int id editTextPhone2 0x7f0800b6
 int id editTextTextEmailAddress 0x7f0800b7
@@ -2125,6 +2129,7 @@ int id groups 0x7f0800e2
 int id guideline 0x7f0800e3
 int id headache 0x7f0800e4
 int id header_title 0x7f0800e5
+int id helpButton 0x7f080250
 int id hideable 0x7f0800e6
 int id historybutton 0x7f0800e7
 int id hlpbtn 0x7f0800e8
@@ -2139,10 +2144,8 @@ int id ignoreRequest 0x7f0800f0
 int id image 0x7f0800f1
 int id imageButton 0x7f0800f2
 int id imageButton10 0x7f0800f3
-int id imageButton11 0x7f0800f4
 int id imageButton13 0x7f0800f5
 int id imageButton14 0x7f0800f6
-int id imageButton21 0x7f0800f7
 int id imageView 0x7f0800f8
 int id imageView10 0x7f0800f9
 int id imageView11 0x7f0800fa
@@ -2287,6 +2290,7 @@ int id off 0x7f080184
 int id on 0x7f080185
 int id other 0x7f080186
 int id othersymptoms 0x7f080187
+int id oui 0x7f08024d
 int id outline 0x7f080188
 int id outofbreath 0x7f080189
 int id outward 0x7f08018a
@@ -2346,6 +2350,7 @@ int id search_voice_btn 0x7f0801bf
 int id select_dialog_listview 0x7f0801c0
 int id selected 0x7f0801c1
 int id selection_type 0x7f0801c2
+int id sex 0x7f08024e
 int id shortcut 0x7f0801c3
 int id showCustom 0x7f0801c4
 int id showHome 0x7f0801c5
@@ -2355,6 +2360,7 @@ int id skipCollapsed 0x7f0801c8
 int id slide 0x7f0801c9
 int id sliding_pane_detail_container 0x7f0801ca
 int id sliding_pane_layout 0x7f0801cb
+int id smoking 0x7f08024f
 int id snackbar_action 0x7f0801cc
 int id snackbar_text 0x7f0801cd
 int id snap 0x7f0801ce
@@ -2362,10 +2368,6 @@ int id snapMargins 0x7f0801cf
 int id sosbutton 0x7f0801d0
 int id spacer 0x7f0801d1
 int id special_effects_controller_view_tag 0x7f0801d2
-int id spinner 0x7f0801d3
-int id spinner1 0x7f0801d4
-int id spinner2 0x7f0801d5
-int id spinner3 0x7f0801d6
 int id spline 0x7f0801d7
 int id split_action_bar 0x7f0801d8
 int id spread 0x7f0801d9
@@ -2385,6 +2387,7 @@ int id stop 0x7f0801e6
 int id stretch 0x7f0801e7
 int id submenuarrow 0x7f0801e8
 int id submit_area 0x7f0801e9
+int id submitbutton 0x7f080251
 int id tabMode 0x7f0801ea
 int id tag_accessibility_actions 0x7f0801eb
 int id tag_accessibility_clickable_spans 0x7f0801ec
@@ -2653,6 +2656,7 @@ int mipmap ic_launcher 0x7f0d0000
 int mipmap ic_launcher_round 0x7f0d0001
 int navigation mobile_navigation 0x7f0e0000
 int plurals mtrl_badge_content_description 0x7f0f0000
+int string Age 0x7f1000b6
 int string ConsultDoc 0x7f100000
 int string Date 0x7f100001
 int string Email 0x7f100002

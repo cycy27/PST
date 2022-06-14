@@ -1905,9 +1905,12 @@ id CTRL
 id Checkup
 id Cough
 id FUNCTION
+id Femme
 id GoBackArrow
+id Homme
 id META
 id NO_DEBUG
+id Non
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -2016,8 +2019,6 @@ id center_horizontal
 id center_vertical
 id chain
 id chains
-id checkBox
-id checkBox1
 id checkbox
 id checked
 id checkup
@@ -2077,6 +2078,9 @@ id dropdown_menu
 id easeIn
 id easeInOut
 id easeOut
+id editTextNumber
+id editTextNumber2
+id editTextNumber4
 id editTextPhone
 id editTextPhone2
 id editTextTextEmailAddress
@@ -2126,6 +2130,7 @@ id groups
 id guideline
 id headache
 id header_title
+id helpButton
 id hideable
 id historybutton
 id hlpbtn
@@ -2140,10 +2145,8 @@ id ignoreRequest
 id image
 id imageButton
 id imageButton10
-id imageButton11
 id imageButton13
 id imageButton14
-id imageButton21
 id imageView
 id imageView10
 id imageView11
@@ -2288,6 +2291,7 @@ id off
 id on
 id other
 id othersymptoms
+id oui
 id outline
 id outofbreath
 id outward
@@ -2347,6 +2351,7 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selection_type
+id sex
 id shortcut
 id showCustom
 id showHome
@@ -2356,6 +2361,7 @@ id skipCollapsed
 id slide
 id sliding_pane_detail_container
 id sliding_pane_layout
+id smoking
 id snackbar_action
 id snackbar_text
 id snap
@@ -2363,10 +2369,6 @@ id snapMargins
 id sosbutton
 id spacer
 id special_effects_controller_view_tag
-id spinner
-id spinner1
-id spinner2
-id spinner3
 id spline
 id split_action_bar
 id spread
@@ -2386,6 +2388,7 @@ id stop
 id stretch
 id submenuarrow
 id submit_area
+id submitbutton
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -2654,6 +2657,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 navigation mobile_navigation
 plurals mtrl_badge_content_description
+string Age
 string ConsultDoc
 string Date
 string Email

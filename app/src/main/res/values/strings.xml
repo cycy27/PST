@@ -43,14 +43,13 @@
     <string name="checkupbtn">checkupbutton</string>
     <string name="elipse0">elipse0</string>
     <string name="casa">casa</string>
+    <string name="Age">Age</string>
     <string name="editTextLogin">"edit test "</string>
     <!-- BOTTOM NAVIGATION VIEW -->
     <string name="bottom_navigation_menu_home">Home</string>
     <string name="bottom_navigation_menu_checkup">Check-up</string>
     <string name="bottom_navigation_menu_history">History</string>
 
-
-    <!--Christine's addition-->
     <string name="app">CalendarAppExample</string>
     <string name="back"><![CDATA[<-]]></string>
     <string name="forward"><![CDATA[->]]></string>
